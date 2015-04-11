@@ -1,2 +1,2 @@
-# democracy-os-fr.github.io
+# Democracy OS France
 site project
