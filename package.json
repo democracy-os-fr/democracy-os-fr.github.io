@@ -1,0 +1,24 @@
+{
+  "name": "democracy-os-fr.github.io",
+  "version": "1.0.0",
+  "description": "site project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/democracy-os-fr/democracy-os-fr.github.io.git"
+  },
+  "author": "moustachu (moustachu@mgail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/democracy-os-fr/democracy-os-fr.github.io/issues"
+  },
+  "homepage": "https://github.com/democracy-os-fr/democracy-os-fr.github.io",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-bower-normalize": "^1.0.5",
+    "main-bower-files": "^2.6.2"
+  }
+}
