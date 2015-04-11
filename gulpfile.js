@@ -1,5 +1,59 @@
-var gulp = require('gulp');
+var gulp = require('gulp') ;
+var browserSync = require('browser-sync');
+var plugins = require('gulp-load-plugins')();
 
-gulp.task('default', function() {
+var fontFiles = [
+  'bower_components/bootstrap/dist/fonts/*'
+] ;
 
+var jsFiles = [
+  'bower_components/bootstrap/dist/js/bootstrap.min.js',
+  'bower_components/jquery/dist/jquery.min.js'
+] ;
+
+gulp.task('copy-js', function(){
+  return gulp.src(jsFiles)
+    .pipe(gulp.dest('js')) ;
+}) ;
+
+gulp.task('copy-fonts', function(){
+  return gulp.src(fontFiles)
+    .pipe(gulp.dest('fonts')) ;
+}) ;
+
+gulp.task('js', function () {
+  return gulp.src(['js/**/*.js', '!js/**/*.min.js'])
+     .pipe(plugins.jshint())
+     .pipe(plugins.jshint.reporter('default'))
+     .pipe(plugins.concat('app.js'))
+     .pipe(plugins.uglify())
+     .pipe(plugins.rename({ extname: '.min.js' }))
+     .pipe(gulp.dest('js'));
 });
+
+gulp.task('less', function() {
+    return gulp.src(["less/*.less","!less/*.inc.less"])
+        .pipe(plugins.less())
+        .pipe(gulp.dest("css"))
+        .pipe(plugins.minifyCss())
+        .pipe(plugins.rename({ extname: '.min.css' }))
+        .pipe(gulp.dest("css"));
+});
+
+gulp.task('build', ['copy-js','copy-fonts','js','less']);
+
+gulp.task('less-reload', ['less'], browserSync.reload );
+gulp.task('js-reload', ['js'], browserSync.reload );
+
+gulp.task('watch', ['build'], function() {
+
+    browserSync({
+        server: "./"
+    });
+
+    gulp.watch("less/*.less", ['less-reload']);
+    gulp.watch("js/*.js", ['js-reload']);
+    gulp.watch("*.html").on('change', browserSync.reload);
+});
+
+gulp.task('default', ['build']);

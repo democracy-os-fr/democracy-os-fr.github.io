@@ -17,8 +17,14 @@
   },
   "homepage": "https://github.com/democracy-os-fr/democracy-os-fr.github.io",
   "devDependencies": {
+    "browser-sync": "^2.5.3",
     "gulp": "^3.8.11",
-    "gulp-bower-normalize": "^1.0.5",
-    "main-bower-files": "^2.6.2"
+    "gulp-concat": "^2.5.2",
+    "gulp-jshint": "^1.10.0",
+    "gulp-less": "^3.0.2",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-minify-css": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.2.0"
   }
 }
