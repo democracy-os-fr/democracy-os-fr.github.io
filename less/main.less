@@ -1,0 +1,163 @@
+@import (reference) "variables.inc.less" ;
+
+@import "slabtext.inc.less" ;
+@import "typography.inc.less" ;
+
+@import (reference) "../bower_components/bootstrap/less/utilities.less" ;
+@import (reference) "../bower_components/bootstrap/less/mixins.less" ;
+
+body {
+	padding-bottom: 50px ;	
+}
+
+.container {
+	
+	max-width: @screen-md ;
+	min-width: @screen-xs ;
+	padding: 0 40px ;
+
+}
+
+header {
+		
+		height: auto ;
+		background: url('../img/bg-fr.jpg') center center no-repeat transparent ;
+		background-size: cover ;
+	
+	@media (max-width: @screen-sm-max ){ 
+			
+			height: auto ;
+			
+	}
+	
+	.navbar {
+		
+		.navbar-brand img { height: 40px ; }
+		
+		@media (max-width: @screen-sm-max ){  
+			
+			.navbar-brand {
+				
+				display: block ;
+				float: none ;
+				height: auto ;
+				padding-top: 40px ;
+				
+			}
+			
+			.navbar-brand img { height: auto ; } 
+			
+		}
+		
+		
+		
+		a { 
+			
+			color: white ;
+			opacity: 0.8 ;
+			transition: all 400ms ease;
+			border-bottom: 2px solid transparent ; 
+			
+			&:hover { 
+				border-color: white ;
+				background-color: transparent ;
+				opacity: 1 ;
+			}
+			
+		}
+			
+		ul.nav {
+			
+			float: right ;
+			
+			@media (max-width: @screen-sm-max ){  
+				float: none ;
+				text-align: center ;
+			}
+			
+			li {
+				
+				display: inline-block ;
+				
+			}
+			
+			.fa {
+				
+				@icon-height : @navbar-line-height * 0.7 ;
+				
+				font-size: @icon-height ;
+				.navbar-vertical-align( @icon-height + @line-height-computed ) ;
+			
+			}
+			
+		}
+		
+	} // fin .navbar
+	
+	.punch-line{
+			
+			max-width: @screen-sm ;
+			
+			border-radius: 2px ;
+			box-shadow: 0px 1px 6px rgba(0,0,0,0.4) ;
+			
+			background-color: white ;
+			color: extract(@grad-colors,2) ;
+			
+			padding: 25px 50px ;
+			
+			margin: 50px auto 100px ;
+			
+			@media (max-width: @screen-sm-max ){ 
+					margin: 10px auto 60px ;
+			}
+			
+			b {
+				
+				color: extract(@grad-colors,5) ;
+				
+			}
+			
+	}
+	
+}
+
+section.container {
+	
+	//max-width: @screen-sm ;
+	padding: 20px 40px ;
+	
+	h1 {
+		margin-bottom: 35px ;
+	}
+	
+	.feature-box {
+		
+		text-align: center ;
+		margin-bottom: 40px ;
+		
+		& > * {  }
+		
+		.big-icon {
+			display: block ;
+			margin: 15px auto ;
+		}
+		
+		.fa {
+			margin-right: 10px ;
+		}
+		
+		.items {
+			display: inline-block ;
+			* {
+			
+			}
+			
+		}
+		
+	}	
+	
+}
+
+
+
