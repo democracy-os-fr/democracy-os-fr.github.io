@@ -29,7 +29,7 @@ $ gulp
 $ gulp watch
 ```
 
-surveillera les fichiers less et js **ET** mettra à jour votre navigateur à l'adresse ``http://locahost:3001``
+surveillera les fichiers less et js **ET** mettra à jour votre navigateur à l'adresse ``http://locahost:3000``
 
 ### 4 - Nettoyage
 

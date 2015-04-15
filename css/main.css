@@ -1,147 +1,148 @@
-/*
- * Globals
- */
-/* Links */
-a,
-a:focus,
+.slabtexted .slabtext {
+  display: -moz-inline-box;
+  display: inline-block;
+  white-space: nowrap;
+}
+.slabtextinactive .slabtext {
+  display: inline;
+  white-space: normal;
+  font-size: 1em !important;
+  letter-spacing: inherit !important;
+  word-spacing: inherit !important;
+  *letter-spacing: 0 !important;
+  *word-spacing: 0 !important;
+}
+.slabtextdone .slabtext {
+  display: block;
+}
+body {
+  font-weight: 300 ;
+}
+b,
+strong {
+  font-weight: 400 ;
+}
+a {
+  color: inherit ;
+  border-bottom: 1px dotted ;
+}
 a:hover {
-  color: #fff;
+  color: inherit ;
+  text-decoration: none ;
 }
-/* Custom default button */
-.btn-default,
-.btn-default:hover,
-.btn-default:focus {
-  color: #333;
-  text-shadow: none;
-  /* Prevent inheritence from `body` */
-  background-color: #fff;
-  border: 1px solid #fff;
+.text-thin {
+  font-weight: 100 ;
 }
-/*
- * Base structure
- */
-html,
+.cover-heading {
+  font-weight: normal ;
+}
+section p {
+  font-size: 18px ;
+}
+.punch-line {
+  font-family: 'Raleway', sans-serif;
+  font-size: 41px;
+}
+@media (max-width: 991px) {
+  .punch-line,
+  h1 {
+    font-size: 32px;
+  }
+}
 body {
-  height: 100%;
-  background-color: #333;
+  padding-bottom: 50px ;
 }
-body {
-  color: #fff;
-  text-align: center;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+.container {
+  max-width: 992px;
+  min-width: 480px;
+  padding: 0 40px ;
 }
-/* Extra markup and styles for table-esque vertical and horizontal centering */
-.site-wrapper {
-  display: table;
-  width: 100%;
-  height: 100%;
-  /* For at least Firefox */
-  min-height: 100%;
-  -webkit-box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.5);
-  box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.5);
+header {
+  height: auto ;
+  background: url('../img/bg-fr.jpg') center center no-repeat transparent;
+  background-size: cover ;
 }
-.site-wrapper-inner {
-  display: table-cell;
-  vertical-align: top;
+@media (max-width: 991px) {
+  header {
+    height: auto ;
+  }
 }
-.cover-container {
-  margin-right: auto;
-  margin-left: auto;
+header .navbar .navbar-brand img {
+  height: 40px ;
 }
-/* Padding for spacing */
-.inner {
-  padding: 30px;
+@media (max-width: 991px) {
+  header .navbar .navbar-brand {
+    display: block ;
+    float: none ;
+    height: auto ;
+    padding-top: 40px ;
+  }
+  header .navbar .navbar-brand img {
+    height: auto ;
+  }
 }
-/*
- * Header
- */
-.masthead-brand {
-  margin-top: 10px;
-  margin-bottom: 10px;
+header .navbar a {
+  color: white ;
+  opacity: 0.8 ;
+  transition: all 400ms ease;
+  border-bottom: 2px solid transparent ;
 }
-.masthead-nav > li {
+header .navbar a:hover {
+  border-color: white ;
+  background-color: transparent ;
+  opacity: 1 ;
+}
+header .navbar ul.nav {
+  float: right ;
+}
+@media (max-width: 991px) {
+  header .navbar ul.nav {
+    float: none ;
+    text-align: center ;
+  }
+}
+header .navbar ul.nav li {
   display: inline-block;
 }
-.masthead-nav > li + li {
-  margin-left: 20px;
+header .navbar ul.nav .fa {
+  font-size: 28px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
-.masthead-nav > li > a {
-  padding-right: 0;
-  padding-left: 0;
-  font-size: 16px;
-  font-weight: bold;
-  color: #fff;
-  /* IE8 proofing */
-  color: rgba(255, 255, 255, 0.75);
-  border-bottom: 2px solid transparent;
+header .punch-line {
+  max-width: 768px;
+  border-radius: 2px ;
+  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.4);
+  background-color: white ;
+  color: #6f3060;
+  padding: 25px 50px ;
+  margin: 50px auto 100px ;
 }
-.masthead-nav > li > a:hover,
-.masthead-nav > li > a:focus {
-  background-color: transparent;
-  border-bottom-color: #a9a9a9;
-  border-bottom-color: rgba(255, 255, 255, 0.25);
-}
-.masthead-nav > .active > a,
-.masthead-nav > .active > a:hover,
-.masthead-nav > .active > a:focus {
-  color: #fff;
-  border-bottom-color: #fff;
-}
-@media (min-width: 768px) {
-  .masthead-brand {
-    float: left;
-  }
-  .masthead-nav {
-    float: right;
+@media (max-width: 991px) {
+  header .punch-line {
+    margin: 10px auto 60px ;
   }
 }
-/*
- * Cover
- */
-.cover {
-  padding: 0 20px;
+header .punch-line b {
+  color: #ec2939;
 }
-.cover .btn-lg {
-  padding: 10px 20px;
-  font-weight: bold;
+section.container {
+  padding: 20px 40px ;
 }
-/*
- * Footer
- */
-.mastfoot {
-  color: #999;
-  /* IE8 proofing */
-  color: rgba(255, 255, 255, 0.5);
+section.container h1 {
+  margin-bottom: 35px ;
 }
-/*
- * Affix and center
- */
-@media (min-width: 768px) {
-  /* Pull out the header and footer */
-  .masthead {
-    position: fixed;
-    top: 0;
-  }
-  .mastfoot {
-    position: fixed;
-    bottom: 0;
-  }
-  /* Start the vertical centering */
-  .site-wrapper-inner {
-    vertical-align: middle;
-  }
-  /* Handle the widths */
-  .masthead,
-  .mastfoot,
-  .cover-container {
-    width: 100%;
-    /* Must be percentage or pixels for horizontal alignment */
-  }
+section.container .feature-box {
+  text-align: center ;
+  margin-bottom: 40px ;
 }
-@media (min-width: 992px) {
-  .masthead,
-  .mastfoot,
-  .cover-container {
-    width: 700px;
-  }
+section.container .feature-box .big-icon {
+  display: block ;
+  margin: 15px auto ;
+}
+section.container .feature-box .fa {
+  margin-right: 10px ;
+}
+section.container .feature-box .items {
+  display: inline-block;
 }

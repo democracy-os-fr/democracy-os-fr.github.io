@@ -1,165 +1,163 @@
-// Forked from https://github.com/twbs/bootstrap/blob/master/docs/examples/cover/cover.css
+@import (reference) "variables.inc.less" ;
 
-/*
- * Globals
- */
+@import "slabtext.inc.less" ;
+@import "typography.inc.less" ;
 
-/* Links */
-a,
-a:focus,
-a:hover {
-  color: #fff;
-}
+@import (reference) "../bower_components/bootstrap/less/utilities.less" ;
+@import (reference) "../bower_components/bootstrap/less/mixins.less" ;
 
-/* Custom default button */
-.btn-default,
-.btn-default:hover,
-.btn-default:focus {
-  color: #333;
-  text-shadow: none; /* Prevent inheritence from `body` */
-  background-color: #fff;
-  border: 1px solid #fff;
-}
-
-
-/*
- * Base structure
- */
-
-html,
 body {
-  height: 100%;
-  background-color: #333;
-}
-body {
-  color: #fff;
-  text-align: center;
-  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+	padding-bottom: 50px ;	
 }
 
-/* Extra markup and styles for table-esque vertical and horizontal centering */
-.site-wrapper {
-  display: table;
-  width: 100%;
-  height: 100%; /* For at least Firefox */
-  min-height: 100%;
-  -webkit-box-shadow: inset 0 0 100px rgba(0,0,0,.5);
-          box-shadow: inset 0 0 100px rgba(0,0,0,.5);
-}
-.site-wrapper-inner {
-  display: table-cell;
-  vertical-align: top;
-}
-.cover-container {
-  margin-right: auto;
-  margin-left: auto;
+.container {
+	
+	max-width: @screen-md ;
+	min-width: @screen-xs ;
+	padding: 0 40px ;
+
 }
 
-/* Padding for spacing */
-.inner {
-  padding: 30px;
+header {
+		
+		height: auto ;
+		background: url('../img/bg-fr.jpg') center center no-repeat transparent ;
+		background-size: cover ;
+	
+	@media (max-width: @screen-sm-max ){ 
+			
+			height: auto ;
+			
+	}
+	
+	.navbar {
+		
+		.navbar-brand img { height: 40px ; }
+		
+		@media (max-width: @screen-sm-max ){  
+			
+			.navbar-brand {
+				
+				display: block ;
+				float: none ;
+				height: auto ;
+				padding-top: 40px ;
+				
+			}
+			
+			.navbar-brand img { height: auto ; } 
+			
+		}
+		
+		
+		
+		a { 
+			
+			color: white ;
+			opacity: 0.8 ;
+			transition: all 400ms ease;
+			border-bottom: 2px solid transparent ; 
+			
+			&:hover { 
+				border-color: white ;
+				background-color: transparent ;
+				opacity: 1 ;
+			}
+			
+		}
+			
+		ul.nav {
+			
+			float: right ;
+			
+			@media (max-width: @screen-sm-max ){  
+				float: none ;
+				text-align: center ;
+			}
+			
+			li {
+				
+				display: inline-block ;
+				
+			}
+			
+			.fa {
+				
+				@icon-height : @navbar-line-height * 0.7 ;
+				
+				font-size: @icon-height ;
+				.navbar-vertical-align( @icon-height + @line-height-computed ) ;
+			
+			}
+			
+		}
+		
+	} // fin .navbar
+	
+	.punch-line{
+			
+			max-width: @screen-sm ;
+			
+			border-radius: 2px ;
+			box-shadow: 0px 1px 6px rgba(0,0,0,0.4) ;
+			
+			background-color: white ;
+			color: extract(@grad-colors,2) ;
+			
+			padding: 25px 50px ;
+			
+			margin: 50px auto 100px ;
+			
+			@media (max-width: @screen-sm-max ){ 
+					margin: 10px auto 60px ;
+			}
+			
+			b {
+				
+				color: extract(@grad-colors,5) ;
+				
+			}
+			
+	}
+	
+}
+
+section.container {
+	
+	//max-width: @screen-sm ;
+	padding: 20px 40px ;
+	
+	h1 {
+		margin-bottom: 35px ;
+	}
+	
+	.feature-box {
+		
+		text-align: center ;
+		margin-bottom: 40px ;
+		
+		& > * {  }
+		
+		.big-icon {
+			display: block ;
+			margin: 15px auto ;
+		}
+		
+		.fa {
+			margin-right: 10px ;
+		}
+		
+		.items {
+			display: inline-block ;
+			* {
+			
+			}
+			
+		}
+		
+	}	
+	
 }
 
 
-/*
- * Header
- */
-.masthead-brand {
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
 
-.masthead-nav > li {
-  display: inline-block;
-}
-.masthead-nav > li + li {
-  margin-left: 20px;
-}
-.masthead-nav > li > a {
-  padding-right: 0;
-  padding-left: 0;
-  font-size: 16px;
-  font-weight: bold;
-  color: #fff; /* IE8 proofing */
-  color: rgba(255,255,255,.75);
-  border-bottom: 2px solid transparent;
-}
-.masthead-nav > li > a:hover,
-.masthead-nav > li > a:focus {
-  background-color: transparent;
-  border-bottom-color: #a9a9a9;
-  border-bottom-color: rgba(255,255,255,.25);
-}
-.masthead-nav > .active > a,
-.masthead-nav > .active > a:hover,
-.masthead-nav > .active > a:focus {
-  color: #fff;
-  border-bottom-color: #fff;
-}
-
-@media (min-width: 768px) {
-  .masthead-brand {
-    float: left;
-  }
-  .masthead-nav {
-    float: right;
-  }
-}
-
-
-/*
- * Cover
- */
-
-.cover {
-  padding: 0 20px;
-}
-.cover .btn-lg {
-  padding: 10px 20px;
-  font-weight: bold;
-}
-
-
-/*
- * Footer
- */
-
-.mastfoot {
-  color: #999; /* IE8 proofing */
-  color: rgba(255,255,255,.5);
-}
-
-
-/*
- * Affix and center
- */
-
-@media (min-width: 768px) {
-  /* Pull out the header and footer */
-  .masthead {
-    position: fixed;
-    top: 0;
-  }
-  .mastfoot {
-    position: fixed;
-    bottom: 0;
-  }
-  /* Start the vertical centering */
-  .site-wrapper-inner {
-    vertical-align: middle;
-  }
-  /* Handle the widths */
-  .masthead,
-  .mastfoot,
-  .cover-container {
-    width: 100%; /* Must be percentage or pixels for horizontal alignment */
-  }
-}
-
-@media (min-width: 992px) {
-  .masthead,
-  .mastfoot,
-  .cover-container {
-    width: 700px;
-  }
-}
