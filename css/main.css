@@ -42,6 +42,7 @@ section p {
 .punch-line {
   font-family: 'Raleway', sans-serif;
   font-size: 41px;
+  text-align: center ;
 }
 @media (max-width: 991px) {
   .punch-line,
@@ -142,6 +143,9 @@ section.container .feature-box .big-icon {
 }
 section.container .feature-box .fa {
   margin-right: 10px ;
+}
+section.container .feature-box a.fa {
+  border-bottom-style: none ;
 }
 section.container .feature-box .items {
   display: inline-block;

@@ -53,7 +53,13 @@ gulp.task('less', function() {
         .pipe(gulp.dest("css"));
 });
 
-gulp.task('build', ['copy-css','copy-js','copy-fonts','js','less']);
+gulp.task('phantom', function(){
+  gulp.src("phantom.js")
+    .pipe(plugins.phantom())
+    .pipe(gulp.dest("."));
+});
+
+gulp.task('build', ['copy-css','copy-js','copy-fonts','js','less', 'phantom']);
 
 gulp.task('less-reload', ['less'], browserSync.reload );
 gulp.task('js-reload', ['js'], browserSync.reload );
