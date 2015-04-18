@@ -34,7 +34,7 @@ gulp.task('copy-fonts', function(){
 }) ;
 
 gulp.task('js', function () {
-  return gulp.src(['js/**/*.js', '!js/**/*.min.js'])
+  return gulp.src(['js/**/*.js', '!js/**/*.min.js','!js/phantom.js'])
      .pipe(plugins.jshint())
      .pipe(plugins.jshint.reporter('default'))
      .pipe(plugins.concat('app.js'))
@@ -54,7 +54,7 @@ gulp.task('less', function() {
 });
 
 gulp.task('phantom', function(){
-  gulp.src("phantom.js")
+  gulp.src("js/phantom.js")
     .pipe(plugins.phantom())
     .pipe(gulp.dest("."));
 });
