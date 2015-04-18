@@ -61,6 +61,11 @@ gulp.task('phantom', function(){
 
 gulp.task('build', ['copy-css','copy-js','copy-fonts','js','less', 'phantom']);
 
+gulp.task('export-dev', ['build'], function(){
+	return gulp.src(['css/**','fonts/**','js/*','img/**','*.html','screenshot*.png'])
+    .pipe(gulp.dest('dist')) ;
+});
+
 gulp.task('less-reload', ['less'], browserSync.reload );
 gulp.task('js-reload', ['js'], browserSync.reload );
 

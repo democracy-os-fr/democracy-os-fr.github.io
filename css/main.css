@@ -51,15 +51,15 @@ section p {
   }
 }
 body {
+  min-width: 480px;
   padding-bottom: 50px ;
 }
 .container {
   max-width: 992px;
-  min-width: 480px;
   padding: 0 40px ;
 }
 header {
-  height: auto ;
+  height: auto  ;
   background: url('../img/bg-fr.jpg') center center no-repeat transparent;
   background-size: cover ;
 }
