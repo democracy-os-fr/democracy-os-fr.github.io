@@ -34,7 +34,7 @@ gulp.task('copy-fonts', function(){
 }) ;
 
 gulp.task('js', function () {
-  return gulp.src(['js/**/*.js', '!js/**/*.min.js'])
+  return gulp.src(['js/**/*.js', '!js/**/*.min.js','!js/phantom.js'])
      .pipe(plugins.jshint())
      .pipe(plugins.jshint.reporter('default'))
      .pipe(plugins.concat('app.js'))
@@ -53,7 +53,18 @@ gulp.task('less', function() {
         .pipe(gulp.dest("css"));
 });
 
-gulp.task('build', ['copy-css','copy-js','copy-fonts','js','less']);
+gulp.task('phantom', function(){
+  gulp.src("js/phantom.js")
+    .pipe(plugins.phantom())
+    .pipe(gulp.dest("."));
+});
+
+gulp.task('build', ['copy-css','copy-js','copy-fonts','js','less', 'phantom']);
+
+gulp.task('export-dev', ['build'], function(){
+	return gulp.src(['css/**','fonts/**','js/*','img/**','*.html','screenshot*.png'])
+    .pipe(gulp.dest('dist')) ;
+});
 
 gulp.task('less-reload', ['less'], browserSync.reload );
 gulp.task('js-reload', ['js'], browserSync.reload );
