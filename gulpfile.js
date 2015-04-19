@@ -1,5 +1,7 @@
 var gulp = require('gulp') ;
 var browserSync = require('browser-sync');
+var prompt = require('gulp-prompt');
+var url = require('url-regexp');
 var plugins = require('gulp-load-plugins')();
 
 var cssFiles = [
@@ -15,6 +17,18 @@ var jsFiles = [
   'bower_components/bootstrap/dist/js/bootstrap.min.js',
   'bower_components/jquery/dist/jquery.min.js',
   'bower_components/jquery/dist/jquery.min.map'
+] ;
+
+var distFiles = [
+  'css/**/*.min.css',
+  'css/**/*.map',
+  'js/**/*.min.js',
+  'js/**/*.map',
+  'fonts/*',
+  'img/*',
+  '*.html',
+  'screenshot*.png',
+  'sitemap.xml'
 ] ;
 
 
@@ -53,17 +67,54 @@ gulp.task('less', function() {
         .pipe(gulp.dest("css"));
 });
 
+gulp.task('sitemap', function () {
+	
+  return gulp.src('*.html').
+  	pipe(prompt.prompt({
+	    type: 'input',
+	    name: 'url',
+	    message: 'Enter site URL for sitemap.xml :',
+	    default: 'http://www.democracyos.eu',
+	    validate: function(siteUrl){
+					
+					
+		      if (!siteUrl || !/[^\s]+/.test(siteUrl)) {
+						siteUrl = 'http://www.democracyos.eu' ;
+					}
+					
+	        if(!url.validate(siteUrl)){
+	          return 'This is not a valid URL' + siteUrl ;
+	        }
+	
+	        return true;
+	    }
+	  }, function(res){
+	      //value is in res.url
+	      
+				console.log('actual sitemap : ' + res.url) ;
+				
+				return gulp.src('*.html')
+	  		.pipe(plugins.sitemap({
+	          siteUrl: res.url
+	      }))
+	      .pipe(gulp.dest('.'));
+	      
+	  }));
+  
+  
+});
+
 gulp.task('phantom', function(){
-  gulp.src("js/phantom.js")
+  return gulp.src("js/phantom.js")
     .pipe(plugins.phantom())
     .pipe(gulp.dest("."));
 });
 
 gulp.task('build', ['copy-css','copy-js','copy-fonts','js','less', 'phantom']);
 
-gulp.task('export-dev', ['build'], function(){
-	return gulp.src(['css/**','fonts/**','js/*','img/**','*.html','screenshot*.png'])
-    .pipe(gulp.dest('dist')) ;
+gulp.task('dist', ['build'], function(){
+	return gulp.src(distFiles)
+    .pipe(plugins.copy('dist')) ;
 });
 
 gulp.task('less-reload', ['less'], browserSync.reload );
