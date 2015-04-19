@@ -7,20 +7,21 @@
 @import (reference) "../bower_components/bootstrap/less/mixins.less" ;
 
 body {
-	padding-bottom: 50px ;	
+	
+	min-width: @page-min-width ;
+	padding-bottom: 50px ;
+		
 }
 
 .container {
 	
 	max-width: @screen-md ;
-	min-width: @screen-xs ;
 	padding: 0 40px ;
 
 }
 
 header {
-		
-		height: auto ;
+		height: auto  ;
 		background: url('../img/bg-fr.jpg') center center no-repeat transparent ;
 		background-size: cover ;
 	
@@ -145,6 +146,10 @@ section.container {
 		
 		.fa {
 			margin-right: 10px ;
+		}
+		
+		a.fa{
+			border-bottom-style: none ;
 		}
 		
 		.items {
