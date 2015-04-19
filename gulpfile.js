@@ -55,6 +55,11 @@ gulp.task('less', function() {
 
 gulp.task('build', ['copy-css','copy-js','copy-fonts','js','less']);
 
+gulp.task('dist', ['build'], function(){
+	return gulp.src(['css/**/*.min.css','js/**/*.min.js','fonts/*','img/*','*.html'])
+    .pipe(plugins.copy('dist')) ;
+});
+
 gulp.task('less-reload', ['less'], browserSync.reload );
 gulp.task('js-reload', ['js'], browserSync.reload );
 
