@@ -1,5 +1,8 @@
 var gulp = require('gulp') ;
 var browserSync = require('browser-sync');
+var inlinesource = require('gulp-inline-source');
+var prompt = require('gulp-prompt');
+var url = require('url-regexp');
 var plugins = require('gulp-load-plugins')();
 
 var cssFiles = [
@@ -15,6 +18,18 @@ var jsFiles = [
   'bower_components/bootstrap/dist/js/bootstrap.min.js',
   'bower_components/jquery/dist/jquery.min.js',
   'bower_components/jquery/dist/jquery.min.map'
+] ;
+
+var distFiles = [
+  'css/**/*.min.css',
+  'css/**/*.map',
+  'js/**/*.min.js',
+  'js/**/*.map',
+  'fonts/*',
+  'img/*',
+  '*.html',
+  'screenshot*.png',
+  'sitemap.xml'
 ] ;
 
 
@@ -44,26 +59,77 @@ gulp.task('js', function () {
 });
 
 gulp.task('less', function() {
-    return gulp.src(["less/*.less","!less/*.inc.less"])
+    return gulp.src(['less/*.less','!less/*.inc.less'])
         .pipe(plugins.less())
-        .pipe(gulp.dest("css"))
+        .pipe(gulp.dest('css'))
         .pipe(plugins.autoprefixer({ cascade: false }))
         .pipe(plugins.minifyCss())
         .pipe(plugins.rename({ extname: '.min.css' }))
-        .pipe(gulp.dest("css"));
+        .pipe(gulp.dest('css'));
+});
+
+gulp.task('sitemap', function () {
+	
+  return gulp.src('*.html')
+  	.pipe(prompt.prompt({
+	    type: 'input',
+	    name: 'url',
+	    message: 'Enter site URL for sitemap.xml :',
+	    default: 'http://www.democracyos.eu',
+	    validate: function(siteUrl){
+					
+					
+		      if (!siteUrl || !/[^\s]+/.test(siteUrl)) {
+						siteUrl = 'http://www.democracyos.eu' ;
+					}
+					
+	        if(!url.validate(siteUrl)){
+	          return 'This is not a valid URL : ' + siteUrl ;
+	        }
+	
+	        return true;
+	    }
+	  }, function(res){
+	      //value is in res.url
+	      
+				console.log('actual sitemap : ' + res.url) ;
+				
+				return gulp.src('*.html')
+	  		.pipe(plugins.sitemap({
+	          siteUrl: res.url
+	      }))
+	      .pipe(gulp.dest('.'));
+	      
+	  }));
+  
+  
 });
 
 gulp.task('phantom', function(){
-  gulp.src("js/phantom.js")
+  return gulp.src('js/phantom.js')
     .pipe(plugins.phantom())
-    .pipe(gulp.dest("."));
+    .pipe(gulp.dest('.'));
 });
 
-gulp.task('build', ['copy-css','copy-js','copy-fonts','js','less', 'phantom']);
+gulp.task('build', ['copy-css','copy-js','copy-fonts','js','less','phantom']);
 
-gulp.task('export-dev', ['build'], function(){
-	return gulp.src(['css/**','fonts/**','js/*','img/**','*.html','screenshot*.png'])
-    .pipe(gulp.dest('dist')) ;
+gulp.task('seo', ['sitemap'] , function () {
+	
+  gulp.src('img/**.@(jpg|jpeg|gif|png)')
+    .pipe(plugins.image())
+    .pipe(gulp.dest('img'));
+    
+  gulp.src(['*.html','!*.min.html'])
+    .pipe(inlinesource())
+    .pipe(plugins.rename({ extname: '.min.html' }))
+		.pipe(gulp.dest('.')); 
+		
+});
+
+
+gulp.task('dist', ['build'], function(){
+	return gulp.src(distFiles)
+    .pipe(plugins.copy('dist')) ;
 });
 
 gulp.task('less-reload', ['less'], browserSync.reload );
@@ -72,12 +138,12 @@ gulp.task('js-reload', ['js'], browserSync.reload );
 gulp.task('watch', ['build'], function() {
 
     browserSync({
-        server: "./"
+        server: './'
     });
 
-    gulp.watch("less/*.less", ['less-reload']);
-    gulp.watch("js/*.js", ['js-reload']);
-    gulp.watch("*.html").on('change', browserSync.reload);
+    gulp.watch('less/*.less', ['less-reload']);
+    gulp.watch('js/*.js', ['js-reload']);
+    gulp.watch('*.html').on('change', browserSync.reload);
 });
 
 gulp.task('default', ['build']);
