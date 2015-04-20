@@ -1,17 +1,38 @@
 @import (reference) "variables.inc.less" ;
 
 @import "slabtext.inc.less" ;
-@import "typography.inc.less" ;
 
 @import (reference) "../bower_components/bootstrap/less/utilities.less" ;
 @import (reference) "../bower_components/bootstrap/less/mixins.less" ;
 
 body {
 	
-	min-width: @page-min-width ;
+	//min-width: @page-min-width ;
 	padding-bottom: 50px ;
 		
 }
+
+body {
+	font-weight: 300 ;
+}
+
+b, strong {
+	font-weight: 400 ;
+}
+
+a {
+	color: inherit ;
+	.link-decoration() ;
+}
+
+.text-thin{
+  font-weight: 100 ;
+}
+
+section p {
+	font-size: 18px ;
+}
+
 
 .container {
 	
@@ -109,6 +130,10 @@ header {
 			
 			margin: 50px auto 100px ;
 			
+			font-family: @headings-font-family ;
+			font-size: @font-size-h1 ;
+			text-align: center ;	
+			
 			@media (max-width: @screen-sm-max ){ 
 					margin: 10px auto 60px ;
 			}
@@ -148,8 +173,14 @@ section.container {
 			margin-right: 10px ;
 		}
 		
-		a.fa{
+		a {
+			
+			text-decoration: none ;
 			border-bottom-style: none ;
+			
+			span {
+				.link-decoration() ;
+			}
 		}
 		
 		.items {
@@ -165,4 +196,20 @@ section.container {
 }
 
 
+@media (max-width: @screen-sm-max ){ 
+	
+	h1 ,
+	header .punch-line {
+		font-size:  floor((@font-size-h1 * 0.8)); ;
+	}
+	
+}
 
+@media (max-width: @screen-xs-max ){ 
+	
+	h1 ,
+	header .punch-line {
+		font-size:  floor((@font-size-h1 * 0.6)); ;
+	}
+	
+}
