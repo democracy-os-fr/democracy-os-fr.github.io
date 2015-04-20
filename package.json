@@ -22,6 +22,8 @@
     "gulp-autoprefixer": "^2.1.0",
     "gulp-concat": "^2.5.2",
     "gulp-copy": "0.0.2",
+    "gulp-image": "^0.5.7",
+    "gulp-inline-source": "^1.2.0",
     "gulp-jshint": "^1.10.0",
     "gulp-less": "^3.0.2",
     "gulp-load-plugins": "^0.10.0",
