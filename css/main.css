@@ -85,11 +85,39 @@ section p {
   text-align: justify ;
 }
 .btn-cta {
-  margin: 25px auto ;
+  margin: 5px auto ;
+  padding: 15px 25px ;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight: 300 ;
+  text-transform: uppercase ;
+  white-space: normal ;
+}
+.btn-cta small {
+  font-size: 70% ;
+}
+@media (max-width: 480px) {
+  .btn-cta {
+    display: block;
+    width: 100%;
+  }
 }
 .container {
   max-width: 992px;
   padding: 0 40px ;
+}
+@media (min-width: 992px) {
+  .vertical-align {
+    display: flex;
+    align-items: center;
+  }
+}
+.medium-embed {
+  max-width: 400px ;
+  margin: 50px auto ;
+  text-align: center ;
+}
+.medium-embed .caption {
+  margin-top: 15px ;
 }
 header {
   height: auto  ;
@@ -165,7 +193,6 @@ header .punch-line b {
 }
 section {
   margin: 50px auto ;
-  padding: 20px 40px ;
 }
 section h1 {
   margin-bottom: 35px ;
@@ -175,18 +202,15 @@ section h3 {
 }
 section .feature-box {
   text-align: center ;
-  margin: 0 15px 40px ;
-}
-section .feature-box ul li {
-  display: inline-block;
-  max-width: 30% ;
-  width: 100% ;
-  margin: 0 10px ;
+  padding-bottom: 25px ;
 }
 section .feature-box .big-icon {
   display: block ;
   color: #46336e;
   margin: 15px auto ;
+}
+section .feature-box.feature-img {
+  padding: 50px ;
 }
 section .team {
   margin: 50px auto ;
@@ -239,6 +263,9 @@ section.featured-content {
 }
 section.featured-content .big-icon {
   color: rgba(0, 0, 0, 0.7);
+}
+section.container.video {
+  max-width: 768px;
 }
 @media (max-width: 991px) {
   h1,

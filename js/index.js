@@ -2,6 +2,8 @@ $(document).ready(function(){
 
   console.log("document ready") ;
 	
+	/*
+	
 	var $teamBox = $('.team').masonry({
 		  itemSelector: 'li',
 		  columnWidth: '.member',
@@ -17,7 +19,9 @@ $(document).ready(function(){
 		  isFitWidth: 'true' 
 	});
 	
-	$('.text-slab').slabText() ;
-	$('.text-balance').balanceText() ;
+	*/
+	
+	//$('.text-slab').slabText() ;
+	//$('.text-balance').balanceText() ;
 	
 });

@@ -16,7 +16,7 @@ body {
 	font-weight: 300 ;
 }
 
-.bold(){
+.bold() {
 	font-weight: 400 ;
 }
 
@@ -110,7 +110,25 @@ section p {
 }
 
 .btn-cta {
-	margin: 25px auto ;
+	
+	margin: 5px auto ;
+
+	padding: 15px 25px ;
+		
+	.text-thin() ;
+	text-transform: uppercase ;
+	
+	white-space: normal ;
+	
+	small {
+		font-size: 70% ;
+	}
+	
+	@media (max-width: @screen-xs) { 
+    display: block;
+		width: 100%;
+  }
+	
 }
 
 .container {
@@ -119,6 +137,29 @@ section p {
 	padding: 0 40px ;
 
 }
+
+.vertical-align {
+	@media (min-width: @screen-md) { 
+      display: flex;
+      align-items: center;
+  }
+}
+
+.medium-embed {
+	
+	max-width: 400px ;
+	margin: 50px auto ;
+	
+	text-align: center ;
+	
+	.caption {
+		margin-top: 15px ;
+	}
+	
+}
+
+
+
 
 header {
 
@@ -233,10 +274,6 @@ section {
 	
 	margin: 50px auto ;
 
-	//max-width: @screen-sm ;
-	padding: 20px 40px ;
-
-
 	h1 {
 		margin-bottom: 35px ;
 	}
@@ -248,24 +285,23 @@ section {
 	.feature-box {
 
 		text-align: center ;
-
-		margin: 0 15px 40px ;
-
-		ul li {
-			display: inline-block ;
-			max-width: 30% ;
-			width: 100% ;
-			margin: 0 10px ;
-		}
-
+		
+		padding-bottom: 25px ;
+		
 		.big-icon {
 			display: block ;
 			color: extract(@grad-colors,1) ;
 			margin: 15px auto ;
 		}
-
-
-
+		
+		&.feature-img {
+			padding: 50px ;
+		}
+		
+		ul.list-unstyled {
+			
+		}
+		
 	}
 
 	.team {
@@ -294,7 +330,7 @@ section {
 		}
 
 	}
-
+	
 	.contact-link {
 
 		margin: 30px auto ;
@@ -316,28 +352,34 @@ section {
 
 
 	}
-
-
-}
-
-section.featured-content {
-
-	// background-color: #21CC97 ;
-	// color: white ;
-
 	
-		background-color: #f6f3dd ; // fade(#21CC97,100%) ;
-		// border-radius: 8px ;
-		color: fade(black,80%) ;
+	// section MOD
 	
+	
+	&.featured-content {
 
-	.big-icon {
-		//color: white ;
-		color: fade(black,70%) ;
+		// background-color: #21CC97 ;
+		// color: white ;
+	
+		
+			background-color: #f6f3dd ; // fade(#21CC97,100%) ;
+			// border-radius: 8px ;
+			color: fade(black,80%) ;
+		
+	
+		.big-icon {
+			//color: white ;
+			color: fade(black,70%) ;
+		}
+	
 	}
-
+	
+	&.container.video {
+		max-width: @screen-sm ;
+	}
+	
+	
 }
-
 
 @media (max-width: @screen-sm-max ){
 
