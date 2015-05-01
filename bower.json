@@ -15,10 +15,13 @@
     "test",
     "tests"
   ],
-  "dependencies": {
-    "bootstrap": "~3.3.4"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "font-awesome": "~4.3.0"
+    "font-awesome": "~4.3.0",
+    "bootstrap": "~3.3.4",
+    "masonry": "~3.3.0",
+    "imagesloaded": "~3.1.8",
+    "holderjs": "~2.6.0",
+    "isotope": "~2.2.0"
   }
 }
