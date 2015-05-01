@@ -17,7 +17,10 @@ var fontFiles = [
 var jsFiles = [
   'bower_components/bootstrap/dist/js/bootstrap.min.js',
   'bower_components/jquery/dist/jquery.min.js',
-  'bower_components/jquery/dist/jquery.min.map'
+  'bower_components/jquery/dist/jquery.min.map',
+  'bower_components/imagesloaded/imagesloaded.pkgd.min.js',
+	'bower_components/masonry/dist/masonry.pkgd.min.js',
+	'bower_components/holderjs/holder.min.js'
 ] ;
 
 var distFiles = [
@@ -26,7 +29,7 @@ var distFiles = [
   'js/**/*.min.js',
   'js/**/*.map',
   'fonts/*',
-  'img/*',
+  'img/**/*',
   '*.html',
   'screenshot*.png',
   'sitemap.xml'
@@ -52,7 +55,6 @@ gulp.task('js', function () {
   return gulp.src(['js/**/*.js', '!js/**/*.min.js','!js/phantom.js'])
      .pipe(plugins.jshint())
      .pipe(plugins.jshint.reporter('default'))
-     .pipe(plugins.concat('app.js'))
      .pipe(plugins.uglify())
      .pipe(plugins.rename({ extname: '.min.js' }))
      .pipe(gulp.dest('js'));
@@ -115,7 +117,7 @@ gulp.task('build', ['copy-css','copy-js','copy-fonts','js','less','phantom']);
 
 gulp.task('seo', ['sitemap'] , function () {
 	
-  gulp.src('img/**.@(jpg|jpeg|gif|png)')
+  gulp.src('img/**/*.@(jpg|jpeg|gif|png)')
     .pipe(plugins.image())
     .pipe(gulp.dest('img'));
     
@@ -135,7 +137,7 @@ gulp.task('dist', ['build'], function(){
 gulp.task('less-reload', ['less'], browserSync.reload );
 gulp.task('js-reload', ['js'], browserSync.reload );
 
-gulp.task('watch', ['build'], function() {
+gulp.task('live', ['build'], function() {
 
     browserSync({
         server: './'
@@ -144,6 +146,11 @@ gulp.task('watch', ['build'], function() {
     gulp.watch('less/*.less', ['less-reload']);
     gulp.watch('js/*.js', ['js-reload']);
     gulp.watch('*.html').on('change', browserSync.reload);
+});
+
+gulp.task('watch', ['build'], function() {
+		gulp.watch('less/*.less', ['less']);
+    gulp.watch('js/*.js', ['js']);
 });
 
 gulp.task('default', ['build']);
