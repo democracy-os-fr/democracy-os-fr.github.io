@@ -6,22 +6,34 @@ var url = require('url-regexp');
 var plugins = require('gulp-load-plugins')();
 
 var cssFiles = [
-  'bower_components/font-awesome/css/font-awesome.min.css'
+  'node_modules/font-awesome/css/font-awesome.min.css'
 ] ;
 
 var fontFiles = [
-  'bower_components/bootstrap/dist/fonts/*',
-  'bower_components/font-awesome/fonts/*'
+  'node_modules/bootstrap/dist/fonts/*',
+  'node_modules/font-awesome/fonts/*'
 ] ;
 
 var jsFiles = [
-  'bower_components/bootstrap/dist/js/bootstrap.min.js',
-  'bower_components/jquery/dist/jquery.min.js',
-  'bower_components/jquery/dist/jquery.min.map',
-  'bower_components/imagesloaded/imagesloaded.pkgd.min.js',
-	'bower_components/masonry/dist/masonry.pkgd.min.js',
-	'bower_components/holderjs/holder.min.js'
+  'node_modules/jquery/dist/jquery.js',
+  'node_modules/jquery/dist/jquery.min.map',
+  'node_modules/bootstrap/dist/js/bootstrap.js',
+  'node_modules/imagesloaded/imagesloaded.pkgd.js',
+	'node_modules/isotope-layout/node_modules/masonry-layout/dist/masonry.pkgd.js',
+	'node_modules/holderjs/holder.js'
 ] ;
+
+var jsLibFiles = [
+  'js/lib/jquery.js',
+  'js/lib/bootstrap.js',
+  'js/lib/ie10-viewport-bug-workaround.js',
+  'js/lib/imagesloaded.pkgd.js',
+	'js/lib/masonry.pkgd.js',
+	'js/lib/holder.js',
+  'js/lib/jquery.balancetext.js',
+  'js/lib/jquery.slabtext.js'
+] ;
+
 
 var distFiles = [
   'css/**/*.min.css',
@@ -43,7 +55,7 @@ gulp.task('copy-css', function(){
 
 gulp.task('copy-js', function(){
   return gulp.src(jsFiles)
-    .pipe(gulp.dest('js')) ;
+    .pipe(gulp.dest('js/lib')) ;
 }) ;
 
 gulp.task('copy-fonts', function(){
@@ -52,13 +64,19 @@ gulp.task('copy-fonts', function(){
 }) ;
 
 gulp.task('js', function () {
-  return gulp.src(['js/**/*.js', '!js/**/*.min.js','!js/phantom.js'])
-     .pipe(plugins.jshint())
-     .pipe(plugins.jshint.reporter('default'))
+  return gulp.src(['js/*.js', '!js/*.min.js','!js/phantom.js'])
      .pipe(plugins.uglify())
      .pipe(plugins.rename({ extname: '.min.js' }))
      .pipe(gulp.dest('js'));
 });
+
+gulp.task('bundle-js',['copy-js'], function(){
+  return gulp.src(jsLibFiles)
+    .pipe(plugins.uglify())
+    .pipe(plugins.concat('bundle.min.js'))
+    .pipe(gulp.dest('js/lib'));
+} ) ;
+
 
 gulp.task('less', function() {
     return gulp.src(['less/*.less','!less/*.inc.less'])
@@ -71,7 +89,7 @@ gulp.task('less', function() {
 });
 
 gulp.task('sitemap', function () {
-	
+
   return gulp.src('*.html')
   	.pipe(prompt.prompt({
 	    type: 'input',
@@ -79,32 +97,32 @@ gulp.task('sitemap', function () {
 	    message: 'Enter site URL for sitemap.xml :',
 	    default: 'http://www.democracyos.eu',
 	    validate: function(siteUrl){
-					
-					
+
+
 		      if (!siteUrl || !/[^\s]+/.test(siteUrl)) {
 						siteUrl = 'http://www.democracyos.eu' ;
 					}
-					
+
 	        if(!url.validate(siteUrl)){
 	          return 'This is not a valid URL : ' + siteUrl ;
 	        }
-	
+
 	        return true;
 	    }
 	  }, function(res){
 	      //value is in res.url
-	      
+
 				console.log('actual sitemap : ' + res.url) ;
-				
+
 				return gulp.src('*.html')
 	  		.pipe(plugins.sitemap({
 	          siteUrl: res.url
 	      }))
 	      .pipe(gulp.dest('.'));
-	      
+
 	  }));
-  
-  
+
+
 });
 
 gulp.task('phantom', function(){
@@ -113,19 +131,19 @@ gulp.task('phantom', function(){
     .pipe(gulp.dest('.'));
 });
 
-gulp.task('build', ['copy-css','copy-js','copy-fonts','js','less','phantom']);
+gulp.task('build', ['copy-css','copy-fonts','bundle-js','js','less','phantom']);
 
 gulp.task('seo', ['sitemap'] , function () {
-	
+
   gulp.src('img/**/*.@(jpg|jpeg|gif|png)')
     .pipe(plugins.image())
     .pipe(gulp.dest('img'));
-    
+
   gulp.src(['*.html','!*.min.html'])
     .pipe(inlinesource())
     .pipe(plugins.rename({ extname: '.min.html' }))
-		.pipe(gulp.dest('.')); 
-		
+		.pipe(gulp.dest('.'));
+
 });
 
 
@@ -144,13 +162,13 @@ gulp.task('live', ['build'], function() {
     });
 
     gulp.watch('less/*.less', ['less-reload']);
-    gulp.watch('js/*.js', ['js-reload']);
+    gulp.watch(['js/*.js','!js/*.min.js'], ['js-reload']);
     gulp.watch('*.html').on('change', browserSync.reload);
 });
 
 gulp.task('watch', ['build'], function() {
 		gulp.watch('less/*.less', ['less']);
-    gulp.watch('js/*.js', ['js']);
+    gulp.watch(['js/*.js','!js/*.min.js'], ['js']);
 });
 
 gulp.task('default', ['build']);
