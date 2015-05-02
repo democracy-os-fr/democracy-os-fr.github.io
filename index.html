@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
-  <head>
+  <head itemscope itemtype="http://schema.org/WebSite">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,7 +10,8 @@
     <meta name="author" content="Democracy OS France">
     <link rel="icon" href="img/favicon.ico">
 
-    <title>Democracy OS France</title>
+    <title itemprop="name">Democracy OS France</title>
+    <link rel="canonical" href="http://democracyos.eu/" itemprop="url">
 
     <link inline href="css/bootstrap.custom.min.css" rel="stylesheet">
     <link inline href="css/font-awesome.min.css" rel="stylesheet">
@@ -190,13 +191,7 @@
 					<div class="name">Clément <!-- Choisne --></div>
 					<div class="title">Étudiant, Nantes</div>
 				</li>
-<!--
-				<li class="member">
-					<img class="avatar img-circle" src="img/team/gravatar.png" alt="anonymous">
-					<div class="name">Anonymous</div>
-					<div class="title">We are legion!</div>
-				</li>
--->
+
 			</ul>
 
 			<p>Nous nous sommes fixés deux objectifs:</p>
@@ -216,15 +211,11 @@
 					<span class="big-icon"><img class="img-responsive center-block" src="img/contact.png" alt="contact"></span>
 					<h3>Vous&nbsp;voulez&nbsp;nous rejoindre&nbsp;? Contactez&#8209;nous&nbsp;!</h3>
 
-<!-- 					<span class="big-icon"><img class="img-responsive center-block" src="img/contact.png" alt="contact"></span> -->
-
-<!-- 					<p><b>Contactez-nous</b></p> -->
-
 					<ul class="list-inline contact-link">
 						<li>
-							<a href="mailto:democracyos.fr@gmail.com">
+							<a href="mailto:contact@democracyos.eu">
 								<div class="text-center"><i class="fa fa-3x fa-envelope"></i></div>
-								<span>democracyos.fr@gmail.com</span>
+								<span>contact@democracyos.eu</span>
 							</a>
 						</li>
 						<li>
@@ -254,5 +245,24 @@
 			ga('send', 'pageview');
 
 		</script>
+    <script type="application/ld+json">
+     {
+       "@context": "http://schema.org",
+       "@type": "Organization",
+       "name": "Democracy OS France",
+       "description": "site officiel de l'association Democracy OS France" ,
+       "logo": "http://democracyos.eu/img/logo-mobile.png",
+       "url": "http://democracyos.eu",
+       "sameAs" : [ "https://twitter.com/DemocracyOS_FR",
+       "https://www.facebook.com/DemocracyOSfrance"],
+       "email": "contact@democracyos.eu",
+       "address": {
+          "streetAddress": "17 rue Myrha",
+          "postalCode": "75018",
+          "addressLocality": "Paris",
+          "addressCountry": "France"
+        }
+     }
+   </script>
   </body>
 </html>
