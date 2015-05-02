@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>http://www.democracyos.eu/</loc>
-        <lastmod>2015-04-28T15:13:45.000Z</lastmod>
+        <lastmod>2015-05-02T05:20:34.000Z</lastmod>
     </url>
     <url>
         <loc>http://www.democracyos.eu/index.min.html</loc>
-        <lastmod>2015-04-22T04:39:02.000Z</lastmod>
+        <lastmod>2015-05-01T19:38:10.000Z</lastmod>
     </url>
     <url>
         <loc>http://www.democracyos.eu/theme.html</loc>
-        <lastmod>2015-04-25T04:36:09.000Z</lastmod>
+        <lastmod>2015-05-02T05:20:44.000Z</lastmod>
+    </url>
+    <url>
+        <loc>http://www.democracyos.eu/theme.min.html</loc>
+        <lastmod>2015-05-01T19:38:10.000Z</lastmod>
     </url>
 </urlset>

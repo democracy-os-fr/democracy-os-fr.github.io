@@ -1,27 +1,28 @@
+
 $(document).ready(function(){
 
-  console.log("document ready") ;
-	
+  console.log('document ready') ;
+
 	/*
-	
+
 	var $teamBox = $('.team').masonry({
 		  itemSelector: 'li',
 		  columnWidth: '.member',
-		  isFitWidth: 'true' 
+		  isFitWidth: 'true'
 	});
-	
+
 	$teamBox.imagesLoaded( function() {
 	  $teamBox.masonry();
 	});
-	
+
 	var $contactLinkBox = $('.contact-link').masonry({
 		  itemSelector: 'li',
-		  isFitWidth: 'true' 
+		  isFitWidth: 'true'
 	});
-	
+
 	*/
-	
+
 	//$('.text-slab').slabText() ;
 	//$('.text-balance').balanceText() ;
-	
+
 });
