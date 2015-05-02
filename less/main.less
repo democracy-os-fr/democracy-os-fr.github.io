@@ -2,8 +2,8 @@
 
 @import "slabtext.inc.less" ;
 
-@import (reference) "../bower_components/bootstrap/less/utilities.less" ;
-@import (reference) "../bower_components/bootstrap/less/mixins.less" ;
+@import (reference) "../node_modules/bootstrap/less/utilities.less" ;
+@import (reference) "../node_modules/bootstrap/less/mixins.less" ;
 
 body {
 
@@ -43,9 +43,9 @@ section p {
 
 	display: inline-block ;
 	overflow: hidden ;
-	
+
 	transition: all 400ms ease;
-	
+
 	.icon {
 		padding-top: 10px ;
 	}
@@ -54,7 +54,7 @@ section p {
 	color: extract(@grad-colors,1) ;
 
 
-	
+
 	font-size: 110% ;
 	font-weight: 400 ;
 
@@ -71,13 +71,13 @@ section p {
 		padding: 12px 25px ;
 		text-align: center ;
 	}
-	
+
 	& > small {
 		padding-top: 0 ;
 		margin-top: -15px ;
 		.text-thin() ;
 	}
-	
+
 	.cta-header {
 		background-color: fade(extract(@grad-colors,2),100%) ;
 		color: white ;
@@ -110,25 +110,25 @@ section p {
 }
 
 .btn-cta {
-	
+
 	margin: 5px auto ;
 
 	padding: 15px 25px ;
-		
+
 	.text-thin() ;
 	text-transform: uppercase ;
-	
+
 	white-space: normal ;
-	
+
 	small {
 		font-size: 70% ;
 	}
-	
-	@media (max-width: @screen-xs) { 
+
+	@media (max-width: @screen-xs) {
     display: block;
 		width: 100%;
   }
-	
+
 }
 
 .container {
@@ -139,23 +139,23 @@ section p {
 }
 
 .vertical-align {
-	@media (min-width: @screen-md) { 
+	@media (min-width: @screen-md) {
       display: flex;
       align-items: center;
   }
 }
 
 .medium-embed {
-	
+
 	max-width: 400px ;
 	margin: 50px auto ;
-	
+
 	text-align: center ;
-	
+
 	.caption {
 		margin-top: 15px ;
 	}
-	
+
 }
 
 
@@ -271,7 +271,7 @@ header {
 }
 
 section {
-	
+
 	margin: 50px auto ;
 
 	h1 {
@@ -285,23 +285,23 @@ section {
 	.feature-box {
 
 		text-align: center ;
-		
+
 		padding-bottom: 25px ;
-		
+
 		.big-icon {
 			display: block ;
 			color: extract(@grad-colors,1) ;
 			margin: 15px auto ;
 		}
-		
+
 		&.feature-img {
 			padding: 50px ;
 		}
-		
+
 		ul.list-unstyled {
-			
+
 		}
-		
+
 	}
 
 	.team {
@@ -330,7 +330,7 @@ section {
 		}
 
 	}
-	
+
 	.contact-link {
 
 		margin: 30px auto ;
@@ -352,33 +352,33 @@ section {
 
 
 	}
-	
+
 	// section MOD
-	
-	
+
+
 	&.featured-content {
 
 		// background-color: #21CC97 ;
 		// color: white ;
-	
-		
+
+
 			background-color: #f6f3dd ; // fade(#21CC97,100%) ;
 			// border-radius: 8px ;
 			color: fade(black,80%) ;
-		
-	
+
+
 		.big-icon {
 			//color: white ;
 			color: fade(black,70%) ;
 		}
-	
+
 	}
-	
+
 	&.container.video {
 		max-width: @screen-sm ;
 	}
-	
-	
+
+
 }
 
 @media (max-width: @screen-sm-max ){

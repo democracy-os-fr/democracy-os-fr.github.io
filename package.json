@@ -10,14 +10,16 @@
     "type": "git",
     "url": "https://github.com/democracy-os-fr/democracy-os-fr.github.io.git"
   },
-  "author": "moustachu (moustachu@mgail.com)",
+  "author": "moustachu (moustachu@gmail.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/democracy-os-fr/democracy-os-fr.github.io/issues"
   },
   "homepage": "https://github.com/democracy-os-fr/democracy-os-fr.github.io",
   "devDependencies": {
+    "bootstrap": "^3.3.4",
     "browser-sync": "^2.5.3",
+    "font-awesome": "^4.3.0",
     "gulp": "^3.8.11",
     "gulp-autoprefixer": "^2.1.0",
     "gulp-concat": "^2.5.2",
@@ -33,6 +35,10 @@
     "gulp-rename": "^1.2.2",
     "gulp-sitemap": "^2.0.2",
     "gulp-uglify": "^1.2.0",
+    "holderjs": "^2.6.0",
+    "imagesloaded": "^3.1.8",
+    "isotope-layout": "^2.2.0",
+    "jquery": "^2.1.4",
     "url-regexp": "^1.0.2"
   }
 }
