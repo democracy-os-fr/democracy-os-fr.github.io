@@ -125,7 +125,7 @@ gulp.task('sitemap', function () {
 gulp.task('phantom', function(){
   return gulp.src('js/phantom.js')
     .pipe(plugins.phantom())
-    .pipe(gulp.dest('.'));
+    .pipe(gulp.dest('img/screenshot'));
 });
 
 gulp.task('build', ['copy-css','copy-fonts','bundle-js','js','less']);
