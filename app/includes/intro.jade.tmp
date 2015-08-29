@@ -1,0 +1,216 @@
+h1 DemocracyOS, c&apos;est&nbsp;quoi ?
+
+p
+  a(href='http://democracyos.org/') DemocracyOS est une
+  b
+    | plateforme
+    a(href='https://github.com/democracyos') open source
+  |  : libre, gratuite, ind&eacute;pendante, r&eacute;plicable.
+
+p
+  | Son but est de
+  b favoriser la participation de tous &agrave; la fabrique de d&eacute;cisions politiques
+  | ,
+  |       &#x9;&agrave; l&apos;heure o&ugrave; internet a chang&eacute; presque tous les aspects de notre vie quotidienne...
+  | &#x9;&#x9;&#x9;&#x9;sauf le fonctionnement de nos d&eacute;mocraties.
+|
+p
+  | Invent&eacute;e en 2012 par des d&eacute;veloppeurs et politologues en Argentine,
+  | elle est reprise dans le monde: Mexique, &Eacute;tats-Unis, Espagne...
+  | et d&eacute;sormais en France.
+|
+section.container.video
+.embed-responsive.embed-responsive-16by9
+  iframe.embed-responsive-item(src='https://embed-ssl.ted.com/talks/lang/fr/pia_mancini_how_to_upgrade_democracy_for_the_internet_era.html', webkitallowfullscreen='', mozallowfullscreen='', allowfullscreen='')
+| &#x9;&#x9;
+section.featured-content
+.container
+  .feature-box.feature-emphasis
+    // <i class="fa fa-3x fa-comments big-icon"></i>
+    span.big-icon
+      img.img-responsive.center-block(src='images/bubbles.png', alt='contact')
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    h3
+      | Rentrez dans le d&eacute;bat d&egrave;s maintenant !
+      br
+      small et connectez-vous sur notre espace d&eacute;di&eacute; au
+    | &#x9;&#x9;&#x9;&#x9;
+    a.btn.btn-primary.btn-cta(href='http://pjlr.democracyos.eu/')
+      span
+        i.fa.fa-bank
+        | &nbsp;&nbsp;projet&nbsp;de&nbsp;loi sur le&nbsp;renseignement
+| &#x9;&#x9;
+section.container
+.row.vertical-align
+  .col-xs-12.col-md-6.feature-box
+    // <i class="fa fa-3x fa-flag big-icon"></i>
+    span.big-icon
+      img.img-responsive.center-block(src='images/laptop.png', alt='contact')
+    | &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;
+    h3 D&eacute;couvrez la plateforme
+    | &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;
+    ul.list-unstyled
+      li
+        a.btn.btn-primary.btn-cta(href='http://democracyos.org/')
+          span site&nbsp;officiel
+          | &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;
+          small (en&nbsp;anglais)
+      | &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;
+      li
+        a.btn.btn-primary.btn-cta(href='https://github.com/DemocracyOS/app')
+          span le&nbsp;code&nbsp;sur github
+          | &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;
+          small (en&nbsp;anglais)
+      //
+        <li>
+        <a class="btn btn-primary btn-cta" href="https://github.com/democracy-os-fr">
+        <span>le&nbsp;code&nbsp;en&nbsp;français</span>
+        </a>
+        </li>
+  | &#x9;&#x9;&#x9;&#x9;
+  .col-xs-12.col-md-6.feature-box.feature-img
+    img.img-responsive(src='images/devices-preview.png', alt='devices-preview')
+|
+section.container
+h1 Qui est derri&egrave;re DemocracyOS&nbsp;France ?
+| &#x9;&#x9;&#x9;
+p
+  | Nous sommes un groupe de citoyens fran&ccedil;ais inspir&eacute;s par les exemples internationaux de DemocracyOS, que nous avons d&eacute;cid&eacute; d&apos;adapter ici pour moderniser notre d&eacute;mocratie.
+| &#x9;&#x9;&#x9;
+.medium-embed
+  script(async='', src='https://static.medium.com/embed.js')
+  | &#x9;&#x9;&#x9;&#x9;
+  a.m-story(data-width='400px', data-collapsed='true', href='https://medium.com/@DemocracyOS_FR/en-2015-r%C3%A9inventons-la-d%C3%A9mocratie-4e6b24e10ae8') En 2015, r&eacute;inventons la d&eacute;mocratie
+  | &#x9;&#x9;&#x9;&#x9;
+  p.caption
+    a(href='https://medium.com/@DemocracyOS_FR/en-2015-r%C3%A9inventons-la-d%C3%A9mocratie-4e6b24e10ae8')
+      span
+        | lire notre manifeste sur
+        i.fa.fa-medium
+        | edium
+| &#x9;&#x9;&#x9;
+ul.list-unstyled.team.clearfix
+  li.member
+    img.avatar.img-circle(src='images/team/clementine.png', alt='clementine')
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    .name
+      | Cl&eacute;mentine
+      // Désigaud
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    .title &Eacute;tudiante, Paris
+  | &#x9;&#x9;&#x9;&#x9;
+  li.member
+    img.avatar.img-circle(src='images/team/cyprien.jpg', alt='cyprien')
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    .name
+      | Cyprien
+      // Grau
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    .title &Eacute;tudiant, Paris
+  | &#x9;&#x9;&#x9;&#x9;
+  li.member
+    img.avatar.img-circle(src='images/team/geoffroy.jpeg', alt='geoffroy')
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    .name
+      | Geoffroy
+      // Berson
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    .title &Eacute;tudiant, Paris
+  | &#x9;&#x9;&#x9;&#x9;
+  li.member
+    img.avatar.img-circle(src='images/team/helene.jpg', alt='helene')
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    .name
+      | H&eacute;l&egrave;ne
+      // Legay
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    .title &Eacute;tudiante, Paris
+  | &#x9;&#x9;&#x9;&#x9;
+  li.member
+    img.avatar.img-circle(src='images/team/moustachu-03.jpg', alt='moustachu')
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    .name
+      | Alain
+      // Buchotte
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    .title D&eacute;veloppeur Web, Paris
+  | &#x9;&#x9;&#x9;&#x9;
+  li.member
+    img.avatar.img-circle(src='images/team/virgile-02.jpg', alt='virgile')
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    .name
+      | Virgile
+      // Devile
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    .title &Eacute;tudiant, Paris
+  | &#x9;&#x9;&#x9;&#x9;
+  li.member
+    img.avatar.img-circle(src='images/team/clemence.jpg', alt='clemence')
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    .name
+      | Cl&eacute;mence
+      // Hallé
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    .title &Eacute;tudiante, Paris
+  | &#x9;&#x9;&#x9;&#x9;
+  li.member
+    img.avatar.img-circle(src='images/team/clement.jpg', alt='clement')
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    .name
+      | Cl&eacute;ment
+      // Choisne
+    | &#x9;&#x9;&#x9;&#x9;&#x9;
+    .title &Eacute;tudiant, Nantes
+  //
+    <li class="member">
+    <img class="avatar img-circle" src="images/team/gravatar.png" alt="anonymous">
+    <div class="name">Anonymous</div>
+    <div class="title">We are legion!</div>
+    </li>
+| &#x9;&#x9;&#x9;
+p Nous nous sommes fix&eacute;s deux objectifs:
+| &#x9;&#x9;&#x9;
+ol
+  li
+    | Se servir de notre plateforme comme d&apos;un
+    b espace constructif de r&eacute;sonance de l&apos;opinion publique
+    |  sur des textes de lois importants
+  | &#x9;&#x9;&#x9;&#x9;
+  li
+    | &Eacute;pauler des associations, des mouvements citoyens, des partis politiques, et tous types de structure pr&ecirc;ts &agrave;
+    b faire le pari de la d&eacute;mocratie participative en ligne
+    |  gr&acirc;ce &agrave; un outil efficace, simple d&apos;utilisation et open source.
+| &#x9;&#x9;&#x9;
+p
+  | Nous sommes sur le point de cr&eacute;er une association afin de mieux structurer notre travail sur ces deux objectifs.
+| &#x9;&#x9;
+
+section.container.text-center
+span.big-icon
+  img.img-responsive.center-block(src='images/contact.png', alt='contact')
+| &#x9;&#x9;&#x9;&#x9;&#x9;
+h3 Vous&nbsp;voulez&nbsp;nous rejoindre&nbsp;? Contactez&#x2011;nous&nbsp;!
+// <span class="big-icon"><img class="img-responsive center-block" src="images/contact.png" alt="contact"></span>
+// <p><b>Contactez-nous</b></p>
+ul.list-inline.contact-link
+  li
+    a(href='mailto:democracyos.fr@gmail.com')
+      .text-center
+        i.fa.fa-3x.fa-envelope
+      | &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;
+      span democracyos.fr@gmail.com
+  | &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;
+  li
+    a(href='https://twitter.com/DemocracyOS_FR')
+      .text-center
+        i.fa.fa-3x.fa-twitter
+      | &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;
+      span @DemocracyOS_FR
+  | &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;
+  li
+    a(href='https://www.facebook.com/DemocracyOSfrance')
+      .text-center
+        i.fa.fa-3x.fa-facebook
+      | &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;
+      span /DemocracyOSfrance
+      

@@ -1,0 +1,106 @@
+extends layouts/page
+
+block content
+
+  include includes/header
+    
+  section.container
+    :markdown
+      # Democracy OS c'est quoi ?
+      
+      [DemocracyOS](http://democracyos.org) est une **plateforme [open source](https://github.com/democracyos)** : libre, gratuite, indépendante, réplicable.
+      
+      Son but est de **favoriser la participation de tous à la fabrique de décisions politiques**, à l'heure où internet a changé presque tous les aspects de notre vie quotidienne... sauf le fonctionnement de nos démocraties.  
+      
+      Inventée en 2012 par des développeurs et politologues en Argentine, elle est reprise dans le monde: Mexique, États-Unis, Espagne... et désormais en France.
+      
+  section.container.video
+    .embed-responsive.embed-responsive-16by9
+      iframe.embed-responsive-item(src='https://embed-ssl.ted.com/talks/lang/fr/pia_mancini_how_to_upgrade_democracy_for_the_internet_era.html', webkitallowfullscreen='', mozallowfullscreen='', allowfullscreen='')
+
+  section.featured-content
+    .container
+      .feature-box.feature-emphasis  
+        span.big-icon
+          img.img-responsive.center-block(src='images/bubbles.png', alt='débat')
+        h3 
+          | Rentrez dans le débat dès maintenant !
+          br
+          small et connectez-vous sur notre espace dédié au
+        a.btn.btn-primary.btn-cta(href='http://pjlr.democracyos.eu/')
+          span 
+            i.fa.fa-bank
+            | &nbsp;&nbsp;projet&nbsp;de&nbsp;loi sur le&nbsp;renseignement
+  
+  section.container
+    .row.vertical-align
+      .col-xs-12.col-md-6.feature-box
+        span.big-icon
+          img.img-responsive.center-block(src='images/laptop.png', alt='code')  
+        h3 Découvrez la plateforme
+        ul.list-unstyled
+          li
+            a.btn.btn-primary.btn-cta(href='http://democracyos.org/')
+              span site officiel
+              small (en anglais)
+          li
+            a.btn.btn-primary.btn-cta(href='https://github.com/DemocracyOS/app')
+              span le code sur github
+              small (en anglais)
+      .col-xs-12.col-md-6.feature-box.feature-img
+        img.img-responsive(src='images/devices-preview.png', alt='devices-preview')
+    
+  section.container
+    :markdown
+      # Qui est derrière DemocracyOS France ?
+      
+      Nous sommes un groupe de citoyens français inspirés par les exemples internationaux de DemocracyOS, que nous avons décidé d'adapter ici pour moderniser notre démocratie. 
+      
+      
+    .medium-embed
+      script(async='', src='https://static.medium.com/embed.js')
+      a.m-story(data-width='400px', data-collapsed='true', href='https://medium.com/@DemocracyOS_FR/en-2015-r%C3%A9inventons-la-d%C3%A9mocratie-4e6b24e10ae8') En 2015, réinventons la démocratie
+      p.caption
+        a(href='https://medium.com/@DemocracyOS_FR/en-2015-r%C3%A9inventons-la-d%C3%A9mocratie-4e6b24e10ae8')
+          span lire notre manifeste sur Medium
+  
+    ul.list-unstyled.team.clearfix
+      
+      - var team = [{'name':'Alain','image':'images/team/moustachu-02.jpg'},{'name':'moustachu','image':'images/team/moustachu-03.jpg'}] ;
+      each member in team
+        li.member
+          img.avatar.img-circle(src='#{member.image}')
+          .name #{member.name}
+      
+    :markdown
+      Nous nous sommes fixés deux objectifs:
+
+      1.  Se servir de notre plateforme comme d'un espace constructif de résonance de l'opinion publique sur des textes de lois importants
+      2.  Épauler des associations, des mouvements citoyens, des partis politiques, et tous types de structure prêts à faire le pari de la démocratie participative en ligne grâce à un outil efficace, simple d'utilisation et open source.  
+      Nous sommes sur le point de créer une association afin de mieux structurer notre travail sur ces deux objectifs.
+      
+    
+  section.container.text-center
+    span.big-icon
+      img.img-responsive.center-block(src='images/contact.png', alt='contact')
+    h3 Vous voulez nous rejoindre ? Contactez‑nous !
+    ul.list-inline.contact-link
+      li
+        a(href='mailto:democracyos.fr@gmail.com')
+          .text-center
+            i.fa.fa-3x.fa-envelope
+          span democracyos.fr@gmail.com
+      li
+        a(href='https://twitter.com/DemocracyOS_FR')
+          .text-center
+            i.fa.fa-3x.fa-twitter
+          span @DemocracyOS_FR
+      li
+        a(href='https://www.facebook.com/DemocracyOSfrance')
+          .text-center
+            i.fa.fa-3x.fa-facebook
+          span /DemocracyOSfrance
+  
+  // build:js scripts/index.js
+  script(src='scripts/index.js')
+  // endbuild

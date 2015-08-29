@@ -1,0 +1,9 @@
+{
+  "name": "yo-0-2-0",
+  "private": true,
+  "dependencies": {
+    "chai": "~1.8.0",
+    "mocha": "~1.14.0"
+  },
+  "devDependencies": {}
+}

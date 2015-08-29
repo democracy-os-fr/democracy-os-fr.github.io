@@ -1,0 +1,26 @@
+extends layouts/page
+  
+block content
+
+  section.container(role='tabpanel') 
+    ul.nav.nav-tabs.nav-justified(role='tablist') 
+      li.active(role='presentation')
+        a(href='#general', aria-controls='general' role='tab', data-toggle='tab')
+          | Général
+      li(role='presentation')
+        a(href='#bootstrap', aria-controls='bootstrap' role='tab', data-toggle='tab')
+          | Bootstrap
+      li(role='presentation')
+        a(href='#markdown', aria-controls='markdown' role='tab', data-toggle='tab')
+          | Markdown
+    
+    div.tab-content
+      div#general.tab-pane.active(role='tabpanel') 
+        
+        section
+          h1 Raleway
+        
+      div#bootstrap.tab-pane(role='tabpanel') 
+        include includes/bootstrap-theme
+      div#markdown.tab-pane(role='tabpanel') 
+        include:markdown includes/markdown.md

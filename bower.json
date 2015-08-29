@@ -1,0 +1,10 @@
+{
+  "name": "yo-0-2-0",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.1",
+    "holderjs": "~2.7.1",
+    "font-awesome": "~4.3.0",
+    "bootstrap": "~3.3.4"
+  }
+}
