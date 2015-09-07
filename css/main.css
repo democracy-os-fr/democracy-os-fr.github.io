@@ -180,7 +180,7 @@ header .punch-line {
   padding: 25px 50px ;
   margin: 50px auto 100px ;
   font-family: 'Raleway', sans-serif;
-  font-size: 41px;
+  font-size: 34px;
   text-align: center ;
 }
 @media (max-width: 991px) {
@@ -189,6 +189,7 @@ header .punch-line {
   }
 }
 header .punch-line b {
+  font-weight: 200;
   color: #ec2939;
 }
 section {
