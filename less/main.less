@@ -253,7 +253,7 @@ header {
 			margin: 50px auto 100px ;
 
 			font-family: @headings-font-family ;
-			font-size: 36px ;
+			font-size: @font-size-h2 ;
 			text-align: center ;
 
 			@media (max-width: @screen-sm-max ){
@@ -261,7 +261,7 @@ header {
 			}
 
 			b {
-
+				font-weight : @headings-font-weight ;
 				color: extract(@grad-colors,5) ;
 
 			}
@@ -305,6 +305,7 @@ section {
 	}
 
 	.team {
+
 
 		margin: 50px auto ;
 

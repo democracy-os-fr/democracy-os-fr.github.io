@@ -37,7 +37,6 @@
     "gulp-uglify": "^1.2.0",
     "holderjs": "^2.6.0",
     "imagesloaded": "^3.1.8",
-    "isotope-layout": "^2.2.0",
     "jquery": "^2.1.4",
     "url-regexp": "^1.0.2"
   }
