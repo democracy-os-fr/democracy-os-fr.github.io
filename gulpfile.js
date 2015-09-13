@@ -19,8 +19,7 @@ var jsFiles = [
   'node_modules/jquery/dist/jquery.min.map',
   'node_modules/bootstrap/dist/js/bootstrap.js',
   'node_modules/imagesloaded/imagesloaded.pkgd.js',
-	'node_modules/isotope-layout/node_modules/masonry-layout/dist/masonry.pkgd.js',
-	'node_modules/holderjs/holder.js'
+  'node_modules/holderjs/holder.js'
 ] ;
 
 var jsLibFiles = [
@@ -28,8 +27,6 @@ var jsLibFiles = [
   'js/lib/bootstrap.js',
   'js/lib/ie10-viewport-bug-workaround.js',
   'js/lib/imagesloaded.pkgd.js',
-	'js/lib/masonry.pkgd.js',
-	'js/lib/holder.js',
   'js/lib/jquery.balancetext.js',
   'js/lib/jquery.slabtext.js'
 ] ;
@@ -74,7 +71,7 @@ gulp.task('bundle-js',['copy-js'], function(){
   return gulp.src(jsLibFiles)
     .pipe(plugins.uglify())
     .pipe(plugins.concat('bundle.min.js'))
-    .pipe(gulp.dest('js/lib'));
+    .pipe(gulp.dest('js/lib')) ;
 } ) ;
 
 
@@ -131,7 +128,7 @@ gulp.task('phantom', function(){
     .pipe(gulp.dest('.'));
 });
 
-gulp.task('build', ['copy-css','copy-fonts','bundle-js','js','less','phantom']);
+gulp.task('build', ['copy-css','copy-fonts','bundle-js','js','less']);
 
 gulp.task('seo', ['sitemap'] , function () {
 
