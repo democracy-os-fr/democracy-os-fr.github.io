@@ -165,11 +165,12 @@ header .navbar ul.nav {
 }
 header .navbar ul.nav li {
   display: inline-block;
+  margin-bottom: 0px;
 }
 header .navbar ul.nav .fa {
   font-size: 28px;
   margin-top: 15px;
-  margin-bottom: 15px;
+  margin-bottom: 0px;
 }
 header .punch-line {
   max-width: 768px;
