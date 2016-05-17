@@ -269,6 +269,9 @@ section.featured-content .big-icon {
 section.container.video {
   max-width: 768px;
 }
+.ouishare {
+  width: 100vw;
+}
 @media (max-width: 991px) {
   h1,
   header .punch-line {
