@@ -5,3 +5,5 @@ node_modules
 phantom.txt
 
 dist
+
+.DS_Store
