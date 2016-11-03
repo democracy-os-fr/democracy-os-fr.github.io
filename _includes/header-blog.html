@@ -1,0 +1,61 @@
+<nav class="navbar navbar-default navbar-static-top" style="background-color:#111">
+      <div class="container" >
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="{{ site.baseurl }}/">{% include logo.html %}</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+           <li><a href="{{site.baseurl}}/blog">Blog</a></li>
+            <li><a href="{{site.baseurl}}/a-propos">À propos</a></li>
+            <li><a href="{{site.baseurl}}/participer">Participer</a></li>
+            <li><a href="http://democracyos.eu/docs-fr/" target="_blank">Démarrer</a>
+            
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+<header id="myCarousel" class="carousel slide carousel-fade">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            {% for post in site.posts limit:3 %}
+          <div class={% cycle 'addclass': '"item active"', '"item"', '"item"' %}>
+
+            
+                <div class="fill {{post.customclass}}" style=" background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url({{site.baseurl}}/{{ post.hero }}) center no-repeat; background-size: cover ; "> <div class="container"><h1><a href="{{site.url}}{{post.url}}">{{post.title}}</a></h1><p>{{post.description_hero}}</p> </div>
+                </div>
+                </div>
+     
+
+          {% endfor %}
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="icon-prev"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="icon-next"></span>
+        </a>
+    </header>
+
+
+
+      
+
+   
+
+

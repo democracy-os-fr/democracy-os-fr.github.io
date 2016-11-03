@@ -1,0 +1,214 @@
+prose:
+ siteurl: 'https://arthur-koenig.github.io/dos.github.io/'
+ media: 'img/medias'
+ metadata:
+  _posts:
+   - name: "layout"
+     field:
+      element: "hidden"
+      value: "post"
+   - name: "tag"
+     field:
+      element: "multiselect"
+      label: "Ajouter un tag"
+      placeholder: "choisir un tag"
+      options:
+       - name: "Presse"
+         value: "presse"
+   - name: "comments"
+     field:
+      element: "checkbox"
+      label: "Commentaires"
+      help: "Activer ou non le module Disqus"
+      value: true
+   - name: "published"
+     field:
+      element: "checkbox"
+      label: "Publié"
+      help: "Activer/désactiver la publication"
+      value: true
+   - name: "title"
+     field:
+     element: "text"
+     label: "title"
+   - name: "customclass"
+     field:
+      element: "multiselect"
+      label: "filtre instagram"
+      placeholder: "earlybird, xpro2, Aden..."
+      help: "Pour ajouer un filtre instagram sur les images du slider"
+      options:
+       - name: "1977"
+         value: "_1977"
+       - name: "Aden"
+         value: "aden"
+       - name: "brannan"
+         value: "brannan"
+       - name: "brooklyn"
+         value: "brooklyn"
+       - name: "clarendon"
+         value: "clarendon"
+       - name: "earlybird"
+         value: "earlybird"
+       - name: "earlybird"
+         value: "earlybird"
+       - name: "hudson"
+         value: "hudson"
+       - name: "inkwell"
+         value: "inkwell"
+       - name: "kelvin"
+         value: "kelvin"
+       - name: "lark"
+         value: "lark"
+       - name: "lofi"
+         value: "lofi"
+       - name: "mayfair"
+         value: "mayfair"
+       - name: "moon"
+         value: "moon"
+       - name: "nashville"
+         value: "nashville"
+       - name: "perpetua"
+         value: "perpetua"
+       - name: "reyes"
+         value: "reyes"
+       - name: "rise"
+         value: "rise"
+       - name: "slumber"
+         value: "slumber"
+       - name: "toaster"
+         value: "toaster"
+       - name: "valencia"
+         value: "valencia"
+       - name: "walden"
+         value: "walden"
+       - name: "willow"
+         value: "willow"
+       - name: "xpro2"
+         value: "xpro2"
+   - name: "auteur"
+     field:
+      element: "text"
+      label: "Auteur"
+      placeholder: "Prénom Nom"
+   - name: "description"
+     field:
+      element: "text"
+      label: "sous-titre sur le slider"
+      help: "s'affiche sur la grande image da l'article, sous le titre principal"
+      placeholder: "court sous-titre de l'article"
+   - name: "previewtext"
+     field:
+      element: "textarea"
+      label: "description de l'article"
+      placeholder: "Cet article parle de ça, et de ça aussi. Voilà un court extrait, un teaser ou un petit résumé."
+      help: "extrait, teaser ou résumé de l'article en quelques lignes max"
+  _projets:
+   - name: "published"
+     field:
+      element: "hidden"
+      value: true
+   - name: "title"
+     field:
+      element: "text"
+      label: "title"
+   - name: "layout"
+     field:
+      element: "hidden"
+      value: "null"
+   - name: "background"
+     field:
+      element: "text"
+      label: "couleur de la section"
+      placeholder: "#571843"
+      help: "en format hexadecimal"
+   - name: "description"
+     field:
+      element: "text"
+      label: "description du projet"
+      placeholder: "en quelques lignes"
+   - name: "link"
+     field:
+      element: "text"
+      label: "lien vers le site du projet"
+      placeholder: "https://participez.nanterre.fr/"
+  _teams:
+   - name: "published"
+     field:
+      element: "hidden"
+      value: true
+   - name: "title"
+     field:
+      element: "text"
+      label: "titre"
+   - name: "layout"
+     field:
+      element: "hidden"
+      value: "null"
+  _brands:
+   - name: "published"
+     field:
+      element: "hidden"
+      value: true
+   - name: "layout"
+     field:
+      element: "hidden"
+      value: "null"
+   - name: "link"
+     field:
+      element: "text"
+      label: "lien vers l'article, le média"
+  _events:
+   - name: "published"
+     field:
+      element: "hidden"
+      value: true
+   - name: "title"
+     field:
+      element: "text"
+      label: "titre"
+   - name: "layout"
+     field:
+      element: "hidden"
+      value: "null"
+   - name: "description"
+     field:
+      element: "text"
+      label: "Description courte de l'événement"
+   - name: "bouton"
+     field:
+      element: "text"
+      label: "Texte dans le bouton"
+      placeholder: "ex: lien vers l'inscription"
+   - name: "link"
+     field:
+      element: "text"
+      label: "lien vers lequel amène le bouton"
+   - name: "date"
+     field:
+      element: "text"
+      label: "date de début au format aaaa-mm-jj"
+      help: "si l'événement ne dure qu'une seule journée, mettre la date de cette journée"
+   - name: "end-date"
+     field:
+      element: "text"
+      label: "Date de fin de l'événement au format aaaa-mm-jj"
+      help: "si l'événement ne dure qu'une seule journée, ne rien mettre"
+   - name: "type"
+     field:
+      element: "text"
+      label: "Type de section: actualité, événement..."
+      placeholder: "Actualité"
+   - name: "full-frame"
+     field:
+      element: "button"
+      label: "Image avec fond de couleur"
+      help: "Si vous voulez que l'image prenne tout le cadre"
+      on: "true"
+      off: "false"
+   - name: "background"
+     field:
+      element: "text"
+      label: "couleur de fond de l'image"
+      help: "au format hexadecimal"
+      placeholder: "#CEC3CE"

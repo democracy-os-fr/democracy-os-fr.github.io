@@ -1,0 +1,29 @@
+---
+title: Espace Presse
+layout: default
+---
+<div class="marketing" style="text-align:left">
+	<h2>Kit média </h2>
+	<br>
+	<p><b> Visuels, polices et logos de DemocracyOS France</b></p>
+	<a class="btn btn-primary btn-lg" href="{{site.url}}/kitcom_democracyos.zip" download="kitcom"><span ></i><i class="fa fa-download" aria-hidden="true"></i> Télécharger le kit</span></a>
+	<br>
+	<br>
+	<br>
+	<h2>Communiqués / articles</h2>
+    <br>
+		{% for post in site.posts %}
+		{% if post.tags contains 'presse' %}
+			<li><p>
+			  <i class="fa fa-calendar" aria-hidden="true"></i> {%include date-display-post.html%} / <b><a href="{{post.url}}"><b>{{post.title}}</b></a></b></p>
+			</li>
+		{% endif %}
+		{% endfor %}     
+</div>
+
+
+        
+          
+
+        
+          

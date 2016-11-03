@@ -1,0 +1,58 @@
+---
+title: Qui utilise DemocracyOS?
+layout: realisations
+---
+
+<br>
+<br>
+
+
+<div class="projects">
+{% for projet in site.projets reversed %}
+
+
+	
+<section style="background: linear-gradient(rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.05)); background-color:{{projet.background}}">
+	<div class="container marketing" >
+	<li>
+	<div class="row">
+		<div class="col-sm-7">
+			<h1>{{projet.title}}</h1>
+			<p class="lead">{{projet.description}}</p>
+				<br>
+				<br>
+			<a href="{{projet.link}}" target="_blank"><button class="btn btn-default"><i class="fa fa-external-link" aria-hidden="true"></i> Voir le site</button></a>
+		</div>
+		<div class="col-sm-5 hidden-xs">
+			<img class="img-responsive" src="{{site.baseurl}}/{{projet.visuel}}">
+		</div>
+		
+	</div>
+</li>
+</section>
+
+
+
+{% endfor %}
+</div>
+
+
+<br>
+<br>
+<br>
+
+
+
+
+<p class="text-center"> <b>Vous aussi, commencez à utiliser DemocracyOS </b><br>
+	<br>
+ <a class="btn btn-primary btn-lg" href="http://democracyos.eu/docs-fr/" target="_blank">
+                <span ></i>Guide de démarrage</span></a>
+</p>
+<br>
+<br>
+
+
+
+
+

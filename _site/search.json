@@ -1,0 +1,21 @@
+[
+
+    {
+      "title"     : "République Numérique",
+      "url"       : "//blog/repnumerique",
+      "thumbnail" : "/img/medias/z_repnum.jpg"
+    } ,
+  
+    {
+      "title"     : "Comment fonctionne notre plateforme?",
+      "url"       : "//blog/fonctionnement-plateforme",
+      "thumbnail" : "/img/medias/z_banner-1.png"
+    } ,
+  
+    {
+      "title"     : "En 2015, réinventons la démocratie",
+      "url"       : "//blog/DemocracyOS",
+      "thumbnail" : "/img/medias/z_democracy-1.png"
+    } 
+  
+]
