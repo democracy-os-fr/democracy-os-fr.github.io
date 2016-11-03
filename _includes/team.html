@@ -1,0 +1,24 @@
+
+<ul class="list-inline team clearfix">
+  {% for team in site.teams %}
+    <li class="member">
+      <img class= "avatar img-circle" src="{{site.baseurl}}/{{ team.avatar }}">
+      {% assign name = team.title | split:' ' | first %}
+      <div class="name"> {{ name }} </div>
+    </li>
+  {% endfor %}
+    <br>
+    <br>
+  <li class="member">             
+    <a href="https://www.helloasso.com/associations/democracyos-france/adhesions/adhesion-a-democracyos-france" target="_blank">
+    <i class="avatar fa fa-inverse fa-circle fa-user-plus fa-3x " aria-hidden="true"></i>
+    </a>                         
+    <div class="name"> Devenir membre </div>
+  </li>
+</ul>
+
+
+                
+
+
+

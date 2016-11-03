@@ -1,0 +1,91 @@
+<!--  
+
+			{% if event.end-date %}
+
+			{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+			{% capture posttime %}{{event.end-date | date: '%s'}}{% endcapture %}
+			{% if posttime > nowunix %}
+			<h3 class="text-center">Nous serons présents, et vous ?</h3>
+			{% endif %}
+
+			{% capture startevent %}{{'now' | date: '%s'}}{% endcapture %}
+			{% capture endevent %}{{event.end-date | date: '%s'}}{% endcapture %}
+			{% if posttime < nowunix %}
+			<h3 class="text-center">Nous étions présents, et vous ?</h3>
+			{% endif %}
+
+			{% else %}
+
+			{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+			{% capture posttime %}{{event.date | date: '%s'}}{% endcapture %}
+			{% if posttime > nowunix %}
+			<h3 class="text-center">Nous serons présents, et vous ?</h3>
+			{% endif %}
+
+			{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+			{% capture posttime %}{{event.date | date: '%s'}}{% endcapture %}
+			{% if posttime < nowunix %}
+			<h3 class="text-center">Nous étions présents, et vous ?</h3>
+			{% endif %}
+
+			{% endif %}
+			-->
+		
+
+			{% if event.full_frame == true %}
+
+				<section>
+					<center>
+						<br>
+				      	<a href="{{ event.link }}" target="_blank">
+							<img class= "img-responsive" src="{{site.baseurl}}/{{ event.visuel }}">
+						</a>
+					</center>
+				</section>
+				<div class="container text-center">
+
+					<br>
+					<p class="lead">  {{ event.description }}  </p>
+				    <h5><a href="{{ event.link }}" class="btn btn-danger" target="_blank">{{ event.bouton }}</a></h5>
+				</div>
+			    <br>
+
+
+
+			{% else %}
+
+			<p class="lead text-center"> <b>{{event.title}}</b></p>
+
+				<section class="section-features text-center" style="background-color: {{event.background}}; ">
+			      
+
+			      		<a href="{{ event.link }}" target="_blank">
+								    <img class= "img-responsive center-block" src="{{site.baseurl}}/{{ event.visuel }}">
+						</a>
+					
+						<h4 style="color:#fafafa">  {{ event.description }}  </br>
+							{% if event.end_date %}
+
+								{% capture startevent %}{{event.date | date: '%m'}}{% endcapture %}
+								{% capture endevent %}{{event.end_date | date: '%m'}}{% endcapture %}
+									
+									{% if startevent < endevent %}
+										<i>Du {% include date-display-month.html %} au {% include date-display-end.html %}</i>
+									{% else %}
+										<i>Du {% include date-display.html %} au {% include date-display-end.html %}</i>
+									{% endif %}
+
+							{% else %}
+								<i> Le {% include date-display-oneday.html %}</i>
+
+							{% endif %}
+						</h4>
+
+						<h5><a href="{{ event.link }}" class="btn btn-default" target="_blank">{{ event.bouton }}</a></h5>
+
+				
+				</section>
+
+			{% endif %}                      
+			                   
+	

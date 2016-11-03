@@ -1,19 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+---
+layout:
+---
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://www.democracyos.eu/</loc>
-        <lastmod>2015-05-02T05:20:34.000Z</lastmod>
+    <loc>{{ site.url }}/</loc>
+    <lastmod>{{ site.time }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.democracyos.eu/index.min.html</loc>
-        <lastmod>2015-05-01T19:38:10.000Z</lastmod>
+    <loc>{{ site.url }}/blog</loc>
+    <lastmod>{{ site.time }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.democracyos.eu/theme.html</loc>
-        <lastmod>2015-05-02T05:20:44.000Z</lastmod>
+    <loc>{{ site.url }}/a-propos/</loc>
+    <lastmod>{{ site.time }}</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
     </url>
     <url>
-        <loc>http://www.democracyos.eu/theme.min.html</loc>
-        <lastmod>2015-05-01T19:38:10.000Z</lastmod>
+    <loc>{{ site.url }}/projets/</loc>
+    <lastmod>{{ site.time }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
     </url>
+    <url>
+    <loc>{{ site.url }}/participer</loc>
+    <lastmod>{{ site.time }}</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.9</priority>
+    </url>
+    <url>
+    <loc>{{ site.url }}/presse</loc>
+    <lastmod>{{ site.time }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    </url>
+     {% for post in site.posts %}
+    <url>
+      <loc>{{ site.url }}{{ post.url }}</loc>
+        <lastmod>{{ post.date }}</lastmod>
+      <changefreq>yearly</changefreq>
+      <priority>0.9</priority>
+    </url>
+    {% endfor %}
 </urlset>

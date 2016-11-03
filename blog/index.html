@@ -1,0 +1,67 @@
+---
+title: Blog
+layout: blog
+blog: true
+---
+
+   <div class="container-blog" style="margin-top:100px">
+
+
+        <div class="row">
+
+            <!-- Blog Entries Column -->
+            <div class="col-sm-8" id="post">
+
+
+            	{% for post in paginator.posts %}
+            	<h1>
+                    <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+                </h1>
+
+             
+                {% assign teams = site.teams | where:"title", post.auteur %}
+                {% for team in teams %}
+                <h5><i class="fa fa-clock-o" aria-hidden="true"></i> Posté le {%include date-display-post.html%} - par <a href="{{site.baseurl}}{{team.url}}"><b>{{team.title}}</b></a>
+                    {% assign name = team.title | split:' ' | first %}
+                <img class="avatar avatar-blog" src="{{site.baseurl}}/{{team.avatar}}" alt="{{name}}"></h5>
+                
+                {% endfor %}
+             
+
+                <!--  <h5><i class="fa fa-clock-o" aria-hidden="true"></i> Posté le {%include date-display-post.html%} - par <b>{{post.auteur}}</b>
+                </h5> -->
+                <div>
+                <a href="{{site.baseurl}}{{post.url}}">
+                            <div class="blog-img" style="background: url({{site.baseurl}}/{{ post.hero }}) center no-repeat; background-size: cover ; ">
+                            </div>
+                        </a>
+                </div>
+                <br>
+                <div class="share-icons">
+                Partager cet article: 
+                <a href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{ site.url }}{{ post.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Partager sur Twitter"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+
+                <a href="{{site.url}}{{post.url}}" rel="nofollow" onclick="window.open('https://www.facebook.com/sharer.php?u={{site.url}}{{post.url}}&title={{post.title}}', 'newwindow', 'width=600, height=400'); return false;" target="_blank" title="Partager sur Facebook"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+                
+                </div>
+                <hr>
+                <p class="getsmaller">{{post.extrait}}</p>
+                
+                <a class="btn btn-primary" href="{{site.url}}{{post.url}}">Lire plus <i class="fa fa-chevron-right" aria-hidden="true" style="padding-left:10px"></i></a> 
+
+                <hr>
+                {% endfor %}
+
+                {% include paginate.html %}
+
+            </div>
+            <br>
+            <div class="col-sm-4">
+            {% include sidebar.html %}
+            </div>
+
+        </div>
+        <!-- /.row -->
+
+         <br>
+            <br>

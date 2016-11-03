@@ -1,0 +1,89 @@
+<!-- Blog Sidebar Widgets Column -->
+         
+                    
+                   
+                {% if page.blog == true or page.avatar %}
+
+                 <a href="{{site.baseurl}}/blog"><div class="logo-blog text-center hidden-xs"><img src="{{site.baseurl}}/img/square.png" alt="logo-square-DemocracyOS"></a>
+                    
+                    <p>Blog</p>
+                    </div>
+
+                <div class="well">
+                    <h4>Rechercher</h4>
+                    <div class="input-group">
+                        <input type="text" id="search-input" class="form-control" placeholder="rechercher un article...">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default" type="button">
+                                <i class="fa fa-search" aria-hidden="true"></i>
+                        </button>
+                        </span>
+                      <!-- /.input-group -->  
+                    </div>
+                    <ul class= "list-unstyled" style="font-weight:600; margin-top:20px;" id="results-container"></ul>    
+                </div>
+               
+                <!-- Side Widget Well -->
+                <div class="well">
+                    <h4>Derniers articles</h4>
+                    {% for post in site.posts limit:8 %}
+                    <a href="{{site.url}}{{post.url}}"><div class="btn btn-default btn-well" style="margin-right:3px; margin-top:6px;">{{post.title | truncatewords:6}}</div></a>
+                    {% endfor %}
+                </div>
+
+                  <!-- Blog Categories Well -->
+                <div class="well" id="twitter-widget">
+                    <a class="twitter-timeline" data-lang="fr" data-width="650" data-height="400" data-theme="light" href="https://twitter.com/DemocracyOS_FR">Tweets by DemocracyOS_FR</a> 
+                    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+                </div>
+
+                {% else %}
+              
+
+                 <div class="row">
+                    {% for post in site.posts limit:3 %}
+                      <div class="col-sm-4">
+                        <div class="well well-homepage well-img" style="margin-bottom:20px">
+                              <a href="{{site.baseurl}}{{post.url}}">
+                            <div class="thumbnail-img" style="background: url({{site.url}}/{{ post.hero }}) center no-repeat; background-size: cover ; ">
+                            </div>
+                        </a>
+                            <a href="{{site.baseurl}}{{post.url}}">
+                                <p class="welltitle">
+                            <b>{{post.title| truncatewords:6}}</b><br></a>
+                             <div class="hidden-sm hidden-md hidden-lg">{{post.extrait | truncatewords: 20}}</div>
+                        
+                           
+                            </p>
+
+
+                             {% assign teams = site.teams | where:"title", page.auteur %}
+                {% for team in teams %}
+
+                <img class="avatar avatar-blog avatarwell" src="{{site.baseurl}}/{{team.avatar}}" alt="{{name}}">
+                <a class="person" href="{{site.baseurl}}{{team.url}}"><b>{{team.title}}</b></a>
+                    {% assign name = team.title | split:' ' | first %}</h5>
+                <h5 class="welldate">{% assign m = post.date | date: "%-m" %}
+                    {{ post.date | date: "%-d" }}
+                    {% case m %}
+                      {% when '1' %}janvier
+                      {% when '2' %}février
+                      {% when '3' %}mars
+                      {% when '4' %}avril
+                      {% when '5' %}mai
+                      {% when '6' %}juin
+                      {% when '7' %}juillet
+                      {% when '8' %}août
+                      {% when '9' %}septembre
+                      {% when '10' %}octobre
+                      {% when '11' %}novembre
+                      {% when '12' %}décembre
+                    {% endcase %}
+                    {{ post.date | date: "%Y" }} </h5>
+                    {% endfor %}
+                        </div>
+                      </div>
+                    {% endfor %}
+                </div>
+                {% endif %}
