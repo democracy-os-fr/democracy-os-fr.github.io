@@ -1,3 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,900');
+
+html,
+body {
+    height: 100%;
+    width:100%;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, a, .td-name, td, li {
+  
+  font-family: "lato","Helvetica Neue",Arial,sans-serif;
+}
+h1{
+  font-weight:600;
+  font-size: 50px;
+}
 .slabtexted .slabtext {
   display: -moz-inline-box;
   display: inline-block;
@@ -27,14 +42,14 @@ strong {
 }
 a {
   color: inherit ;
-  border-bottom: 1px dotted ;
 }
 .text-thin {
   font-family: "Lato", Helvetica, Arial, sans-serif;
   font-weight: 300 ;
 }
-section p {
+p {
   font-size: 18px ;
+  color: #444;
 }
 .cta {
   display: inline-block;
@@ -101,9 +116,34 @@ section p {
     width: 100%;
   }
 }
-.container {
+.container{
   max-width: 992px;
   padding: 0 40px ;
+}
+.containerpost{
+  max-width: 850px;
+  padding: 0 40px ;
+}
+.container-blog {
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+@media (min-width: 768px) {
+  .container-blog {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container-blog {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container-blog {
+    width: 1170px;
+  }
 }
 @media (min-width: 992px) {
   .vertical-align {
@@ -111,92 +151,79 @@ section p {
     align-items: center;
   }
 }
-.medium-embed {
-  max-width: 400px ;
-  margin: 50px auto ;
-  text-align: center ;
+
+header:not(#myCarousel) {
+
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#3b2344+0,482342+50,86294b+100 */
+background: #3b2344; /* Old browsers */
+background: -moz-linear-gradient(left,  #3b2344 0%, #482342 50%, #86294b 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #3b2344 0%,#482342 50%,#86294b 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #3b2344 0%,#482342 50%,#86294b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b2344', endColorstr='#86294b',GradientType=1 ); /* IE6-9 */
+
 }
-.medium-embed .caption {
-  margin-top: 15px ;
-}
-.section-bg{
-  width: 100vw;
-  height: 40vh;
-  background:url('../img/bg-fr.jpg')center center no-repeat;
-  display:table-cell;
-  vertical-align:middle;
-}
-header {
-  height: auto  ;
-  background: url('../img/bg-fr.jpg') center center no-repeat transparent;
+.header-alt{
+  min-height: 500px ;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#3b2344+0,482342+50,86294b+100 */
+background: #3b2344; /* Old browsers */
+background: -moz-linear-gradient(left,  #3b2344 0%, #482342 50%, #86294b 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #3b2344 0%,#482342 50%,#86294b 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #3b2344 0%,#482342 50%,#86294b 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b2344', endColorstr='#86294b',GradientType=1 ); /* IE6-9 */
   background-size: cover ;
 }
-@media (max-width: 991px) {
-  header {
+.section-bg{
+  background: url('../img/bg-fr.jpg') center center no-repeat transparent;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.section-bg img {
+padding:10px;
+  }
+@media (min-width: 768px) {
+.section-bg img {
+max-height: 300px;
+  }
+}
+  .section-bg h2 small {
+color: #fafafa;
+font-size: 55%;
+  }
+@media (min-width: 768px) {
+  header:not(.realisations) {
+    min-height: 700px ;
+  }
+}
+@media (max-width: 768px) {
+  .header-alt {
+    min-height: 100px;
     height: auto ;
   }
 }
-header .navbar .navbar-brand img {
-  height: 40px ;
-}
-@media (max-width: 991px) {
-  header .navbar .navbar-brand {
-    display: block ;
-    float: none ;
-    height: auto ;
-    padding-top: 40px ;
-  }
-  header .navbar .navbar-brand img {
-    height: auto ;
-  }
-}
-header .navbar a {
-  color: white ;
-  opacity: 0.8 ;
-  transition: all 400ms ease;
-  border-bottom: 2px solid transparent ;
-}
-header .navbar a:hover {
-  border-color: white ;
-  background-color: transparent ;
-  opacity: 1 ;
-}
-header .navbar ul.nav {
-  float: right ;
-}
-@media (max-width: 991px) {
-  header .navbar ul.nav {
-    float: none ;
-    text-align: center ;
-  }
-}
-header .navbar ul.nav li {
-  display: inline-block;
-  margin-bottom: 0px;
-}
-header .navbar ul.nav .fa {
-  font-size: 28px;
-  margin-top: 15px;
-  margin-bottom: 0px;
-}
-header .punch-line {
-  max-width: 768px;
-  border-radius: 2px ;
+.posts{
+  max-width: 992px;
+  border-radius: 3px ;
   box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.4);
   background-color: white ;
   color: #6f3060;
-  padding: 25px 50px ;
-  margin: 50px auto 100px ;
-  font-family: 'Raleway', sans-serif;
+  margin: 20px auto 30px ;
+  height: 150px;
+  white-space: normal;
+}
+
+.punch-line {
+  max-width: 992px;
+  border-radius: 3px ;
+  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.4);
+  background-color: white ;
+  color: #6f3060;
+  padding:20px;
+  margin: 20px auto 30px ;
   font-size: 34px;
   text-align: center ;
 }
-@media (max-width: 991px) {
-  header .punch-line {
-    margin: 10px auto 60px ;
-  }
-}
-header .punch-line b {
+
+.punch-line b {
   font-weight: 200;
   color: #ec2939;
 }
@@ -221,14 +248,13 @@ section .feature-box .big-icon {
 section .feature-box.feature-img {
   padding: 50px ;
 }
-section .team {
-  margin: 50px auto ;
-  text-align: center ;
-}
 section .team .member {
   display: inline-block;
   width: 150px ;
   margin: 0 auto ;
+}
+.member a{
+  border-bottom: 0px;
 }
 section .team .avatar {
   width: 80px;
@@ -267,8 +293,10 @@ section .contact-link li:nth-child(5) .fa {
   color: #ec2939;
 }
 section.featured-content {
-  background-color: #f6f3dd ;
+  background-color: #F6F6F6 ;
   color: rgba(0, 0, 0, 0.8);
+  padding-top:80px;
+  padding-bottom:80px;
 }
 section.featured-content .big-icon {
   color: rgba(0, 0, 0, 0.7);
@@ -276,18 +304,729 @@ section.featured-content .big-icon {
 section.container.video {
   max-width: 768px;
 }
-@media (max-width: 991px) {
-  h1,
-  header .punch-line {
+
+@media (max-width: 767px) {
+  h1 {
+    font-size: 35px;
+  }
+}
+@media (max-width: 500px) {
+.punch-line {
+    font-size: 19px;
+  }
+}
+.punchline {
+  font-size: 32px;
+  color:white;
+  margin: 60px auto 100px ;
+}
+@media (max-width: 768px) {
+.punchline {
+  font-size: 22px;
+  }
+}
+h2 small {
+  font-size: 55%;
+}
+.avatar{
+  max-width: 80px;
+  margin:10px;
+}
+.name {
+  font-weight: 400;
+}
+@media (max-width: 768px) {
+  h2 {
     font-size: 32px;
   }
 }
-@media (max-width: 767px) {
-  h1,
-  header .punch-line {
-    font-size: 24px;
+@media (max-width: 768px) {
+  h3 {
+    font-size: 22px;
   }
 }
-.spacer{
-  margin-left: 10px;
+@media (max-width: 768px) {
+  h4 {
+    font-size: 18px;
+  }
+}
+h4 {
+  line-height: 1.5em;
+}
+.brands{
+  margin-top: 0px;
+}
+.uptight{
+  background-color: white;
+  position: relative;
+  margin-top: 0px;
+  z-index:1000;
+  padding: 35px 20px 35px 20px;
+  margin-bottom:105px;
+}
+@media (min-width: 769px) {
+  .uptight{
+  padding: 45px 100px 45px 100px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+  margin-top: -400px;
+
+ }
+}
+.img-projet{
+  border: 1px solid #cecece;
+  border-radius: 3px;
+  padding: 30px;
+  margin-top:20px;
+}
+@media (max-width: 500px) {
+  .img-projet{
+    padding:0px;
+    border: 0px;
+    }
+  }
+
+.morecontent span {
+    display: none;
+}
+.morelink {
+    display: block;
+    border-bottom: 0px;
+    font-weight: 400;
+}
+.projet-desc{
+  text-align: justify;
+}
+@media (max-width: 550px) {
+  .projet-desc{
+    text-align: left;
+  }
+}
+.navbar-default{
+  background-color: transparent;
+  border:0px;
+}
+.navbar a, .navbar-default .navbar-nav>li>a{
+color: white ;
+  opacity: 0.8 ;
+  transition: all 100ms ease;
+  border-bottom: 0px;
+  font-weight:400;
+}
+.navbar a:hover, .navbar-default .navbar-nav>li>a:hover{
+  color: white ;
+  opacity: 1 ;
+}
+.btn-don{
+float:right;
+margin-right:-15px;
+margin-top:-15px;
+color:#46336e;
+}
+.btn-don:hover{
+float:right;
+margin-right:-15px;
+margin-top:-15px;
+color:#c32c46;
+}
+.fa-circle{
+  background-color: #673163;
+  border-radius:50%;
+  padding-top: 14px;
+  padding-left:5px;
+  border-bottom:0px;
+   height:130px;
+  width: 130px;
+}
+.fa-circle:hover{
+  background-color: #c32c46;
+
+}
+.fa-circle-2{
+  border-radius:50%;
+ min-height: 100px;
+ min-width: 100px;
+ padding-top: 26px;
+  border:1px solid black;
+  transition: all 300ms ease;
+}
+.fa-circle-2:hover{
+  background-color: white;
+}
+footer{
+  margin-top:30px;
+  margin-bottom:20px;
+}
+.footer a{
+  border-bottom: 0px;
+}
+.footer-left{
+  list-style: none;
+  font-weight: 400;
+padding-left:0;
+  font-size:18px;
+}
+@media (max-width: 767px) {
+  .footer-left{
+  font-size:20px;
+  text-align:center;
+
+ }
+}
+@media (max-width: 767px) {
+  .footer-left li{
+  margin-bottom:20px;
+ }
+}
+.copyright{
+  text-align: center;
+}
+.footer-icons{
+  text-align:right;
+  font-size:25px;
+  margin-top:-20px;
+}
+.footer-icons i:hover{
+  color:#c32c46;
+}
+.footer-icons i:not(.fa-twitter){
+  padding-right:30px;
+}
+@media (max-width: 768px) {
+  .footer-icons{
+    margin-top:30px;
+    text-align: center;
+  }
+}
+a:hover{
+  color:#c32c46
+}
+.grey{
+  background-color: #F6F6F6;
+  margin-left:-100px;
+  margin-right:-100px;
+  height:auto;
+  margin-bottom:-45px;
+  padding-left:55px;
+  padding-right:55px;
+  padding-top:30px;
+  padding-bottom: 50px;
+}
+@media (max-width: 768px) {
+  .grey{
+   margin-left:-40px;
+  margin-right:-40px;
+  height:auto;
+  }
+}
+.section-features {
+  padding-top:50px;
+  padding-bottom:50px;
+  padding-left:15px;
+  padding-right:15px;
+}
+.fatou{
+  font-weight: 900;
+  font-size:45px;
+  text-shadow: 3px 2px 0px #ccc;
+}
+.btn-nav{
+  margin-top:14px;
+  opacity: 1 !important;
+  margin-left:15px;
+}
+.btn-nav span{
+  color:black;
+}
+.slider-nav{
+  margin-top: -160px;
+}
+@media (max-width: 400px){
+  .slider-nav{
+  margin-top: -170px;
+  }
+}
+.hero-bg{
+  min-height:550px;
+  height: auto;
+}
+.hero-mini{
+  min-height:100px;
+  min-width:100px;
+}
+@media (max-width: 769px) {
+  .hero-bg {
+    min-height:350px;
+    }
+  }
+.hero-title{
+  font-weight:900;
+  font-size:50px;
+  color:white;
+  padding-top:50px;
+}
+.hero-title a{
+  border-bottom:0px;
+}
+@media (min-width: 769px) {
+  .hero-title{
+  padding-top:110px;
+}
+}
+.hero-text{
+  font-weight:400;
+  font-size:45%;
+  color:white;
+  padding-bottom:40px;
+}
+@media (max-width: 769px) {
+  .hero-title {
+    font-size:40px;
+    }
+  }
+
+:focus {
+    outline: auto 0px;
+}
+a:focus{
+  outline: auto 0px;
+}
+.btn:focus{
+   outline: auto 0px;
+}
+
+.img-portfolio {
+    margin-bottom: 30px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+
+/* Home Page Carousel */
+.carousel a:hover{
+  color:inherit;
+}
+
+header.carousel {
+    height: 80%;
+    min-height: 650px;
+}
+
+@media(max-width:767px) {
+  header.carousel {
+    min-height:350px;
+  }
+}
+header.carousel .item,
+header.carousel .item.active,
+header.carousel .carousel-inner {
+    height: 100%;
+}
+
+header.carousel .fill {
+    width: 100%;
+    height: 100%;
+}
+
+.period {
+    display: block;
+    font-style: italic;
+}
+@media(max-width:767px) {
+    header.carousel .carousel {
+        height: 70%;
+    }
+}
+.carousel-fade .carousel-inner .item {
+  opacity: 0;
+  transition-property: opacity;
+}
+.carousel-fade .carousel-inner .active {
+  opacity: 1;
+}
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  left: 0;
+  opacity: 0;
+  z-index: 1;
+}
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+  opacity: 1;
+}
+.carousel-fade .carousel-control {
+  z-index: 2;
+}
+/*
+  WHAT IS NEW IN 3.3: "Added transforms to improve carousel performance in modern browsers."
+  Need to override the 3.3 new styles for modern browsers & apply opacity
+*/
+@media all and (transform-3d), (-webkit-transform-3d) {
+    .carousel-fade .carousel-inner > .item.next,
+    .carousel-fade .carousel-inner > .item.active.right {
+      opacity: 0;
+      -webkit-transform: translate3d(0, 0, 0);
+              transform: translate3d(0, 0, 0);
+    }
+    .carousel-fade .carousel-inner > .item.prev,
+    .carousel-fade .carousel-inner > .item.active.left {
+      opacity: 0;
+      -webkit-transform: translate3d(0, 0, 0);
+              transform: translate3d(0, 0, 0);
+    }
+    .carousel-fade .carousel-inner > .item.next.left,
+    .carousel-fade .carousel-inner > .item.prev.right,
+    .carousel-fade .carousel-inner > .item.active {
+      opacity: 1;
+      -webkit-transform: translate3d(0, 0, 0);
+              transform: translate3d(0, 0, 0);
+    }
+}
+
+
+#myCarousel p, #myCarousel h1{
+  color:white;
+}
+#myCarousel p{
+  font-size:22px;
+  font-weight:400;
+  }
+#myCarousel h1{
+  font-weight:900;
+  font-size:55px;
+  padding-top:350px;
+}
+@media(max-width:768px) {
+ #myCarousel h1{
+font-size: 40px;
+padding-top:160px;
+  }
+}
+@media(max-width:768px) {
+#myCarousel p{
+font-size: 18px
+  }
+  .getsmaller{
+font-size:16px;
+  }
+}
+@media(max-width:550px) {
+  #myCarousel h1{
+    font-size: 35px
+  }
+  #myCarousel p{
+font-size: 16px
+  }
+}
+
+.caption {
+    height: 130px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+.pagination {
+  height: 36px;
+}
+.pagination ul {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+.pagination li {
+  display: inline;
+}
+.pagination li:first-child a {
+  border-left-width: 1px;
+  -webkit-border-radius: 3px 0 0 3px;
+  -moz-border-radius: 3px 0 0 3px;
+  border-radius: 3px 0 0 3px;
+}
+.pagination li:last-child a {
+  -webkit-border-radius: 0 3px 3px 0;
+  -moz-border-radius: 0 3px 3px 0;
+  border-radius: 0 3px 3px 0;
+}
+.pagination a {
+  float: left;
+  padding: 0 14px;
+  line-height: 34px;
+  border: 1px solid #DDD;
+  border-left-width: 0;
+}
+.pagination a:hover, {
+  background-color: whiteSmoke;
+}
+.pagination .active a {
+  color:white;
+  background-color: #C32C46;
+}
+@media(max-width:767px){
+#twitter-widget{
+padding-left:50px;
+padding-right:50px;
+  }
+}
+h1{
+margin-top:0;
+}
+.btn-well{
+  white-space: normal;
+  max-width:400px;
+}
+
+.logo-blog img{
+  height:60px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.share-icons i{
+  font-size:23px;
+  padding-left:8px;
+  padding-right:8px;
+}
+.thumbnails {
+
+  position: relative;
+  width: 300px;
+  height: 150px;
+  overflow: hidden;
+float:left;
+}
+.thumbnails img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: 100%;
+  width: auto;
+  -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+}
+.navbar-right {
+    margin-right: 0;
+  }
+  .navbar{
+    padding-top:15px;
+    padding-bottom: -10px;
+  }
+
+.marketing{
+    padding-top:50px;
+   padding-bottom: 50px;
+  }
+  .marketing-tight{
+    max-width:800px;
+  }
+.lead b{
+  font-weight:900;
+  font-size:30px;
+}
+.welltitle b{
+   font-weight:900;
+  font-size:20px;
+}
+@media(max-width:768px) {
+  .lead b{
+  font-size:20px;
+}
+.img-post{
+  max-height:80%;
+  overflow:hidden;
+  }
+}
+.post p a{
+  border-bottom: 1px dotted black;
+}
+.thumbnail-txt{
+color: rgba(255, 255, 255, 0.8)
+}
+.section1{
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#86294b+0,482342+50,3b2344+100 */
+background: #86294b; /* Old browsers */
+background: -moz-linear-gradient(left,  #86294b 0%, #482342 50%, #3b2344 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #86294b 0%,#482342 50%,#3b2344 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #86294b 0%,#482342 50%,#3b2344 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#86294b', endColorstr='#3b2344',GradientType=1 ); /* IE6-9 */
+}
+.section2{
+background-color: #222;
+
+}
+.newsletter{
+  max-width: 320px;
+  margin:auto;
+}
+.well-newsletter{
+  padding-top:2px;
+  margin-top: -20px;
+}
+.colory li{
+opacity: 0.9;
+width:40.7vw;
+padding-left:30px;
+padding-top:20px;
+padding-bottom:5px;
+margin-bottom:20px;
+list-style: none;
+}
+.colory p{
+  color:white;
+}
+.colory li:hover{
+  opacity:1;
+}
+.colory i{
+  font-size:30px;
+  padding-right:15px;
+}
+
+@media(max-width:991px) {
+  .colory li{
+    width:81vw;
+  }
+}
+
+.colory li:nth-child(1) {
+  background-color: #3C2344;
+}
+.colory li:nth-child(2) {
+  background-color: #502443;
+}
+.colory li:nth-child(3) {
+  background-color: #652646;
+}
+header h2, header h4{
+  color:rgba(255, 255, 255, 0.8);
+  text-align: center;
+}
+.well-homepage{
+  max-width: 550px;
+  margin:auto;
+  margin-bottom:60px;
+}
+.dark{
+  background-color: rgba(32, 56, 125, 1);
+}
+.realisations{
+  height:auto;
+}
+.projects li{
+  list-style: none;
+}
+section{
+  margin:0;
+}
+.brands{
+  margin-top:90px;
+  margin-bottom: 90px;
+}
+.projects h1, .projects p{
+color: rgba(255, 255, 255, 0.9);
+}
+.avatar-blog{
+  max-width: 40px;
+  border-radius: 50%;
+}
+.avatar-page{
+  max-width: 80px;
+  border-radius:4px;
+  border: 1px solid #cecece;
+  margin:15px;
+}
+@media(max-width:768px) {
+  .center-xs{
+    text-align: center;
+  }
+}
+.well-team{
+  position:relative;
+}
+.well-team:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-width: 0 20px 20px 0;
+  border-style: solid;
+  border-color: #fff #fff #dbdbdb #dbdbdb;
+  background: #dbdbdb;
+  display: block; width: 0;
+}
+.fa-book{
+  color:#222;
+}
+.well-img{
+padding-bottom: 50px;
+min-height:300px;
+position: relative;
+}
+.well-img-index{
+  min-height:320px;
+}
+.blog-img{
+height:300px;
+}
+@media(max-width:991px) {
+  .blog-img{
+height:220px;
+  }
+}
+.well-img:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  border-width: 0 0 20px 20px;
+  border-style: solid;
+  border-color: #fff #dbdbdb #fff #dbdbdb ;
+  background: #dbdbdb;
+  display: block; width: 0;
+}
+.thumbnail-img{
+  min-height: 120px;
+  margin: -19px -19px 15px -19px;
+}
+.avatarwell{
+  position: absolute;
+  bottom:1px;
+  left:1px;
+}
+.person{
+  position: absolute;
+  bottom:30px;
+  left:60px;
+}
+.welldate{
+  position: absolute;
+  bottom:1px;
+  left: 60px;
 }

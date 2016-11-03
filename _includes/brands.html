@@ -1,0 +1,16 @@
+{% for brand in site.brands %}
+
+ {% cycle 'add row' : '<div class="row">', nil, nil %}
+
+               <div class="col-md-3 col-sm-4 col-xs-6">
+					<a href="{{ brand.link }}" target="_blank">
+						    <img class= "img-responsive text-center" src="{{site.baseurl}}/{{brand.logo}}">
+					</a>                 
+                </div>
+              {% cycle 'end row' : nil, nil '</div>' %}
+{% endfor %}
+
+{% cycle 'end row' : nil, nil '</div>' %}
+
+
+ 

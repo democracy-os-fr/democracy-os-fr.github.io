@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns:og="http://ogp.me/ns#">
+
+  {% include head.html %}
+  <body>
+
+    {% include header-blog.html %}
+
+          {{ content }}
+
+		 <hr>
+  
+    {% include footer.html %}
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+<script src="{{ site.baseurl }}/js/jekyll-search.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.js" type="text/javascript"></script>
+
+<!--  Jekyll Search -->
+<script type="text/javascript">
+      SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '{{ site.baseurl }}/search.json',
+        searchResultTemplate: '<a href="{url}"><img class="img-responsive" src="{thumbnail}"></img></a><li><a href="{url}" title="{desc}">{title}</a></li>',
+        noResultsText: 'Aucun article trouvé',
+        limit: 10,
+        fuzzy: false,
+        exclude: ['Welcome']
+      })
+</script>
+
+<!--  Carousel -->
+ <script>
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
+    </script>
+
+
+
+  </body>
+</html>
