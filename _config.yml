@@ -70,10 +70,10 @@ defaults:
 email: contact@democracyos.eu
 description: Facilitateur de prise de décisions.
 baseurl: ''
-url: https://arthur-koenig.github.io/dosv3.github.io
+url: http://democracyos.eu
 twitter_username: DemocracyOS_FR
 github_username: democracy-os-fr
-github.url: dos.github.io
+github.url: https://github.com/democracy-os-fr/democracy-os-fr.github.io/tree/master
 gems:
 - jekyll-paginate
 paginate: 6
