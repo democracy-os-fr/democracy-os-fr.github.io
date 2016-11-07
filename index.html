@@ -123,7 +123,7 @@ homepage: true
 
 {% assign events = site.events | sort: 'date' | reverse %}
  {% for event in events limit:1 %}
-<h1 class="text-center fatou" style="color:{{event.background}} ; margin-top:50px;">{{event.type}}</h1>
+<h1 class="text-center fatou" style="color:{{event.background}} ; margin-top:50px;">{{event.type_evenement}}</h1>
 
         {% include events.html %}
             {% endfor %}
