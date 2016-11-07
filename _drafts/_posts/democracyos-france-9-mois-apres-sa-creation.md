@@ -51,7 +51,7 @@ _Pia Mancini, Guido Vilariño et Santiago Siri à Y Combinator_
 
 J’ai commencé par motiver quelques amis à faire partie de l’aventure,avant de rassembler toutes les adresses emails de français m’ayant écrit pour leur répondre qu’il était temps pour nous de nous lancer. Après quelques réunions et rencontres l’association était créée. Son but : faire connaître DemocracyOS en France et accompagner tous ceux qui désirent utiliser cette technologie ouverte de démocratie participative.
 
-![]({{ site.baseurl }}/forestryio/images/Equipe.png) _L’équipe fondatrice de DemocracyOS France_ 
+![]({{ site.baseurl }}/forestryio/images/Equipe.png) _L’équipe fondatrice de DemocracyOS France_
 
 ## L’union fait la force
 
@@ -61,26 +61,26 @@ Très vite notre chemin croise celui de [Valentin Chaput](https://twitter.com/Va
 
 Maintenant que vous savez tout c’est le moment de revenir sur cette incroyable année qu’a été 2015 pour cette toute jeune association. En un peu de moins de 9 mois nous avons :
 
-Traduit, maintenu et customisé le code de la version française de DemocracyOS.
+*   **Traduit, maintenu et customisé** le code de la version française de DemocracyOS.
 
-Mené 3 consultations publiques sur 3 sujets d’actualité : le projet de loi renseignement, la réforme des collèges et la COP21 en partenariat avec la plateforme de vote tchèque D21.
+*   Mené **3 consultations publiques** sur 3 sujets d’actualité : le projet de loi renseignement, la réforme des collèges et la COP21 en partenariat avec la plateforme de vote tchèque D21.
 
-Rassemblé plus de 800 personnes sur le meetup Open Source Politics et organisé plus de 20 événements allant du hackathon pendant la semaine de l’innovation publique à la projection d’un documentaire en passant par un cycle de conférence.
+*   Rassemblé plus de **800 personnes sur le meetup Open Source Politics** et organisé plus de **20 événements** allant du hackathon pendant la semaine de l’innovation publique à la projection d’un documentaire en passant par un cycle de conférence.
 
-Mis en place une collaboration de long terme avec la ville de Nanterre.
+*   Mis en place une **collaboration de long terme avec la ville de Nanterre.**
 
-Sommes intervenus lors de conférences à : Open Source Summit, Paris 3, Paris 8, Sciences Po Lille, Le Wagon, Darefest, Le village mondial des alternatives d’Alternatiba
+*   Sommes intervenus lors de conférences à : **Paris Open Source Summit**, **Paris 3**, **Paris 8**, **Sciences Po Lille**, **Le Wagon**, **Darefest**, **Le village mondial des alternatives d’Alternatiba**
 
-Plusieurs fois été mentionnés dans la presse et sur des blogs(Arte, Socialter, The Next Web, Makery, Coreight, Democratie mise à jour)
+*   Plusieurs fois été mentionnés dans la presse et sur des blogs(**Arte, Socialter, The Next Web, Makery, Coreight, Democratie mise à jour**)
 
-Nous tenons à remercier Volumes Coworking qui a hébergé la majorité de nos événements en 2015 ainsi que l’équipe de l’Agora de la ville Nanterre qui nous a accueilli pour le hackathon “Coder la ville participative”.
+*   Nous tenons à remercier Volumes Coworking qui a hébergé la majorité de nos événements en 2015 ainsi que l’équipe de l’Agora de la ville Nanterre qui nous a accueilli pour le hackathon “Coder la ville participative”.
 
-Quoi de prévu en 2016?
+## Quoi de prévu en 2016?
 
-L’année 2016 s’annonce toute aussi riche en aventures pour DemocracyOS France puisque nous commençons l’année en grandes pompes avec le hackathon Open Democracy Now qui se tiendra au Numa les 22 et 23 janvier (ce week-end donc). Information et inscription
+L’année 2016 s’annonce toute aussi riche en aventures pour DemocracyOS France puisque nous commençons l’année en grandes pompes avec le **hackathon Open Democracy Now** qui se tiendra au Numa les 22 et 23 janvier (ce week-end donc). Information et inscription
 
-Cet événement marque le lancement d’une dynamique initiée par la branche OpenGov de l’association Open Law. L’ “objectif est d’encourager la réflexion autour des enjeux de la démocratie participative connectée et ouverte, et d’offrir un cadre de collaboration propice au développement d’outils concrets pour répondre à ces défis sociétaux de la manière la plus efficace, accessible et transparente possible”. Il s’agit d’un projet ouvert à tout acteur intéressé par ces thématiques et désireux d’y contribuer. Nous l’avons rejoint ainsi que le Numa, Open Source Politics République citoyenne et Inno3, il reçoit par ailleurs le soutien du CNNUM (Conseil National du Numérique) et d’Etalab.
+Cet événement marque le lancement d’une dynamique initiée par la branche OpenGov de l’association Open Law. L’ “_objectif est d’encourager la réflexion autour des enjeux de la démocratie participative connectée et ouverte, et d’offrir un cadre de collaboration propice au développement d’outils concrets pour répondre à ces défis sociétaux de la manière la plus efficace, accessible et transparente possible_”. Il s’agit d’un projet ouvert à tout acteur intéressé par ces thématiques et désireux d’y contribuer. Nous l’avons rejoint ainsi que le **Numa, Open Source Politics République citoyenne et Inno3**, il reçoit par ailleurs le soutien du **CNNUM** (Conseil National du Numérique) et d’**Etalab**.
 
-En mars 2016, avec la ville de Nanterre nous lancerons une plateforme de participation citoyenne qui sera au centre d’une opération de démocratie participative majeure sur toute la ville ainsi que plusieurs concertations sur des opérations ciblées. Fruit d’une collaboration de plusieurs mois avec les services de la ville, nous considérons ce premier projet de grande envergure comme innovation majeure en termes de participation citoyenne en ligne.
+En mars 2016, avec la ville de Nanterre nous lancerons une plateforme de participation citoyenne qui sera au centre d’une opération de démocratie participative majeure sur toute la ville ainsi que plusieurs concertations sur des opérations ciblées. Fruit d’une collaboration de plusieurs mois avec les services de la ville, nous considérons ce premier projet de grande envergure comme **innovation majeure en termes de participation citoyenne en ligne.**
 
-Nous espérons aussi pouvoir lancer en 2016 la version française de Civic Stack, l’annuaire collaboratif des technologies civiques open source. Civic Stack est un projet porté par la fondations argentines Democracia en Red et Asuntos del Sur.
+Nous espérons aussi pouvoir lancer en 2016 la version française de **Civic Stack**, l’annuaire collaboratif des technologies civiques open source. Civic Stack est un projet porté par les fondations argentines **Democracia en Red et Asuntos del Sur.**
