@@ -1,7 +1,7 @@
 ---
 title: 'Instance du collectif #MAVOIX'
 layout: null
-background: "#C7003A"
+background_color: "#C7003A"
 visuel: img/medias/projet_mavoix.png
 description: 'Le collectif #MAVOIX qui souhaite faire élire des députés augmentés*,
   tirés au sort et s''engagent à voter selon l''opinion exprimée sur une plateforme

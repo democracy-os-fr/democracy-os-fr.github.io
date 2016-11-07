@@ -1,7 +1,7 @@
 ---
 title: Ville de Nanterre
 layout: null
-background: "#3C2344"
+background_color: "#3C2344"
 visuel: img/medias/projet_nanterre.png
 description: La plateforme participez.nanterre.fr est une application reposant entièrement
   sur des briques logicielles open source telles que Drupal, Timeline.js et bien sûr

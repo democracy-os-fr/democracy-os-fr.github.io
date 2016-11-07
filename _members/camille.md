@@ -1,8 +1,8 @@
 ---
-title: Louis
+title: Camille
 layout: auteur
 twitter_username:
 description:
-avatar: img/medias/team_louis.jpg
+avatar: img/medias/member_camille.jpg
 ---
 

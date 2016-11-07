@@ -1,7 +1,7 @@
 ---
 title: Réforme des collèges
 layout: 
-background: "#571843"
+background_color: "#571843"
 visuel: img/medias/projet_college.png
 description: 'Suite au succès de la première plateforme mise en place sur le projet
   de loi renseignement, nous avons réitéré sur la réforme des collèges avec une simplification

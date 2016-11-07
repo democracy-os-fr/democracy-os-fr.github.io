@@ -10,8 +10,8 @@
 
         <div class="container containerpost">     
 
-                {% assign teams = site.teams | where:"title", page.auteur %}
-                {% for team in teams %}
+                {% assign members = site.members | where:"title", page.auteur %}
+                {% for member in members %}
                 <h5><i class="fa fa-clock-o" aria-hidden="true"></i> Posté le {% assign m = page.date | date: "%-m" %}
 					{{ page.date | date: "%-d" }}
 					{% case m %}
@@ -28,9 +28,9 @@
 					  {% when '11' %}novembre
 					  {% when '12' %}décembre
 					{% endcase %}
-				{{ page.date | date: "%Y" }} - par <a href="{{site.baseurl}}{{team.url}}"><b>{{team.title}}</b></a>
-                    {% assign name = team.title | split:' ' | first %}
-                <img class="avatar avatar-blog" src="{{site.baseurl}}/{{team.avatar}}" alt="{{name}}"></h5>
+				{{ page.date | date: "%Y" }} - par <a href="{{site.baseurl}}{{member.url}}"><b>{{member.title}}</b></a>
+                    {% assign name = member.title | split:' ' | first %}
+                <img class="avatar avatar-blog" src="{{site.baseurl}}/{{member.avatar}}" alt="{{name}}"></h5>
                 {% endfor %}
 					<br>
 		

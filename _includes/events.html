@@ -37,7 +37,7 @@
 				<section>
 					<center>
 						<br>
-				      	<a href="{{ event.link }}" target="_blank">
+				      	<a href="{{ event.event_link }}" target="_blank">
 							<img class= "img-responsive" src="{{site.baseurl}}/{{ event.visuel }}">
 						</a>
 					</center>
@@ -46,7 +46,7 @@
 
 					<br>
 					<p class="lead">  {{ event.description }}  </p>
-				    <h5><a href="{{ event.link }}" class="btn btn-danger" target="_blank">{{ event.bouton }}</a></h5>
+				    <h5><a href="{{ event.event_link }}" class="btn btn-danger" target="_blank">{{ event.texte_bouton }}</a></h5>
 				</div>
 			    <br>
 
@@ -56,10 +56,10 @@
 
 			<p class="lead text-center"> <b>{{event.title}}</b></p>
 
-				<section class="section-features text-center" style="background-color: {{event.background}}; ">
+				<section class="section-features text-center" style="background-color: {{event.event_background_color}}; ">
 			      
 
-			      		<a href="{{ event.link }}" target="_blank">
+			      		<a href="{{ event.event_link }}" target="_blank">
 								    <img class= "img-responsive center-block" src="{{site.baseurl}}/{{ event.visuel }}">
 						</a>
 					
@@ -81,7 +81,7 @@
 							{% endif %}
 						</h4>
 
-						<h5><a href="{{ event.link }}" class="btn btn-default" target="_blank">{{ event.bouton }}</a></h5>
+						<h5><a href="{{ event.event_link }}" class="btn btn-default" target="_blank">{{ event.texte_bouton }}</a></h5>
 
 				
 				</section>

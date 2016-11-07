@@ -58,12 +58,12 @@
                             </p>
 
 
-                             {% assign teams = site.teams | where:"title", page.auteur %}
-                {% for team in teams %}
+                             {% assign members = site.members | where:"title", page.auteur %}
+                {% for member in members %}
 
-                <img class="avatar avatar-blog avatarwell" src="{{site.baseurl}}/{{team.avatar}}" alt="{{name}}">
-                <a class="person" href="{{site.baseurl}}{{team.url}}"><b>{{team.title}}</b></a>
-                    {% assign name = team.title | split:' ' | first %}</h5>
+                <img class="avatar avatar-blog avatarwell" src="{{site.baseurl}}/{{member.avatar}}" alt="{{name}}">
+                <a class="person" href="{{site.baseurl}}{{member.url}}"><b>{{member.title}}</b></a>
+                    {% assign name = member.title | split:' ' | first %}</h5>
                 <h5 class="welldate">{% assign m = post.date | date: "%-m" %}
                     {{ post.date | date: "%-d" }}
                     {% case m %}

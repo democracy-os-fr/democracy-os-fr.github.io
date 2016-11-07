@@ -2,7 +2,7 @@
 title: Projet Loi Renseignement
 date: 2016-10-20 15:13:00 Z
 visuel: img/medias/projet_pjlr-1.png
-background: "#951546"
+background_color: "#951546"
 link: http://pjlr.democracyos.eu/
 description: 'Alors que le projet de loi renseignement était débattu au Parlement,
   nous avons mis en ligne une version simplifiée du texte centrée sur trois enjeux

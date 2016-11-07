@@ -1,8 +1,8 @@
 ---
-title: Camille
+title: Angie
 layout: auteur
 twitter_username:
 description:
-avatar: img/medias/team_camille.jpg
+avatar: img/medias/member_angie.jpg
 ---
 

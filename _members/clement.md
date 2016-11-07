@@ -1,8 +1,8 @@
 ---
-title: Angie
+title: Clément
 layout: auteur
 twitter_username:
 description:
-avatar: img/medias/team_angie.jpg
+avatar: img/medias/member_clement.jpg
 ---
 

@@ -1,3 +1,4 @@
+---
 title: DemocracyOS France
 timezone: UTC
 collections:
@@ -13,69 +14,69 @@ collections:
   projets:
     title: Projets
     output: false
-  teams:
-    title: Teams
+  members:
+    title: members
     output: true
   uploads:
     title: Uploads
     output: true
 defaults:
-  - scope:
-      path: ''
-      type: posts
-    values:
-      layout: post
-      hero: ''
-      customclass: ''
-      tags: []
-      description_hero: ''
-      extrait: ''
-      auteur: ''
-      comments: 'true'
-  - scope:
-      path: ''
-      type: teams
-    values:
-      layout: auteur
-      avatar: ''
-      twitter_username: ''
-      description: ''
-  - scope:
-      path: ''
-      type: projets
-    values:
-      visuel: ''
-      background: ''
-      link: ''
-      description: ''
-  - scope:
-      path: ''
-      type: brands
-    values:
-      logo: ''
-      link: ''
-  - scope:
-      path: ''
-      type: events
-    values:
-      end_date: ''
-      type: ''
-      visuel: ''
-      background: ''
-      full_frame: ''
-      description: ''
-      bouton: ''
-      link: ''
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    hero: ''
+    customclass: ''
+    tags: []
+    description_hero: ''
+    extrait: ''
+    auteur: ''
+    comments: 'true'
+- scope:
+    path: ''
+    type: members
+  values:
+    layout: auteur
+    avatar: ''
+    twitter_username: ''
+    description: ''
+- scope:
+    path: ''
+    type: projets
+  values:
+    visuel: ''
+    background_color: ''
+    link: ''
+    description: ''
+- scope:
+    path: ''
+    type: brands
+  values:
+    logo: ''
+    link: ''
+- scope:
+    path: ''
+    type: events
+  values:
+    end_date: ''
+    type: ''
+    visuel: ''
+    event_background_color: ''
+    full_frame: ''
+    description: ''
+    texte_bouton: ''
+    event_link: ''
 email: contact@democracyos.eu
 description: Facilitateur de prise de décisions.
 baseurl: ''
-url: http://democracyos.eu
+url: https://arthur-koenig.github.io/dosv3.github.io
 twitter_username: DemocracyOS_FR
 github_username: democracy-os-fr
 github.url: dos.github.io
 gems:
 - jekyll-paginate
 paginate: 6
-paginate_path: "blog/page:num/"
+paginate_path: "/blog/page:num/"
 markdown: kramdown
-permalink: "blog/:title"
+permalink: "/blog/:title"

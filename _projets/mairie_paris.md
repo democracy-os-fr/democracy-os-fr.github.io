@@ -1,7 +1,7 @@
 ---
 title: Mairie de Paris
 layout: null
-background: "#90093D"
+background_color: "#90093D"
 visuel: img/medias/projet_crm-paris.png
 description: 'Mise en place d''une plateforme pour la mairie de Paris où les citoyens
   ont pu réagir sur différentes thématiques (logement, jeux olympiques, gaspillge,

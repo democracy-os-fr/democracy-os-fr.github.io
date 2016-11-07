@@ -248,7 +248,7 @@ section .feature-box .big-icon {
 section .feature-box.feature-img {
   padding: 50px ;
 }
-section .team .member {
+section .member .member {
   display: inline-block;
   width: 150px ;
   margin: 0 auto ;
@@ -256,15 +256,15 @@ section .team .member {
 .member a{
   border-bottom: 0px;
 }
-section .team .avatar {
+section .member .avatar {
   width: 80px;
   height: 80px;
   margin: 15px ;
 }
-section .team .name {
+section .member .name {
   font-weight: 400 ;
 }
-section .team .title {
+section .member .title {
   font-size: 80% ;
 }
 section .contact-link {
@@ -967,10 +967,10 @@ color: rgba(255, 255, 255, 0.9);
     text-align: center;
   }
 }
-.well-team{
+.well-member{
   position:relative;
 }
-.well-team:before {
+.well-member:before {
   content: "";
   position: absolute;
   top: 0;

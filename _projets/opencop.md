@@ -4,7 +4,7 @@ tags:
 - Logiciels
 layout: null
 visuel: img/medias/projet_opencop.png
-background: "#edb340"
+background_color: "#edb340"
 link: http://opencop.org/
 description: Permettre aux citoyens du monde entier de contribuer et de débattre sur
   une simplification du texte des négociation de la COP21. OpenCop.org a été porté

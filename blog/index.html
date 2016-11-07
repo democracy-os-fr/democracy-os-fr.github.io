@@ -19,11 +19,11 @@ blog: true
                 </h1>
 
              
-                {% assign teams = site.teams | where:"title", post.auteur %}
-                {% for team in teams %}
-                <h5><i class="fa fa-clock-o" aria-hidden="true"></i> Posté le {%include date-display-post.html%} - par <a href="{{site.baseurl}}{{team.url}}"><b>{{team.title}}</b></a>
-                    {% assign name = team.title | split:' ' | first %}
-                <img class="avatar avatar-blog" src="{{site.baseurl}}/{{team.avatar}}" alt="{{name}}"></h5>
+                {% assign members = site.members | where:"title", post.auteur %}
+                {% for member in members %}
+                <h5><i class="fa fa-clock-o" aria-hidden="true"></i> Posté le {%include date-display-post.html%} - par <a href="{{site.baseurl}}{{member.url}}"><b>{{member.title}}</b></a>
+                    {% assign name = member.title | split:' ' | first %}
+                <img class="avatar avatar-blog" src="{{site.baseurl}}/{{member.avatar}}" alt="{{name}}"></h5>
                 
                 {% endfor %}
              

@@ -1,9 +1,9 @@
 
-<ul class="list-inline team clearfix">
-  {% for team in site.teams %}
+<ul class="list-inline member clearfix">
+  {% for member in site.members %}
     <li class="member">
-      <img class= "avatar img-circle" src="{{site.baseurl}}/{{ team.avatar }}">
-      {% assign name = team.title | split:' ' | first %}
+      <img class= "avatar img-circle" src="{{site.baseurl}}/{{ member.avatar }}">
+      {% assign name = member.title | split:' ' | first %}
       <div class="name"> {{ name }} </div>
     </li>
   {% endfor %}

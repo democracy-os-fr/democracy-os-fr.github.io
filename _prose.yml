@@ -132,7 +132,7 @@ prose:
       element: "text"
       label: "lien vers le site du projet"
       placeholder: "https://participez.nanterre.fr/"
-  _teams:
+  _members:
    - name: "published"
      field:
       element: "hidden"
