@@ -84,3 +84,19 @@ Cet événement marque le lancement d’une dynamique initiée par la branche Op
 En mars 2016, avec la ville de Nanterre nous lancerons une plateforme de participation citoyenne qui sera au centre d’une opération de démocratie participative majeure sur toute la ville ainsi que plusieurs concertations sur des opérations ciblées. Fruit d’une collaboration de plusieurs mois avec les services de la ville, nous considérons ce premier projet de grande envergure comme **innovation majeure en termes de participation citoyenne en ligne.**
 
 Nous espérons aussi pouvoir lancer en 2016 la version française de **Civic Stack**, l’annuaire collaboratif des technologies civiques open source. Civic Stack est un projet porté par les fondations argentines **Democracia en Red et Asuntos del Sur.**
+
+![]({{ site.baseurl }}/forestryio/images/civic_stack.png)
+
+_Capture d’écran de la page d’accueil de civicstack.org_
+
+Pour finir, dans le courant du premier trimestre nous lancerons **une première version stable et customisée de notre fork français de DemocracyOS** sur laquelle nous comptons fournir des espaces de test et de démo (en plus du code brut). Un tout nouveau site web avec plus de contenu et d’informations sur notre initiative accompagnera ce lancement.
+
+Si vous souhaitez être tenu au courant de cette sortie ou que DemocracyOS vous intéresse pour votre organisation n’hésitez pas à nous contacter sur _**contact@democracyos.eu.**_
+
+Merci pour votre soutien vous êtes chaque semaine plus nombreux, sans vous et vos encouragements cette aventure ne serait pas ce qu’elle est aujourd’hui. Donc, MERCI et bonne année 2016 à vous tous !
+
+Virgile Deville, au nom de L’équipe de DemocracyOS France
+
+![]({{ site.baseurl }}/forestryio/images/equipe2.png)
+
+_L’équipe de DemocracyOS France avec Pia Mancini le 21/05/2015_
