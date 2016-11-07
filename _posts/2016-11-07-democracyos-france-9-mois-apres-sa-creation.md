@@ -1,6 +1,6 @@
 ---
 title: 'DemocracyOS France : 9 mois après sa création'
-date: '2016-11-07 14:50:33'
+date: '2016-01-21 14:50:00'
 layout: post
 hero: forestryio/images/banner+dos.png
 customclass: ''
