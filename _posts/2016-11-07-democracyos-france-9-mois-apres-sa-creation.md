@@ -2,7 +2,7 @@
 title: 'DemocracyOS France : 9 mois après sa création'
 date: '2016-01-21 14:50:00'
 layout: post
-hero: forestryio/images/banner_dos.jpg
+hero: forestryio/images/banner+dos.png
 customclass: ''
 tags: []
 description_hero: ''
@@ -19,13 +19,13 @@ Je me présente, je suis [Virgile Deville](http://virgile.pro/), Président de D
 
 Logiquement, tout a commencé pour nous à Buenos Aires en Argentine. En 2013, je travaillais là-bas depuis quelques mois lorsqu’un jour, un collègue me propose de déjeuner avec deux de ses amis avec qui, selon lui, je ne risquais pas de m’ennuyer. Je fais alors la connaissance de Pia Mancini et Santiago Siri qui au détour d’une conversation m’exposent leur projet fou de hacker la démocratie. Le [**Partido de la Red**](http://partidodelared.org/) n’en était alors qu’à ses débuts mais la promesse avait déjà de quoi décoiffer. L’idée était de faire élire un député cheval de Troie au Parlement de Buenos Aires. Cheval de Troie parce qu’il devrait toujours voter en fonction de la majorité citoyenne exprimée sur une plateforme en ligne qui deviendra plus tard DemocracyOS. (L’initiative Ma Voix reprend la même idée en France)
 
-![]({{ site.baseurl }}/forestryio/images/manifesto.jpeg)
+![]({{ site.baseurl }}/forestryio/images/manifesto.jpeg){:.img-responsive .center-block}
 
 _“l’ #IMPASSEDEMOCRATIQUE est un héritage du XIXe siècle forgé dans d’autres conditions technologiques et sociales, elle ne répond pas aux nouvelles exigences du citoyen actuel”. Extrait du manifeste du Partido de la Red._
 
 Pour moi, ce fut tout de suite un coup de foudre. Enfin un projet politique porté par des jeunes, structuré de manière horizontale et qui fait le vœu d’expérimenter autant de temps qu’il faudra pour qu’internet et ses principes pénètrent enfin nos institutions démocratiques. Je vous conseille vivement de lire leur manifeste qui pose les bases de quelques concepts fascinants : [version originale en espagnol](https://wiki.partidodelared.org/Manifiesto_de_la_Red), [traduction française](http://fr.slideshare.net/virgiledeville/traduction-fr-manifeste-du-partido-de-la-red-partido-de-la-red).
 
-![]({{ site.baseurl }}/forestryio/images/pdr.jpeg)
+![]({{ site.baseurl }}/forestryio/images/pdr.jpeg){:.img-responsive .center-block}
 
 _Le cheval de Troie face au parlement de la ville de Buenos Aires_
 
@@ -43,7 +43,7 @@ L’événement majeur du développement de DemocracyOS à l’international est
 
 Le jour où j’ai appris qu’ils étaient sélectionnés pour faire partie des premières ONG à intégrer [YCombinator](https://www.ycombinator.com/) (l’incubateur de Reddit, Dropbox et bien d’autres), je me suis dit: et pourquoi pas nous?
 
-![]({{ site.baseurl }}/forestryio/images/YC.jpeg)
+![]({{ site.baseurl }}/forestryio/images/YC.jpeg){:.img-responsive .center-block}
 
 _Pia Mancini, Guido Vilariño et Santiago Siri à Y Combinator_
 
@@ -51,7 +51,7 @@ _Pia Mancini, Guido Vilariño et Santiago Siri à Y Combinator_
 
 J’ai commencé par motiver quelques amis à faire partie de l’aventure,avant de rassembler toutes les adresses emails de français m’ayant écrit pour leur répondre qu’il était temps pour nous de nous lancer. Après quelques réunions et rencontres l’association était créée. Son but : faire connaître DemocracyOS en France et accompagner tous ceux qui désirent utiliser cette technologie ouverte de démocratie participative.
 
-![]({{ site.baseurl }}/forestryio/images/Equipe.png) _L’équipe fondatrice de DemocracyOS France_
+![]({{ site.baseurl }}/forestryio/images/Equipe.png){:.img-responsive .center-block} _L’équipe fondatrice de DemocracyOS France_
 
 ## L’union fait la force
 
@@ -85,7 +85,7 @@ En mars 2016, avec la ville de Nanterre nous lancerons une plateforme de partici
 
 Nous espérons aussi pouvoir lancer en 2016 la version française de **Civic Stack**, l’annuaire collaboratif des technologies civiques open source. Civic Stack est un projet porté par les fondations argentines **Democracia en Red et Asuntos del Sur.**
 
-![]({{ site.baseurl }}/forestryio/images/civic_stack.png)
+![]({{ site.baseurl }}/forestryio/images/civic_stack.png){:.img-responsive .center-block}
 
 _Capture d’écran de la page d’accueil de civicstack.org_
 
@@ -97,6 +97,6 @@ Merci pour votre soutien vous êtes chaque semaine plus nombreux, sans vous et v
 
 Virgile Deville, au nom de L’équipe de DemocracyOS France
 
-![]({{ site.baseurl }}/forestryio/images/equipe2.png)
+![]({{ site.baseurl }}/forestryio/images/equipe2.png){:.img-responsive .center-block}
 
 _L’équipe de DemocracyOS France avec Pia Mancini le 21/05/2015_
