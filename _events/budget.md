@@ -1,7 +1,7 @@
 ---
 title: 'Soutenez le projet #39'
 date: '2016-10-17 00:00:00'
-end_date: '2016-10-19 00:00:00'
+end_date: '2016-10-19'
 type_evenement: Actualité
 visuel: img/medias/event_pins.jpg
 event_background_color: "#c32c46"

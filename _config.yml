@@ -63,7 +63,7 @@ defaults:
     type_evenement: ''
     visuel: ''
     event_background_color: ''
-    full_frame: ''
+    full_frame: 'true'
     description: ''
     texte_bouton: ''
     event_link: ''
