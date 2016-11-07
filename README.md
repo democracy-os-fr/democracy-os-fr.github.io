@@ -3,32 +3,52 @@
 ### Admin
 
 #### Pour ajouter un membre 
+
 (un membre est aussi automatiquement un "auteur" pour la publication d'articles)
+
 Depuis la sidebar à gauche : Membres => add new membre.
+
 Title: Prénom Nom (avec majuscules)
+
 Layout: **Auteur** 
+
+Date: peu importe...
+
 Avatar: image de profil - max 200x200 (format jpg si possible)
+
 Twitter username: nom d'utilisateur twitter, sans le @
+
 Description: mini-bio du membre (max 20 mots)
+
 Body: laisser vide
 
-=>
-Date: peu importe...
-layout: **Auteur**
 
 #### Pour ajouter un article (post)
+
 Depuis la sidebar à gauche : Posts => add new post.
+
 Title: titre de l'article.
+
 Layout: **post** 
+
 =>
+
 Date: par défaut: date du jour. À changer si besoin...
+
 Hero: image principale de l'article (image d'en tête, reprise aussi sur la page principale du blog adns le slider)
+
 Customclass (optionnel): classe instagram à ajouter à la Hero (ex: earlybird, xpro2 etc...) [voir ici pour le nom des classes](https://una.im/CSSgram/)
+
 Tags (optionnel): "presse" si l'article doit se retrouver comme communiqué ou article de presse.
+
 Description Hero: texte de sous-titre qui apparaîtra sur la Hero image, sous le titre de l'article.
+
 Extrait: résumé / extrait de l'article
+
 Auteur: nom de l'auteur au format: **P**rénom **N**om
+
 Comments: activé par défaut. Désactiver pour enlever le module de commentaires Disqus.
+
 **Body**: contenu de l'article
 
 => Save Draft pour enregistrer l'article avant publication
