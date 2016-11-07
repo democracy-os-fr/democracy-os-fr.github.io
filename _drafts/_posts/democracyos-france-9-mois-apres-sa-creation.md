@@ -36,3 +36,51 @@ Quelques mois plus tard le Partido de la Red se présentait aux élections légi
 Si les candidats du Partido de la Red n’ont pas réussi leur pari d’obtenir un siège au parlement de Buenos Aires, l’impact de leur action sur la scène politique ne tarda pas à se faire ressentir. Très vite, deux députés du PRO (le parti de Mauricio Macri, le nouveau président argentin) lancèrent une plateforme de débat ressemblant à s’y méprendre à DemocracyOS. Un an plus tard, le Parlement de Buenos Aires utilisait le logiciel pour mettre en place une vaste campagne de participation citoyenne prenant le nom de DEMOS. Le principe : demander aux 12 partis politiques représentés de soumettre au vote des citoyens 16 projets de loi. Les trois projets de loi les plus votés par la population seraient alors débattus au cas par cas pour que les arguments et suggestions des citoyens soient pris en compte par les parlementaires.
 
 ## De TED Global à YCombinator : DemocracyOS aujourd’hui
+
+<iframe src="https://www.youtube.com/embed/NXfYNdapq3Q" allowfullscreen="" height="auto" frameborder="0" width="100%"></iframe>
+
+L’événement majeur du développement de DemocracyOS à l’international est l’intervention de Pia Mancini au TED Global de Rio de Janeiro en octobre 2014\. A peine mis en ligne, le compteur de vues dépasse vite les 1 million de vues et des messages de citoyens du monde entier s’accumulent dans leur boite de réception. Les adresses emails francophones m’étaient transférés, ce que j’interprétais à chaque fois comme une invitation à entreprendre quelque chose ici en France. Les mois passaient et la liste des pays utilisant DemocracyOS s’allongeait : Mexique, Brésil, Argentine, Etats-Unis, Chili, Espagne, Tunisie…
+
+Le jour où j’ai appris qu’ils étaient sélectionnés pour faire partie des premières ONG à intégrer [YCombinator](https://www.ycombinator.com/) (l’incubateur de Reddit, Dropbox et bien d’autres), je me suis dit: et pourquoi pas nous?
+
+![]({{ site.baseurl }}/forestryio/images/YC.jpeg)
+
+_Pia Mancini, Guido Vilariño et Santiago Siri à Y Combinator_
+
+## DemocracyOS France : les premiers pas
+
+J’ai commencé par motiver quelques amis à faire partie de l’aventure,avant de rassembler toutes les adresses emails de français m’ayant écrit pour leur répondre qu’il était temps pour nous de nous lancer. Après quelques réunions et rencontres l’association était créée. Son but : faire connaître DemocracyOS en France et accompagner tous ceux qui désirent utiliser cette technologie ouverte de démocratie participative.
+
+![]({{ site.baseurl }}/forestryio/images/Equipe.png) _L’équipe fondatrice de DemocracyOS France_ 
+
+## L’union fait la force
+
+Très vite notre chemin croise celui de [Valentin Chaput](https://twitter.com/ValentinChaput) qui travaillait à l’époque sur Parol (une plateforme de suivi en temps réel des textes législatifs) et avec qui nous partageons le constat d’une scène civic tech bouillonnante à Paris et la volonté de tenter de la rassembler autour d’un espace commun. Nous avons donc profité de la venue de Pia Mancini, cofondatrice de DemocracyOS au Ouishare Fest pour lancer cette dynamique avec Open Source Politics, un groupe Meetup ouvert rassemblant les passionnés de technologies civiques.
+
+## Notre bilan 2015
+
+Maintenant que vous savez tout c’est le moment de revenir sur cette incroyable année qu’a été 2015 pour cette toute jeune association. En un peu de moins de 9 mois nous avons :
+
+Traduit, maintenu et customisé le code de la version française de DemocracyOS.
+
+Mené 3 consultations publiques sur 3 sujets d’actualité : le projet de loi renseignement, la réforme des collèges et la COP21 en partenariat avec la plateforme de vote tchèque D21.
+
+Rassemblé plus de 800 personnes sur le meetup Open Source Politics et organisé plus de 20 événements allant du hackathon pendant la semaine de l’innovation publique à la projection d’un documentaire en passant par un cycle de conférence.
+
+Mis en place une collaboration de long terme avec la ville de Nanterre.
+
+Sommes intervenus lors de conférences à : Open Source Summit, Paris 3, Paris 8, Sciences Po Lille, Le Wagon, Darefest, Le village mondial des alternatives d’Alternatiba
+
+Plusieurs fois été mentionnés dans la presse et sur des blogs(Arte, Socialter, The Next Web, Makery, Coreight, Democratie mise à jour)
+
+Nous tenons à remercier Volumes Coworking qui a hébergé la majorité de nos événements en 2015 ainsi que l’équipe de l’Agora de la ville Nanterre qui nous a accueilli pour le hackathon “Coder la ville participative”.
+
+Quoi de prévu en 2016?
+
+L’année 2016 s’annonce toute aussi riche en aventures pour DemocracyOS France puisque nous commençons l’année en grandes pompes avec le hackathon Open Democracy Now qui se tiendra au Numa les 22 et 23 janvier (ce week-end donc). Information et inscription
+
+Cet événement marque le lancement d’une dynamique initiée par la branche OpenGov de l’association Open Law. L’ “objectif est d’encourager la réflexion autour des enjeux de la démocratie participative connectée et ouverte, et d’offrir un cadre de collaboration propice au développement d’outils concrets pour répondre à ces défis sociétaux de la manière la plus efficace, accessible et transparente possible”. Il s’agit d’un projet ouvert à tout acteur intéressé par ces thématiques et désireux d’y contribuer. Nous l’avons rejoint ainsi que le Numa, Open Source Politics République citoyenne et Inno3, il reçoit par ailleurs le soutien du CNNUM (Conseil National du Numérique) et d’Etalab.
+
+En mars 2016, avec la ville de Nanterre nous lancerons une plateforme de participation citoyenne qui sera au centre d’une opération de démocratie participative majeure sur toute la ville ainsi que plusieurs concertations sur des opérations ciblées. Fruit d’une collaboration de plusieurs mois avec les services de la ville, nous considérons ce premier projet de grande envergure comme innovation majeure en termes de participation citoyenne en ligne.
+
+Nous espérons aussi pouvoir lancer en 2016 la version française de Civic Stack, l’annuaire collaboratif des technologies civiques open source. Civic Stack est un projet porté par la fondations argentines Democracia en Red et Asuntos del Sur.
