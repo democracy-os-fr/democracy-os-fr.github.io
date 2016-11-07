@@ -54,27 +54,48 @@ Comments: activé par défaut. Désactiver pour enlever le module de commentaire
 => Save Draft pour enregistrer l'article avant publication
 
 #### Pour ajouter un événement (homepage)
+
 Depuis la sidebar à gauche : Events => add new event.
+
 Title: titre de d'événement.
+
 Layout: peu importe...
+
 =>
+
 Date: date de début de l'évnénement
+
 End date: date de fin de l'event. Ne rien mettre si l'event dure 1 journée
+
 Type Evenement: type d'event... ex: actualité, événement, conférence...
+
 Visuel: image de l'event 
+
 Event Background Color: couleur d'arrière plan de l'image, uniquement visible si "Full Frame" est désactivé (voir point suivant)
+
 Full Frame: désactiver si vous voulez que l'image "visuel" ne prenne pas toute la largeur de l'écran.
+
 Description: description de l'event
+
 Texte bouton: texte dans le bouton... ex: lien de l'événement, voir la page de l'événement...
+
 Event link: lien du bouton
+
 Layout: peu importe...
+
 body: laisser vide
 
 #### Pour ajouter un projet (page Réalisation)
+
 Depuis la sidebar à gauche : Projets => add new projet.
+
 Title: titre du projet.
+
 Layout: peu importe...
+
 Background color: couleur d'arrière plan du projet. Esayer de respecter le code couleur établi
+
 Visuel: image du projet
+
 Description: description du projet
 
