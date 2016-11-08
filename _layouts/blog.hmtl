@@ -13,9 +13,8 @@
     {% include footer.html %}
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-
+<script src="{{ site.baseurl }}/js/jquery.mobile.custom.min.js"></script>
 <script src="{{ site.baseurl }}/js/jekyll-search.min.js"></script>
-
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.js" type="text/javascript"></script>
 
 <!--  Jekyll Search -->
@@ -38,6 +37,17 @@
         interval: 5000 //changes the speed
     })
     </script>
+
+<script>
+  $(document).ready(function() {  
+       $("#myCarousel").swiperight(function() {  
+          $(this).carousel('prev');  
+          });  
+       $("#myCarousel").swipeleft(function() {  
+          $(this).carousel('next');  
+     });  
+  });  
+</script>
 
 
 
