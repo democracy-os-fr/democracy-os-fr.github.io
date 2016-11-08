@@ -25,29 +25,29 @@ Nous avons donc lancé l’instance pjlr.democracyos.eu qui y est consacrée, en
 
 Notre plateforme ressemble à ça:
 
-![screenshot1](%7B%7Bsite.baseurl%7D%7D/img/medias/z_screen1.jpg)
+![screenshot1]({{site.baseurl}}img/medias/z_screen1.jpg)
 
 Nous avons synthétisé l’ensemble du projet de loi, ainsi que 3 des points faisant le plus débat dans ce texte: les objectifs du renseignement, la commission chargée de contrôler l’action des services, et les fameuses “boîtes noires”.
 
-![screenshot2](%7B%7Bsite.baseurl%7D%7D/img/medias/z_screen2.png)
+![screenshot2]({{site.baseurl}}img/medias/z_screen2.png)
 
 Pour comprendre ces points, rendez-vous sur la page de débat qui y est associée.
 
 Une synthèse de ce que dit le texte y est présentée, suivie du lien vers des sources officielles, et de pistes pouvant enrichir la réflexion (quelques arguments pour et contre, des liens vers des articles de presse…).
 
-![screenshot3](%7B%7Bsite.baseurl%7D%7D/img/medias/z_screen3.png)
+![screenshot3]({{site.baseurl}}img/medias/z_screen3.png)
 
 Une fois vous être fait votre propre avis, vous pouvez voter sur l’article dont il est question: pour, contre, abstention. Votre vote peut être modifié jusqu’à la fermeture du débat.
 
-![screenshot4](%7B%7Bsite.baseurl%7D%7D/img/medias/z_screen4.png)
+![screenshot4]({{site.baseurl}}img/medias/z_screen4.png)
 
 Pour expliquer votre vote, vous pouvez poster un argument sous l’exposé du texte.
 
-![screenshot5](%7B%7Bsite.baseurl%7D%7D/img/medias/z_screen5.png)
+![screenshot5]({{site.baseurl}}img/medias/z_screen5.png)
 
 Vous pouvez aussi vous prononcer pour ou contre les arguments des autres, grâce aux petites flèches sous chacun d’entre eux. Les arguments apparaissent par défaut en fonction du score qu’ils accumulent.
 
-![screenshot6](%7B%7Bsite.baseurl%7D%7D/img/medias/z_screen6.png)
+![screenshot6]({{site.baseurl}}img/medias/z_screen6.png)
 
 C’est aussi simple que cela. Seules quelques règles très simples s’appliquent, que l’on pourrait résumer ainsi: ne soyez pas un troll, et le débat se portera bien.
 
