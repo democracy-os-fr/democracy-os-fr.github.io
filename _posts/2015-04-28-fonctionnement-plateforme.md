@@ -52,5 +52,3 @@ Vous pouvez aussi vous prononcer pour ou contre les arguments des autres, grâce
 C’est aussi simple que cela. Seules quelques règles très simples s’appliquent, que l’on pourrait résumer ainsi: ne soyez pas un troll, et le débat se portera bien.
 
 Nous vous attendons sur [pjlr.democracyos.eu:](http://pjlr.democracyos.eu/){:target="_blank"} informez-vous participez, partagez. C’est ainsi que notre volonté de donner un coup de fouet à la démocratie peut prendre forme.
-
-![]({{site.baseurl}}/img/medias/civic_stack.png)
