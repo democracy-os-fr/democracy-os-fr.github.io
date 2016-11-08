@@ -58,7 +58,7 @@
                             </p>
 
 
-                             {% assign members = site.members | where:"title", page.auteur %}
+                             {% assign members = site.members | where:"title", post.auteur %}
                 {% for member in members %}
 
                 <img class="avatar avatar-blog avatarwell" src="{{site.baseurl}}/{{member.avatar}}" alt="{{name}}">
