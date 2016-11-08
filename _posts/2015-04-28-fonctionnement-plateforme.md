@@ -10,7 +10,7 @@ auteur: Geoffroy Berson
 description_hero: Exemple avec la loi renseignement
 extrait: Exemple avec la loi renseignement
 ---
-Dans un [article précédent](%7B%7Bsite.baseurl%7D%7DDemocracyOS), nous vous faisions part de notre volonté de réinventer la démocratie, étape par étape.
+Dans un [article précédent]({{site.baseurl}}DemocracyOS), nous vous faisions part de notre volonté de réinventer la démocratie, étape par étape.
 
 Notre premier objectif y est inscrit ainsi:
 
