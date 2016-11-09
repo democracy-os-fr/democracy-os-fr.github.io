@@ -698,11 +698,13 @@ header.carousel .fill {
 #myCarousel p{
   font-size:22px;
   font-weight:400;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
   }
 #myCarousel h1{
   font-weight:900;
   font-size:55px;
   padding-top:120px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
 @media(max-width:768px) {
  #myCarousel h1{
