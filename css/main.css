@@ -197,7 +197,7 @@ color: #fafafa;
 font-size: 55%;
   }
 @media (min-width: 768px) {
-  header:not(.realisations #myCarousel) {
+  header:not(.realisations) {
     min-height: 700px ;
   }
 }
@@ -615,14 +615,14 @@ a:focus{
 }
 
 header.carousel {
-    height: 80%;
-    min-height: 620px;
+    height: 95%;
+    min-height: 300px;
 }
 
 @media(max-width:768px) {
   header.carousel {
     height:350px;
-    min-height: 350px;
+    min-height: 200px;
   }
 }
 header.carousel .item,
@@ -702,7 +702,7 @@ header.carousel .fill {
 #myCarousel h1{
   font-weight:900;
   font-size:55px;
-  padding-top:300px;
+  padding-top:120px;
 }
 @media(max-width:768px) {
  #myCarousel h1{
