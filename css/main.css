@@ -197,7 +197,7 @@ color: #fafafa;
 font-size: 55%;
   }
 @media (min-width: 768px) {
-  header:not(.realisations) {
+  header:not(.realisations #myCarousel) {
     min-height: 700px ;
   }
 }
@@ -616,12 +616,13 @@ a:focus{
 
 header.carousel {
     height: 80%;
-    min-height: 650px;
+    min-height: 620px;
 }
 
-@media(max-width:767px) {
+@media(max-width:768px) {
   header.carousel {
-    min-height:350px;
+    height:350px;
+    min-height: 350px;
   }
 }
 header.carousel .item,
@@ -639,11 +640,7 @@ header.carousel .fill {
     display: block;
     font-style: italic;
 }
-@media(max-width:767px) {
-    header.carousel .carousel {
-        height: 70%;
-    }
-}
+
 @media(min-width:768px) {
 .carousel-fade .carousel-inner .item {
   opacity: 0;
@@ -705,12 +702,12 @@ header.carousel .fill {
 #myCarousel h1{
   font-weight:900;
   font-size:55px;
-  padding-top:350px;
+  padding-top:300px;
 }
 @media(max-width:768px) {
  #myCarousel h1{
 font-size: 40px;
-padding-top:160px;
+padding-top:120px;
   }
 }
 @media(max-width:768px) {
