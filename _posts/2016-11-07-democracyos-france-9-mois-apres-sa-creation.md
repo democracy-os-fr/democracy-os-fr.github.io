@@ -1,8 +1,8 @@
 ---
 title: 'DemocracyOS France : 9 mois après sa création'
-date: '2016-01-21 14:50:00'
+date: '2016-01-21 00:00:00'
 layout: post
-hero: img/medias/banner_dos.jpg
+hero: img/medias/z_heropost.jpg
 customclass: ''
 tags: []
 description_hero: ''
