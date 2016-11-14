@@ -4,26 +4,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="keywords" content="Democracy OS France, DemocracyOS, Democracy OS, libre, open source, démocratie participative, citoyen, citoyenne, citoyens">
-    <meta name="auteur" content="Democracy OS France">
+    <meta name="keywords" content="DemocracyOS France, DemocracyOS, Democracy OS, logiciel libre, open source, démocratie participative, citoyen, citoyenne, citoyens">
+    <meta name="auteur" content="DemocracyOS France">
     {% include sharing-meta.html %}
     <link rel="icon" href="{{site.baseurl}}/img/favicon.ico">
-    <title itemprop="name">Democracy OS France</title>
+    <title itemprop="name">DemocracyOS France</title>
     <link rel="canonical" href="http://democracyos.eu/" itemprop="url">
+    {% include favicons.html %}
     
-
     <link rel="stylesheet" href="{{ "/css/bootstrap.custom.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/cssgram.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/carousel.css" | prepend: site.baseurl }}">
-   
 <!--
     {% if page.homepage == true %}
 <link rel="stylesheet" href="{{ "/css/clndr.css" | prepend: site.baseurl }}">
 
     {% endif %}
 -->
-
-
   </head>
