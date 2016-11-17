@@ -80,3 +80,18 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 markdown: kramdown
 permalink: "/blog/:title"
+t:
+ en:
+  home:
+   name: "Home"
+   url: "/en"
+  about:
+   name: "About"
+   url: "/about/"
+ fr:
+  home:
+   name: "Accueil"
+   url: "/"
+  about:
+   name: "À propos"
+   url: "/a-propos/"
