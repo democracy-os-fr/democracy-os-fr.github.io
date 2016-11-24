@@ -26,6 +26,7 @@ defaults:
     type: posts
   values:
     layout: post
+    lang: 'fr'
     hero: ''
     customclass: ''
     tags: []
@@ -37,6 +38,7 @@ defaults:
     path: ''
     type: members
   values:
+    lang: 'fr'
     layout: auteur
     avatar: ''
     twitter_username: ''
@@ -82,16 +84,61 @@ markdown: kramdown
 permalink: "/blog/:title"
 t:
  en:
-  home:
-   name: "Home"
-   url: "/en"
+  blog:
+   name: "Blog"
+   url: "/blog/"
   about:
    name: "About"
    url: "/about/"
+  participate:
+   name: "Get involved"
+   url: "/get-involved/"
+  start:
+   name: "Start"
+   url: "http://docs.democracyos.org/"
  fr:
-  home:
-   name: "Accueil"
-   url: "/"
+  blog:
+   name: "Blog"
+   url: "/blog/"
   about:
    name: "À propos"
    url: "/a-propos/"
+  participate:
+   name: "Participer"
+   url: "/participer/"
+  start:
+   name: "Démarrer"
+   url: "http://democracyos.eu/docs-fr/"
+foot:
+ en:
+  blog:
+   name: "Blog"
+   url: "/blog/"
+  about:
+   name: "About"
+   url: "/about/"
+  participate:
+   name: "Get involved"
+   url: "/get-involved/"
+  works:
+   name: "Works"
+   url: "/works/"
+  press:
+   name: "Press Room"
+   url: "/press/"
+ fr:
+  blog:
+   name: "Blog"
+   url: "/blog/"
+  about:
+   name: "À propos"
+   url: "/a-propos/"
+  participate:
+   name: "Participer"
+   url: "/participer/"
+  works:
+   name: "Réalisations"
+   url: "/projets/"
+  press:
+   name: "Espace Presse"
+   url: "/presse/"

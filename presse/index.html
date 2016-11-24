@@ -1,6 +1,8 @@
 ---
 title: Espace Presse
 layout: default
+lang: fr
+ref: press
 ---
 <div class="marketing" style="text-align:left">
 	<h2>Kit média </h2>
@@ -12,13 +14,24 @@ layout: default
 	<br>
 	<h2>Communiqués / articles</h2>
     <br>
+    <ul class="list-unstyled">
 		{% for post in site.posts %}
 		{% if post.tags contains 'presse' %}
 			<li><p>
-			  <i class="fa fa-calendar" aria-hidden="true"></i> {%include date-display-post.html%} / <b><a href="{{post.url}}"><b>{{post.title}}</b></a></b></p>
+			  <i class="fa fa-calendar-o" aria-hidden="true"></i> {%include date-display-post.html%} / <b><a href="{{post.url}}"><b>{{post.title}}</b></a></b></p>
 			</li>
 		{% endif %}
-		{% endfor %}     
+		{% endfor %}  
+	</ul> 
+			<br>
+	<br>
+	<br>
+	<h2>DemocracyOS dans les médias</h2>
+	<br>
+	<br>
+	<center>
+	 {% include brands.html %}
+	</center>  
 </div>
 
 

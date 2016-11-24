@@ -12,8 +12,12 @@
   <li class="member">             
     <a href="https://www.helloasso.com/associations/democracyos-france/adhesions/adhesion-a-democracyos-france" target="_blank">
     <i class="avatar fa fa-inverse fa-circle fa-user-plus fa-3x " aria-hidden="true"></i>
-    </a>                         
+    </a>
+    {% if page.lang == "fr" %}                      
     <div class="name"> Devenir membre </div>
+    {% else %}
+    <div class="name"> Join the team </div>
+    {% endif %}
   </li>
 </ul>
 

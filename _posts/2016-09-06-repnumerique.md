@@ -3,7 +3,7 @@ title: République Numérique
 date: 2015-10-06 00:00:00 Z
 tags:
 - presse
-hero: img/medias/z_repnum.jpg
+hero: img/medias/zrepnum.jpg
 layout: post
 comments: true
 auteur: Geoffroy Berson

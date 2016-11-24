@@ -8,11 +8,9 @@
       <div class="col-sm-3">
        
             <ul class="footer-left">
-            <li><a href="{{site.baseurl}}/blog">Blog</a></li>
-            <li><a href="{{site.baseurl}}/a-propos">À propos</a></li>
-            <li><a href="{{site.baseurl}}/participer">Participer</a></li>
-            <li><a href="{{site.baseurl}}/projets">Réalisations</a></li>
-            <li><a href="{{site.baseurl}}/presse">Espace Presse</a></li>
+            {% for menu in site.foot[page.lang] %}
+            <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
+          {% endfor %}
             </ul>                             
       </div>
       <br>
@@ -52,43 +50,57 @@
 <div class="well well-newsletter">
        
             
-                <h2><i class="fa fa-paper-plane" aria-hidden="true"></i>  Newsletter</h2>
+                <h2><i class="fa fa-paper-plane" aria-hidden="true"></i>Newsletter</h2>
                 
-                <p>Inscrivez-vous à notre newsletter mensuelle</p>
+                <p>{% if page.lang == "en" %} Subscribe to our monthly newsletter {% else %} Abonnez-vous à la newsletter mensuelle {% endif %}</p>
 
 
-
-
+            {% if page.lang == "en" %}
+            
             <div id="mc_embed_signup">
+               <form action="//democracyos.us11.list-manage.com/subscribe/post?u=7daec3a371c1cae8cd85fd870&amp;id=bc3860d8eb" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                    <div >
+                       <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="{% if page.lang == "en" %} example@domain.com {% else %} exemple@domaine.com {% endif %}" required >
+                    </div>
+                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7daec3a371c1cae8cd85fd870_bc3860d8eb" tabindex="-1" value=""></div>
+                    <br>
+                    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-large btn-news btn-primary" />
+              </form>
+            </div>   
+
+
+            {% else %}
+
+              <div id="mc_embed_signup">
                <form action="//democracyos.us11.list-manage.com/subscribe/post?u=7daec3a371c1cae8cd85fd870&amp;id=22f3cfc505" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                    <div class="input-group">
-                      <span class="input-group-addon">
-                        <i class="fa fa-envelope"></i>
-                      </span>
-                       <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="exemple@gmail.com" required>
+                    <div >
+                       <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="{% if page.lang == "en" %} example@domain.com {% else %} exemple@domaine.com {% endif %}" required >
                     </div>
                     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7daec3a371c1cae8cd85fd870_22f3cfc505" tabindex="-1" value=""></div>
                     <br>
-                    <input type="submit" value="Inscription" name="subscribe" id="mc-embedded-subscribe" class="btn btn-large btn-primary" />
+                    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-large btn-news btn-primary" />
               </form>
-            </div>  
+            </div> 
+            {% endif %}
+
+
     </div>  
     </div>  
 <br>
 
 
            <div class="copyright">
-            © 2016 DemocracyOS France <br> 
-        
-            <br> 
+
             <i class="fa fa-envelope" aria-hidden="true"> </i> 
                 <a href="mailto:contact@democracyos.eu"> 
-                <b>contact@democracyos.eu</b>
-
+                <b>contact@democracyos.eu</b></a>
                 <br>
+                 <br>
+                <b style="color:#6b6b6b ; font-weight:200;">The contents of this website are © 2016 under the terms of the MIT License.</b>
                 <br>
-                <a href="http://democracyos.eu/admin">Site Admin</a>
+             
             </div>
 
 

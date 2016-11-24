@@ -16,6 +16,10 @@
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/cssgram.css" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/carousel.css" | prepend: site.baseurl }}">
+    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+    {% for page in pages %}
+    <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />
+    {% endfor %}
 <!--
     {% if page.homepage == true %}
 <link rel="stylesheet" href="{{ "/css/clndr.css" | prepend: site.baseurl }}">

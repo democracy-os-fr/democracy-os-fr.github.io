@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns:og="http://ogp.me/ns#">
+<html lang="fr" xmlns:og="http://ogp.me/ns#">
 
   {% include head.html %}
   <body>
@@ -31,7 +31,7 @@
       })
 </script>
 
-<!--  Carousel -->
+<!--  Carousel 
  <script>
     $('.carousel').carousel({
         interval: 5000 //changes the speed
@@ -48,6 +48,7 @@
      });  
   });  
 </script>
+-->
 
 
 
