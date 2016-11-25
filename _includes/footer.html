@@ -11,6 +11,10 @@
             {% for menu in site.foot[page.lang] %}
             <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
           {% endfor %}
+           {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+            {% for page in pages %}
+                <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}/</a>
+            {% endfor %}
             </ul>                             
       </div>
       <br>
