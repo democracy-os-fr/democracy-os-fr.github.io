@@ -1,13 +1,14 @@
-@import url('https://fonts.googleapis.com/css?fa:homily=Lato:300,400,900');
+@import url('//fonts.googleapis.com/css?fa:homily=Lato:300,400,900');
 
 html,
 body {
     height: 100%;
     width:100%;
+    font-family: "Lato","Helvetica Neue",Arial,sans-serif;
 }
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, a, .td-name, td, li {
   
-  font-family: "lato","Helvetica Neue",Arial,sans-serif;
+  font-family: "Lato","Helvetica Neue",Arial,sans-serif;
 }
 h1{
   font-weight:600;
