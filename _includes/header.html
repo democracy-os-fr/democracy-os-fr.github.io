@@ -20,13 +20,12 @@
             {% for menu in site.t[page.lang] %}
             <li><a href="{{ menu[1].url }}">{{ menu[1].name }}</a></li>
           {% endfor %}
-             <li>
-            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+              {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
             {% for page in pages %}
-              {% cycle nil, '/' %}
+              <li>
                 <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+              </li>
             {% endfor %}
-          </li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
