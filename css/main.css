@@ -1119,7 +1119,7 @@ height:220px;
   }
 }
 .en:lang(en), .fr:lang(fr){
-font-size:22px;
+font-size:24px;
 }
 .form-control:not(#search-input):not(#mc-embedded-subscribe){
   background-color: transparent;
