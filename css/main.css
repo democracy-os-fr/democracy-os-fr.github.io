@@ -1161,6 +1161,12 @@ background-color: #EFEFEF;
 -webkit-filter: grayscale(100%);
 -moz-filter:grayscale(100%)
 filter: grayscale(100%);
+transition: all 0.4s ease 0s;
+}
+.img-bw:hover{
+-webkit-filter: grayscale(10%);
+-moz-filter:grayscale(10%)
+filter: grayscale(10%);
 }
 .navbar-alt .navbar-toggle {
   border-color: #888;
