@@ -11,14 +11,14 @@ tags:
 - Transparence
 - Parlement
 - Co-élaboration de la loi
-description_hero: ''
+description_hero: bandeau_reseauxsociaux
 extrait: ''
-auteur: Caroline
+auteur: Caroline Corbal
 comments: true
 ---
 Les consultations citoyennes sont souvent utilisées par des acteurs privés et publics comme des outils de communication ou de lobbying, dans le but d’asseoir leur légitimité ou d’influencer l’opinion. À quelles conditions une consultation citoyenne peut-elle devenir un authentique outil démocratique ? Quelles procédures, quels dispositifs et quels garde-fous doivent être mis en place pour garantir cette finalité ? La réutilisation des données issues de la consultation peut-elle permettre d’éviter ces types de biais ou, a minima, de les rendre visibles ?
 
-Voici les questions auxquelles ont essayé de répondre nos trois organisations ([Regards Citoyens](http://regardscitoyens.org/),[FaisTaLoi.org](http://faistaloi.pbsolving.fr/)  et [DemocracyOS France](http://democracyos.eu/)), en tant que membres du comité de suivi et de contrôle de la [consultation sur l’impact de la loi Égalité Femmes / Hommes organisée par l’Assemblée nationale](http://www2.assemblee-nationale.fr/questionnaire/form/EGALITE). Nous avons ainsi rédigé une [note d’analyse](https://www.regardscitoyens.org/wp-content/uploads/Consultation_EgaliteFH_RapportRC.pdf) décrivant la méthodologie mise en place pour l’évaluation de cette consultation ainsi que nos principaux résultats. Cette note a été communiquée au comité d’évaluation qui le publiera en annexe de son rapport final. Nous [publions également les données](https://github.com/regardscitoyens/consultation_an/blob/master/exploitation/README.md) produites par l’analyse communautaire des contributions.
+Voici les questions auxquelles ont essayé de répondre nos trois organisations ([Regards Citoyens](http://regardscitoyens.org/), [FaisTaLoi.org](http://faistaloi.pbsolving.fr/) et [DemocracyOS France](http://democracyos.eu/)), en tant que membres du comité de suivi et de contrôle de la [consultation sur l’impact de la loi Égalité Femmes / Hommes organisée par l’Assemblée nationale](http://www2.assemblee-nationale.fr/questionnaire/form/EGALITE). Nous avons ainsi rédigé une [note d’analyse](https://www.regardscitoyens.org/wp-content/uploads/Consultation_EgaliteFH_RapportRC.pdf) décrivant la méthodologie mise en place pour l’évaluation de cette consultation ainsi que nos principaux résultats. Cette note a été communiquée au comité d’évaluation qui le publiera en annexe de son rapport final. Nous [publions également les données](https://github.com/regardscitoyens/consultation_an/blob/master/exploitation/README.md) produites par l’analyse communautaire des contributions.
 
 [Rapport d’évaluation de la consultation Égalité Femme/Homme](https://www.regardscitoyens.org/wp-content/uploads/Consultation_EgaliteFH_RapportRC.pdf)
 
@@ -37,3 +37,5 @@ Les apprentissages offerts par les analyses de cette consultation vont désormai
 [Lire l’analyse de la consultation Égalité Femmes / Hommes](https://www.regardscitoyens.org/wp-content/uploads/Consultation_EgaliteFH_RapportRC.pdf)
 
 [Accéder aux données d’analyse produites par la plateforme d’analyse communautaire](https://github.com/regardscitoyens/consultation_an/blob/master/exploitation/README.md)
+
+![]({{ site.baseurl }}/img/medias/Capture%20d%E2%80%99e%CC%81cran%202016-11-27%20a%CC%80%2018.25.24.png)
