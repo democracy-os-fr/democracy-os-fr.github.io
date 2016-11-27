@@ -2,8 +2,8 @@
 title: Laure Kassem
 date: '2016-11-27 19:00:00'
 lang: fr
-layout: realisations
+layout: auteur
 avatar: ''
-twitter_username: ''
+twitter_username: "@LaureKassem"
 description: ''
 ---
