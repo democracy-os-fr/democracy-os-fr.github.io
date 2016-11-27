@@ -14,7 +14,7 @@ tags:
 description_hero: bandeau_reseauxsociaux
 extrait: Retour sur l'analyse de la consultation sur la loi Homme / Femme
 auteur: Caroline Corbal
-comments: true
+comments: false
 ---
 Les consultations citoyennes sont souvent utilisées par des acteurs privés et publics comme des outils de communication ou de lobbying, dans le but d’asseoir leur légitimité ou d’influencer l’opinion. À quelles conditions une consultation citoyenne peut-elle devenir un authentique outil démocratique ? Quelles procédures, quels dispositifs et quels garde-fous doivent être mis en place pour garantir cette finalité ? La réutilisation des données issues de la consultation peut-elle permettre d’éviter ces types de biais ou, a minima, de les rendre visibles ?
 
