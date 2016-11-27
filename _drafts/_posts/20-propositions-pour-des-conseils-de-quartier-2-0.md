@@ -1,6 +1,6 @@
 ---
 title: 20 propositions pour des conseils de quartier 2.0
-date: '2016-11-27 18:44:46'
+date: '2016-11-26 18:44:00'
 layout: post
 lang: fr
 hero: img/medias/Capture%20d%E2%80%99e%CC%81cran%202016-11-27%20a%CC%80%2018.47.18.png
