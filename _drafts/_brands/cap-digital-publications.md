@@ -1,7 +1,7 @@
 ---
 title: Cap Digital - Publications
 date: '2016-11-28 12:37:38'
-logo: ''
-link: ''
+logo: img/medias/logo-300x49.png
+link: http://publications.capdigital.com/lettre_veille/dossier-37-civic-tech/
 layout: realisations
 ---
