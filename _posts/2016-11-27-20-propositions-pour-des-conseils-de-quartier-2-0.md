@@ -7,7 +7,7 @@ hero: img/medias/Quartier%201-1.png
 customclass: ''
 tags:
 - Conseils de quartier
-description_hero: Bannière conseils de quartier
+description_hero: ''
 extrait: 20 propositions pour des conseils de quartier 2.0
 auteur: Valentin Chaput
 comments: true
