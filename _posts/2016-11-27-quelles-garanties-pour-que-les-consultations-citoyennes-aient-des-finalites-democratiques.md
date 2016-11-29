@@ -11,7 +11,7 @@ tags:
 - Transparence
 - Parlement
 - Co-élaboration de la loi
-description_hero: bandeau_reseauxsociaux
+description_hero: ''
 extrait: Retour sur l'analyse de la consultation sur la loi Homme / Femme
 auteur: Caroline Corbal
 comments: false
