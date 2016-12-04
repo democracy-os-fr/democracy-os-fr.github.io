@@ -1,5 +1,5 @@
 ---
-title: Empowering Students remporte la Student Demo Cup
+title: Empowering Students gagne la Student Demo Cup
 date: '2016-12-04 01:00:00'
 layout: post
 lang: fr
