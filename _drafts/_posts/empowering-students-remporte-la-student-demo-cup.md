@@ -1,13 +1,14 @@
 ---
-title: Empowering Students gagne la Student Demo Cup
+title: Empowering Students remporte la Student Demo Cup
 date: '2016-12-04 01:00:00'
 layout: post
 lang: fr
 hero: img/medias/empoweringlogo-1.png
 customclass: ''
-tags: []
+tags:
+- Consultation
 description_hero: ''
-extrait: ''
+extrait: 'Pour une gouvernance ouverte dans les Universités et les Ecoles '
 auteur: Laure Kassem
 comments: true
 ---
