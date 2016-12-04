@@ -1,14 +1,14 @@
 ---
 title: Empowering Students remporte la Student Demo Cup
-date: '2016-11-28 10:25:24'
+date: '2016-12-04 01:00:00'
 layout: post
 lang: fr
-hero: forestryio/files/Pr%C3%A9sentation%20Student%20Demo%20Cup%20Visuel.pdf
+hero: img/medias/empoweringlogo-1.png
 customclass: ''
 tags: []
 description_hero: ''
 extrait: ''
-auteur: ''
+auteur: Laure Kassem
 comments: true
 ---
 Les étudiants pèsent insuffisamment sur les décisions qui les concernent directement. Leur implication est souvent freinée et leur action verrouillée par des considérations politiques. S’en suit une perte de conscience de leur capacité d’agir dans la société, laquelle s’exprime au sein même des universités et des écoles. En redonnant une voix aux étudiants, les plateformes de consultation en ligne constituent une réponse adaptée aux enjeux liés à l’implication des jeunes dans le processus de décision. Chacun d’eux aura ainsi la possibilité de : S’informer – S’exprimer – Débattre – Voter.
