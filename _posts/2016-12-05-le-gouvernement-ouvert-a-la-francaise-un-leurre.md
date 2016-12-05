@@ -14,7 +14,9 @@ description_hero: 'Bilan du gouvernement ouvert à la française, co-signé par 
   et collectifs suivants : April, BLOOM, DemocracyOS France, Fais ta loi, Framasoft,
   La Quadrature du Net, Ligue des Droits de l’Homme, Regards Citoyens, République
   citoyenne, SavoirsCom1'
-extrait: ''
+extrait: Alors que la France s'apprête à accueillir le Sommet mondial du Partenariat
+  pour un Gouvernement Ouvert, plusieurs associations pointent les contradictions
+  du gouvernement. Certaines ne s'y rendront pas.
 auteur: Collectif
 comments: true
 ---
