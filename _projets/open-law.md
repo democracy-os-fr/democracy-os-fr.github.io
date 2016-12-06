@@ -2,7 +2,7 @@
 title: Open Law
 date: '2016-12-06 09:58:37'
 visuel: img/medias/openlaw.png
-background_color: "#212B54"
+background_color: "#BFBDB9"
 link: http://consultation.openlaw.fr/
 description: Open Law, Le droit ouvert est un projet de cocréation destiné à mettre
   en valeur le droit ouvert, accompagner et stimuler l'innovation ouverte et collaborative
