@@ -10,6 +10,6 @@ description: Open Law, Le droit ouvert est un projet de cocréation destiné à 
   transparente, horizontale et ouverte, cette plateforme à vocation à faire éclore
   une soft law nécessaire à l'innovation dans le secteur du droit, dans une démarche
   de co-construction numérique.
-layout: default
+layout: realisations
 ---
 Open Law, Le droit ouvert est un projet de cocréation destiné à mettre en valeur le droit ouvert, accompagner et stimuler l'innovation ouverte et collaborative autour des données juridiques. Prolongement naturel de leur méthode de travail collective, transparente, horizontale et ouverte, cette plateforme à vocation à faire éclore une soft law nécessaire à l'innovation dans le secteur du droit, dans une démarche de co-construction numérique.
