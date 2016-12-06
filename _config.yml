@@ -50,7 +50,8 @@ defaults:
     visuel: ''
     background_color: ''
     link: ''
-    description: ''
+    description_fr: ''
+    description_en: ''
 - scope:
     path: ''
     type: brands
