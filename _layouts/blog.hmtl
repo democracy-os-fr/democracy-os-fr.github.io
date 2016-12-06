@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns:og="http://ogp.me/ns#">
+<lang= "fr" html xmlns:og="http://ogp.me/ns#">
 
   {% include head.html %}
   <body>
