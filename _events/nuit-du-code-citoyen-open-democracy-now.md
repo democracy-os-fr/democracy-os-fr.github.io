@@ -1,7 +1,7 @@
 ---
 end_date: 2017-03-04 19:00
 type_evenement: Actualité
-visuel: "/img/medias/ODN NCC bandeau.jpg"
+visuel: "/img/medias/ODN NCC bandeau-1.jpg"
 event_background_color: "#c32c46"
 full_frame: true
 description: ''
