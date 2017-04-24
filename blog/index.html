@@ -21,15 +21,15 @@ excerpt: "Retrouvez tous nos articles sur le blog de DemocracyOS France"
                     <a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
                 </h1>
 
-             
+
                 {% assign members = site.members | where:"title", post.auteur %}
                 {% for member in members %}
                 <h5><i class="fa fa-clock-o" aria-hidden="true"></i> Posté le {%include date-display-post.html%} - par <a href="{{site.baseurl}}{{member.url}}"><b>{{member.title}}</b></a>
                     {% assign name = member.title | split:' ' | first %}
                 <img class="avatar avatar-blog" src="{{site.baseurl}}/{{member.avatar}}" alt="{{name}}"></h5>
-                
+
                 {% endfor %}
-             
+
 
                 <!--  <h5><i class="fa fa-clock-o" aria-hidden="true"></i> Posté le {%include date-display-post.html%} - par <b>{{post.auteur}}</b>
                 </h5> -->
@@ -41,16 +41,16 @@ excerpt: "Retrouvez tous nos articles sur le blog de DemocracyOS France"
                 </div>
                 <br>
                 <div class="share-icons">
-                Partager cet article: 
+                Partager cet article:
                 <a href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{ site.url }}{{ post.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Partager sur Twitter"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
 
                 <a href="{{site.url}}{{post.url}}" rel="nofollow" onclick="window.open('https://www.facebook.com/sharer.php?u={{site.url}}{{post.url}}&title={{post.title}}', 'newwindow', 'width=600, height=400'); return false;" target="_blank" title="Partager sur Facebook"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
-                
+
                 </div>
                 <hr>
                 <p class="getsmaller">{{post.extrait}}</p>
-                
-                <a class="btn btn-primary" href="{{site.url}}{{post.url}}">Lire plus <i class="fa fa-chevron-right" aria-hidden="true" style="padding-left:10px"></i></a> 
+
+                <a class="btn btn-primary" href="{{site.url}}{{post.url}}">Lire plus <i class="fa fa-chevron-right" aria-hidden="true" style="padding-left:10px"></i></a>
 
                 <hr>
                 {% endfor %}

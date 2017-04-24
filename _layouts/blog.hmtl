@@ -9,7 +9,7 @@
           {{ content }}
 
 		 <hr>
-  
+
     {% include footer.html %}
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
@@ -23,7 +23,7 @@
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '{{ site.baseurl }}/search.json',
-        searchResultTemplate: '<a href="{url}"><img class="img-responsive" src="{thumbnail}"></img></a><li><a href="{url}" title="{desc}">{title}</a></li>',
+        searchResultTemplate: '<a href="{url}"><img class="img-responsive" src="{thumbnail}"></img></a><li><a href="{url}" title="{title}">{title}</a></li>',
         noResultsText: 'Aucun article trouvé',
         limit: 10,
         fuzzy: false,
@@ -42,7 +42,7 @@
 
 </script>
 
-<!--  Carousel 
+<!--  Carousel
  <script>
     $('.carousel').carousel({
         interval: 5000 //changes the speed
@@ -50,14 +50,14 @@
     </script>
 
 <script>
-  $(document).ready(function() {  
-       $("#myCarousel").swiperight(function() {  
-          $(this).carousel('prev');  
-          });  
-       $("#myCarousel").swipeleft(function() {  
-          $(this).carousel('next');  
-     });  
-  });  
+  $(document).ready(function() {
+       $("#myCarousel").swiperight(function() {
+          $(this).carousel('prev');
+          });
+       $("#myCarousel").swipeleft(function() {
+          $(this).carousel('next');
+     });
+  });
 </script>
 -->
 
