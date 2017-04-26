@@ -1,6 +1,8 @@
 ---
-logo: img/medias/brand_acteurs_publics.png
-link: http://www.acteurspublics.com/2016/09/16/changer-de-logiciel-democratique-avec-les-civic-tech
+logo: "/img/medias/logo_parisinnovation_psl_review.png"
+link: http://parisinnovationreview.com/2017/03/08/civic-techs-1-numerique-democratie/
 title: Paris Innovation Review
 date: 2017-04-26 13:53
+end_date: '2017-04-26T11:53:16.303Z'
+layout: ''
 ---
