@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-hero: "/img/medias/Offre Stage"
+hero: "/img/medias/Offre Stage.jpg"
 customclass: ''
 tags:
 - Merge
