@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-hero: favicons/android-chrome-192x192.png
+hero: ''
 customclass: ''
 tags:
 - Merge
@@ -109,5 +109,19 @@ Créer un processus de contribution au code, clair et transparent
 **Modalités :** L’étudiant pourra être amené à participer aux réunions et assemblées générales organisées par l’association DemocracyOS France, pour présenter l’avancée des travaux.
 
 Il pourra également participer aux hackathons Open Democracy Now organisés par l’association, dans l’optique de faire entrer de nouveaux contributeurs au sein du projet.
+
+## Contact
+
+contact@democracyos.eu![](favicons/apple-touch-icon.png)
+
+
+
+*DemocracyOS est une plateforme de consultation en ligne qui permet de prendre des décisions collectivement, en toute transparence. Elle est open source, afin d’offrir l’opportunité à un maximum d’acteurs de s’en saisir, de l’utiliser, de l’améliorer (etc.), et d’apporter aux utilisateurs un ensemble de garanties en matière de transparence et de sincérité. *
+
+*Née en 2012 en Argentine, elle est aujourd’hui disponible en plus de 18 langues et a été utilisée dans une dizaine de pays, à des niveaux de gouvernement différents. En France, son développement est porté par une association, qui assure sa promotion et le développement de sa communauté. *
+
+
+
+
 
 
