@@ -107,7 +107,7 @@ Il pourra également participer aux hackathons Open Democracy Now organisés par
 
 contact@democracyos.eu
 
-![](favicons/apple-touch-icon.png)
+![](img/medias/apple-touch-icon-180x180.png)
 
 DemocracyOS est une plateforme de consultation en ligne qui permet de prendre des décisions collectivement, en toute transparence. Elle est open source, afin d’offrir l’opportunité à un maximum d’acteurs de s’en saisir, de l’utiliser, de l’améliorer (etc.), et d’apporter aux utilisateurs un ensemble de garanties en matière de transparence et de sincérité.
 
