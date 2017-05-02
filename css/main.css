@@ -7,7 +7,7 @@ body {
     font-family: "Lato","Helvetica Neue",Arial,sans-serif;
 }
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, a, .td-name, td, li {
-  
+
   font-family: "Lato","Helvetica Neue",Arial,sans-serif;
 }
 h1{
@@ -647,14 +647,14 @@ a:focus{
 }
 
 header.carousel {
-    height: 400px;
-    min-height: 400px;
+    height: 600px;
+    min-height: 600px;
 }
 
 @media(max-width:768px) {
   header.carousel {
-    height:250px;
-    min-height: 200px;
+    height:350px;
+    min-height: 350px;
   }
 }
 header.carousel .item,

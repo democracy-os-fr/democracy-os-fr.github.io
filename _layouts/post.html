@@ -8,7 +8,7 @@
 {% include header-post.html %}
 
 
-        <div class="container containerpost">     
+        <div class="container containerpost">
 
                 {% assign members = site.members | where:"title", page.auteur %}
                 {% for member in members %}
@@ -33,11 +33,13 @@
                 <img class="avatar avatar-blog" src="{{site.baseurl}}/{{member.avatar}}" alt="{{name}}"></h5>
                 {% endfor %}
 					<br>
-		
+
 			<div class="post">
-				
+
 					<h1>{{page.title}}</h1>
-						<br>
+
+            <h3>{{page.description_hero}}</h3>
+            <br>
 				 	{{ page.content }}
 					 	<br>
 					 	<br>
@@ -47,7 +49,7 @@
 				    <br>
 				    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Partager sur Twitter"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
 
-				    <a href="{{site.url}}{{post.url}}" rel="nofollow" onclick="window.open('https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}&title={{post.title}}', 'newwindow', 'width=600, height=400'); return false;" target="_blank" title="Partager sur Facebook"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>    
+				    <a href="{{site.url}}{{post.url}}" rel="nofollow" onclick="window.open('https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}&title={{post.title}}', 'newwindow', 'width=600, height=400'); return false;" target="_blank" title="Partager sur Facebook"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
 				</div>
 					<hr>
 				<a href="{{site.baseurl}}/blog">Blog</a> > <b>{{page.title}}</b>
@@ -57,13 +59,13 @@
 					<br>
 					<br>
 		</div>
-			
+
 		<div class="container">
 			{% include sidebar.html %}
 					<br>
-				
+
 		</div>
-		
+
 		{% if page.comments %}
 			<br>
 			<br>
@@ -82,14 +84,14 @@
 
 		<br>
 		<br>
-		
+
 			<hr>
 
 		<br>
 		<br>
-		
+
     {% include footer.html %}
-    
+
 
 
 
@@ -128,13 +130,3 @@
 
   </body>
 </html>
-
-
-
-
-
-		
-
-				
-
-	

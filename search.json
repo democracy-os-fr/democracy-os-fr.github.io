@@ -5,9 +5,9 @@ layout:
 [
 {% for post in site.posts %}
     {
-      "title"     : {{ post.title | jsonify}},
-      "url"       : "{{ site.baseurl }}/{{ post.url }}",
-      "thumbnail" : {{ site.baseurl }}/{{ post.hero | jsonify}}
+      "title"     : {{ post.title | jsonify }},
+      "url"       : "{{ site.baseurl }}{{ post.url }}",
+      "desc"      : {{ site.baseurl }}{{ post.description_hero | jsonify }}
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

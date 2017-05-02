@@ -1,11 +1,11 @@
 <!-- Blog Sidebar Widgets Column -->
-         
-                    
-                   
+
+
+
                 {% if page.blog == true or page.avatar %}
 
                  <a href="{{site.baseurl}}/blog"><div class="logo-blog text-center hidden-xs"><img src="{{site.baseurl}}/img/square.png" alt="logo-square-DemocracyOS"></a>
-                    
+
                     <p class="lead">Blog</p>
                     </div>
 
@@ -18,28 +18,28 @@
                                 <i class="fa fa-search" aria-hidden="true"></i>
                         </button>
                         </span>
-                      <!-- /.input-group -->  
+                      <!-- /.input-group -->
                     </div>
-                    <ul class= "list-unstyled" style="font-weight:600; margin-top:20px;" id="results-container"></ul>    
+                    <ul style="font-weight:600; margin-top:20px;" id="results-container"></ul>
                 </div>
-               
+
                 <!-- Side Widget Well -->
                 <div class="well">
                     <h4>Derniers articles</h4>
                     {% for post in site.posts limit:8 %}
-                    <a href="{{site.url}}{{post.url}}"><div class="btn btn-default btn-well" style="margin-right:3px; margin-top:6px;">{{post.title | truncatewords:6}}</div></a>
+                    <a href="{{site.url}}{{post.url}}" title="{{post.title}}"><div class="btn btn-default btn-well" style="margin-right:3px; margin-top:6px;">{{post.title | truncate: 40}}</div></a>
                     {% endfor %}
                 </div>
 
                   <!-- Blog Categories Well -->
                 <div class="well" id="twitter-widget">
-                    <a class="twitter-timeline" data-lang="fr" data-width="650" data-height="400" data-theme="light" href="https://twitter.com/DemocracyOS_FR">Tweets by DemocracyOS_FR</a> 
+                    <a class="twitter-timeline" data-lang="fr" data-width="650" data-height="400" data-theme="light" href="https://twitter.com/DemocracyOS_FR">Tweets by DemocracyOS_FR</a>
                     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>
                 </div>
 
                 {% else %}
-              
+
 
                  <div class="row">
                     {% for post in site.posts limit:3 %}
@@ -53,8 +53,8 @@
                                 <p class="welltitle">
                             <b>{{post.title}}</b><br></a>
                              <div class="hidden-sm hidden-md hidden-lg">{{post.extrait | truncatewords: 15}}</div>
-                        
-                           
+
+
                             </p>
 
 
