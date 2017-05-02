@@ -10,7 +10,7 @@ tags:
 description_hero: 'Offre de stage - L''association cherche un(e) Développeur(se) pour
   gérer le merge entre la version française de DemocracyOS  et la master Argentine. '
 extrait: ''
-auteur: 'Caroline Corbal '
+auteur: Caroline Corbal
 comments: true
 title: Stage - Merge DemocracyOS France / Argentine
 date: 2017-04-27 15:01
