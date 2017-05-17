@@ -2,18 +2,15 @@
 layout: post
 lang: fr
 hero: img/medias/visu open by design.png
-customclass: earlybird
+customclass: ''
 tags:
 - Open Source Politics
 - presse
 - civictech
-description_hero: La civic-tech française risque de se détourner de la création des
-  biens communs numériques
-extrait: La diversité des initiatives civic-tech françaises qui foisonnent depuis
-  dix-huit mois a maintenu une apparence de complémentarité. Elle a désormais été
-  décrite sous forme de catalogues homogènes par tous nos principaux médias locaux
-  et nationaux, qui pour la plupart n’ont pas poussé l’analyse au-delà des éléments
-  de langage corporate.
+description_hero: Article rédigé par Valentin Chaput dans le cadre de la rédaction
+  du rapport de point d'aencrage et publié dans Medium @OpenSourcePolitics
+extrait: La civic-tech française risque de se détourner de la création des biens communs
+  numériques
 auteur: Valentin Chaput
 comments: true
 title: Open By Design
