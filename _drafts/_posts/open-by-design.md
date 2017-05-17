@@ -18,9 +18,11 @@ date: 2016-12-06 13:29
 ---
 
 
+## La civic-tech française risque de se détourner de la création des biens communs numériques
+
 Notre génération aspire à créer un monde plus collaboratif. Les enjeux de notre époque ne nous laissent de toute façon pas le choix. Nous devons changer en profondeur le fonctionnement de notre démocratie si nous ne voulons pas qu’elle soit emportée à court terme par la défiance, la colère et le renoncement. Le numérique, qui nous offre la promesse d’abaisser les barrières d’accès à l’information et à l’échange, est une partie de la réponse. Mais les modèles classiques résistent et, en croyant les dépasser, nous aggravons parfois leurs torts. OuiShare l’a observé sur l’économie dite « du partage », absorbée par la croissance fulgurante de géants comme Uber qui ont rapidement préféré la lucrativité à la transformation sociale. Nous risquons de voir exactement le même phénomène s’appliquer à la civic-tech française, que nous célébrons en grande pompe du 7 au 9 décembre dans les plus beaux palais de la République lors du sommet mondial du Partenariat pour un Gouvernement ouvert que la France préside cette année.
 
-Nous sommes collectivement responsables d’avoir laissé grandir la confusion qui entoure la civic-tech, cet objet politique non-identifié derrière lequel nous nous sommes réfugiés avec espoir et enthousiasme. Nous avons décliné un jargon fleuri composé d’« open gov », de « hackathon », d’« open data », <span style="font-size: 1rem;">d’« API », de « do it yourself », de « crowdsourcing » et de « proxy voting » sur la « blockchain » qui rend nos projets littéralement incompréhensibles pour la très large majorité de la population que nous voulons toucher. Nous avons par ailleurs été piégés par nos propres définitions de la civic-tech, si englobantes qu’elles ne permettent pas la distinction entre plusieurs réalités techniques, économiques et finalement éminemment politiques.</span>
+Nous sommes collectivement responsables d’avoir laissé grandir la confusion qui entoure la civic-tech, cet objet politique non-identifié derrière lequel nous nous sommes réfugiés avec espoir et enthousiasme. Nous avons décliné un jargon fleuri composé d’« open gov », de « hackathon », d’« open data », d'« API », de « do it yourself », de « crowdsourcing » et de « proxy voting » sur la « blockchain » qui rend nos projets littéralement incompréhensibles pour la très large majorité de la population que nous voulons toucher. Nous avons par ailleurs été piégés par nos propres définitions de la civic-tech, si englobantes qu’elles ne permettent pas la distinction entre plusieurs réalités techniques, économiques et finalement éminemment politiques.
 
 La civic-tech concerne l’ensemble des plateformes et applications mobiles spécifiquement conçues pour renforcer l’engagement citoyen, la participation démocratique et la transparence des gouvernements. Ces solutions accompagnent tout le cycle de vie d’une politique publique, de l’idéation à l’évaluation. Il est cependant nécessaire de creuser le sujet pour obtenir une typologie plus objective des modèles et des acteurs.
 
@@ -41,30 +43,39 @@ Plusieurs entreprises françaises se sont créées sur cette opportunité. Spall
 Le modèle propriétaire s’accompagne toutefois d’une série d’inconvénients :
 
 * Le manque de transparence pour commencer. La puissance publique n’a pas accès au code source qui fait tourner ces plateformes. Pourquoi se préoccuper de ces détails techniques — qui, avouons-le, dépassent de très loin la compréhension de la majorité des décideurs — tant que la plateforme marche ? Si le code a valeur de loi, selon la démonstration faite par le Pr. Lawrence Lessig (Code and Other Laws of Cyberspace, 1999), une plateforme numérique n’est jamais neutre. Elle est le fruit des choix techniques et idéologiques de ses concepteurs. Lorsque nous ne maîtrisons pas son code, ce sont les auteurs de ce code qui nous maîtrisent.
+
 * L’abandon de la souveraineté ensuite. Publier rétrospectivement un jeu de données issu d’une plateforme non auditable n’est pas une garantie suffisante que les données n’ont pas été manipulées. Quand bien même nous n’aurions pas de raison de douter des intentions des éditeurs actuels de ces plateformes, le fait que ces entreprises puissent être rachetées à moyen terme par d’autres acteurs est une menace que tout acteur public doit prendre en considération dès lors qu’il engage sa responsabilité dans un processus de récolte d’opinions citoyennes et de concertation démocratique.
+
 * L’absence de collaboration durable enfin. Tous les gouvernements ayant les mêmes besoins, ils représentent une manne promise à ces entreprises. Au lieu de mutualiser ces besoins, les institutions — et donc in fine les contribuables — payent et repayent chacune à leur tour des technologies existantes. Une partie des gains sont certes réinvestis par ces entreprises, mais les améliorations ne profiteront qu’aux prochains clients. L’argent public ne finance pas le développement de biens communs librement réutilisables, mais des modèles économiques classiques. Dans le modèle propriétaire, il faut que chacun le sache et le comprenne, aucune mutualisation technique n’est possible.
 
 ![](img/medias/citation%20manifest.jpeg)
 
-*  _Code is Law_*,  * traduit en français par Framasoft*
+*Code is Law**,  traduit en français par Framasoft*
 
 ### Le défi de faire émerger la “common-tech” en environnement fermé.
 
 Après avoir distingué la pol-tech et la gov-tech, nous obtenons une vision plus claire des technologies de la citoyenneté stricto sensu. La capacité des citoyens à maîtriser et utiliser par eux-mêmes ces outils pour s’informer, s’organiser et prendre des décisions collectives est dans l’ADN de la civic-tech, définie aux Etats-Unis comme « the use of technology for the public good ». Peut-être faut-il évoluer vers une définition des « common-tech » pour délimiter plus précisément la création de ces communs digitaux, qui correspondent davantage à ce qui existe à l’international. Car des alternatives libres existent pour les mêmes besoins :
 
 * « Fix my Street » est une plateforme open source de signalement développée au Royaume-Uni par mySociety.org.
+
 * La nouvelle association Open Knowledge Estonia que j’ai eu le plaisir de rencontrer à Tallinn se lance dans le développement d’une application open source « 2 minutes 4 my city » qui connecte les citoyens avec les actualités et décisions locales.
 
 * DKAN est un portail d’open data open source créé aux Etats-Unis à destination des collectivités.
+
 * Democracy OS est une plateforme de consultation open source initiée en Argentine et désormais déployée en France.
 
 La création de logiciels libres pour la démocratie est en train de se généraliser à travers le monde :
 
 * La Commission européenne impose que les logiciels qu’elle finance, comme ceux du programme D-Cent, soient open source.
+
 * L’administration Obama a ouvert le code de son application officielle de pétitions « We the People » et vient de lancer le portail code.gov qui libère le code de toutes les plateformes gouvernementales américaines.
+
 * La nouvelle ministre taïwanaise du numérique Audrey Tang a animé depuis des années les hackathons g0v.tw autour du développement de solutions open source.
+
 * Le pionnier des outils de lobby citoyen est la plateforme Meu Rio développée en open source au Brésil.
+
 * Les Islandais dont nous saluons les pirates et le modèle démocratique ont créé un portail open source pour Better Reykjavik.
+
 * Les élus Podemos à Madrid ont investi dans le logiciel Consul qui est utilisé par le portail decide.madrid.es pour les concertations et le budget participatif de la capitale… et d’autres villes espagnoles, qui ont ainsi accès au même outil.
 
 ### *La civic-tech française est à contre-courant.*
