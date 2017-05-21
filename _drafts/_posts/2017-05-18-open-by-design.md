@@ -59,7 +59,7 @@ Le modèle propriétaire s’accompagne toutefois d’une série d’inconvénie
 
 Après avoir distingué la pol-tech et la gov-tech, nous obtenons une vision plus claire des technologies de la citoyenneté stricto sensu. La capacité des citoyens à maîtriser et utiliser par eux-mêmes ces outils pour s’informer, s’organiser et prendre des décisions collectives est dans l’ADN de la civic-tech, définie aux Etats-Unis comme « [the use of technology for the public good](http://s.com/civictech-primer-what-is-civic-tech-7ea788e766d3#.4xyi172vp) ». Peut-être faut-il évoluer vers une définition des « common-tech » pour délimiter plus précisément la création de ces communs digitaux, qui correspondent davantage à ce qui existe à l’international. Car des alternatives libres existent pour les mêmes besoins :
 
-* « [Fix my Street](http://fixmystreet.org/) » est une plateforme open source de signalement développée au Royaume-Uni par [mySociety.org.](https://www.mysociety.org/)
+* « [Fix my Street](http://fixmystreet.org/) » est une plateforme open source de signalement développée au Royaume-Uni par [mySociety.org](https://www.mysociety.org/)
 
 * La nouvelle association [Open Knowledge Estonia](http://opendata.ee/) que j’ai eu le plaisir de [rencontrer à Tallinn](https://medium.com/@IF_Estonie/in-case-you-missed-our-opengov-meetup-58d3574c9006) se lance dans le développement d’une application open source « [2 minutes 4 my city](http://www.2min4city.com/#/issue/31660) » qui connecte les citoyens avec les actualités et décisions locales.
 
