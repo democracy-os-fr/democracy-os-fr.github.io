@@ -1,6 +1,6 @@
 ---
 visuel: img/medias/Progressistes-1.jpg
-background_color: "#BE323F"
+background_color: "#2C355C"
 link: https://ssl.projetdesprogressistes.org/
 description_fr: Mise en place d'une plateforme pour Yan Chantrel candidat aux législatives
   2017 pour la circonscription d'Amérique du Nord. Sur l'instance les sympathisants
