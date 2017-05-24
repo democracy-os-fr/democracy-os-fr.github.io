@@ -1,5 +1,5 @@
 ---
-visuel: img/medias/Progressistes-1.jpg
+visuel: img/medias/Progressistes2.jpg
 background_color: "#3C2344"
 link: https://ssl.projetdesprogressistes.org/
 description_fr: Mise en place d'une plateforme pour Yan Chantrel candidat aux législatives
