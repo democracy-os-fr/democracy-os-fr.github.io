@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-hero: img/medias/z_democracy-1.png
+hero: img/medias/WED-slidepic.jpg
 customclass: earlybird
 tags:
 - presse
