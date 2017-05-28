@@ -27,7 +27,7 @@
                 <div class="well">
                     <h4>Derniers articles</h4>
                     {% for post in site.posts limit:8 %}
-                    <a href="{{site.url}}{{post.url}}" title="{{post.title}}"><div class="btn btn-default btn-well" style="margin-right:3px; margin-top:6px;">{{post.title | truncate: 40}}</div></a>
+                    <a href="{{site.url}}{{post.url}}" title="{{post.title}}"><div class="btn btn-default btn-well" style="margin-right:3px; margin-top:6px;">{{post.title | truncate: 35}}</div></a>
                     {% endfor %}
                 </div>
 
