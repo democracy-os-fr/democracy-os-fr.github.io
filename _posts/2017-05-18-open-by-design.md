@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-hero: img/medias/visu open by design.png
+hero: img/medias/visu-open-by-design.png
 customclass: ''
 tags:
 - Open Source Politics

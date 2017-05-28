@@ -21,9 +21,9 @@ end_date: '2017-05-26T08:10:40.797Z'
 
 Pour les systèmes démocratiques européens, la situation est désastreuse. Selon les derniers chiffres ahurissants de l’Eurobaromètre, 54% des citoyen-ne-s européen-ne-s pensent que leur voix ne compte pas dans l’Union Européenne. Le nombre de d’eurodéputé-e-s eurosceptiques est en hausse croissante. Les élections européennes de 2009 et de 2014 montrent d’ailleurs les taux de participation les plus bas jamais enregistrés.
 
-![](img/medias/abtention%20ElectEU%20by%20EU.PNG)
+![](/img/medias/abtention%20ElectEU%20by%20EU.PNG)
 
-![](img/medias/Barometter.png)
+![](/img/medias/Barometter.png)
 
 En 2014, la Belgique, où le vote est obligatoire, se mobilise à 90%, tandis qu’en Slovaquie ou en République Tchèque la participation est en chute libre avec respectivement 87% et 80,5% d’abstention enregistrée.
 
