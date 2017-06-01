@@ -16,31 +16,47 @@ date: 2017-05-31 16:38
 
 ## Comment participer à l'aventure DemocracyOS ?
 
-DemocracyOS est une association composée de bénévoles. C’est grâce à leur travail que la plateforme grandit un peu plus chaque jour ! Par conséquent, si vous souhaitez nous soutenir, toute aide est la bienvenue
+<span style="font-size: 1rem;">DemocracyOS France est une association composée de<a href="http://democracyos.eu/a-propos/"> bénévoles</a>. C’est grâce à leur travail et leur motivation que la plateforme grandit un peu plus chaque jour.&nbsp; <br></span>
 
-![](img/medias/hands-up.jpg)
+<span style="font-size: 1rem;"><b>Pour faire évoluer DemocracyOS de façon pérenne, nous avons besoin de vous !&nbsp;</b> <br></span>
+
+<span style="font-size: 1rem;">Toute aide est la bienvenue : si vous souhaitez nous soutenir, il existe plusieurs façon de contribuer. <br></span>
 
 ### Nous aider peu importe les compétences ou le temps que vous ayez à nous offrir
 
-Nous accueillons à bras ouverts toutes les personnes motivées pour nous rejoindre : peu importe les compétences ou le temps que vous ayez à nous offrir ! Nous croyons à l’amélioration de notre outil et de son fonctionnement par l’intelligence collective.
+Nous accueillons toute personne motivée à nous rejoindre : peu importe les compétences ou le temps que vous ayez à nous offrir ! Nous sommes convaincus que l'amélioration de notre outil repose largement sur l'intelligence collective et la complémentarité des apports de chacun.
 
-_Cibler quelques profils_ :
+**En ce moment, l'association recherche notamment quelques profils spécifiques :**
 
-•	Community Manager pour animer la communauté qui gravite autour de DemocracyOS sur les réseaux sociaux
+•	Un(e) **Community Manager** pour animer la communauté qui gravite autour de DemocracyOS, notamment sur les réseaux sociaux
 
-•	Trésorier pour gérer les adhésions et le budget
+• Un(e) **Trésorier(e)** pour gérer les dons, les adhésions et le budget
 
-•	Développeur dans le cadre d’un stage pour faire fusionner notre version de la plateforme avec la version argentine.
+•	Un(e) **Développeur(se)** pour un stage dédié à la fusion (merge) de notre version de la plateforme avec celle développée en Argentine.
 
 [Découvrez ici l’offre de stage](http://democracyos.eu/blog/stage-merge-democracyos-france-argentine)
 
 ### Faire un don
 
-Pour nous soutenir à distance nous avons ouvert une collecte de dons sur HelloAsso, une plateforme sécurisée qui permet le financement d’associations facilement et rapidement.
+Pour nous soutenir à distance, nous avons ouvert une collecte de dons sur HelloAsso, une plateforme sécurisée qui permet le financement d’associations facilement et rapidement.
 
-**[Découvrez ici notre plateforme de dons](https://www.helloasso.com/associations/democracyos-france)**
+Ces dons sont précieux pour nous permettre d'avancer l'esprit libre !
 
-### Nous partager
+Découvrez ici notre plateforme de dons
 
-Promouvoir  DemocracyOS pour qu'un maximum d'acteur-rices puissent connaitre notre outil et l'écosystème de civic-tech dans lequel nous évoluons est l'un des enjeux démocratiques au cœur du projet. Pour y contribuer, n'hésitez pas à nous suivre sur les réseaux sociaux  [Facebook](https://www.facebook.com/DemocracyOSfrance/) et [Twitte](https://twitter.com/DemocracyOS_FR)r, partager notre [Newsletter](http://democracyos.us11.list-manage.com/subscribe/post?u=7daec3a371c1cae8cd85fd870&id=22f3cfc505) ou encore parler de nous autours de vous. !
+### Partager nos actions
 
+Pour que DemocracyOS progresse, il est fondamental qu'un maximum d'acteur-rices puissent connaitre notre outil et se l'approprier, découvrir notre approche et notre méthodologie, appréhender l'écosystème d'acteurs au sein duquel nous gravitons.
+
+**Pour contribuer à diffuser DemocracyOS, n'hésitez pas à :**
+
+* Nous suivre sur les **réseaux sociaux**  Facebook, Twitter et Mastodon
+* Vous inscrire à notre **newsletter** et à la partager,
+* Suivre notre actualité sur notre **blog**,
+* **Parler de nous autour de vous** !
+
+Si vous souhaitez échanger directement avec nous pour en discuter, vous  pouvez nous écrire à l'adresse : contact@democracyos.eu
+
+**Un immense merci ! **
+
+L'équipe de DemocracyOS France
