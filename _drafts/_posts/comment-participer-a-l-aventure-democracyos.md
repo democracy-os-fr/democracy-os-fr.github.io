@@ -16,15 +16,15 @@ date: 2017-05-31 16:38
 
 ## Comment participer à l'aventure DemocracyOS ?
 
-<span style="font-size: 1rem;"><br></span>
+DemocracyOS est une association composée de bénévoles. C’est grâce à leur travail que la plateforme grandit un peu plus chaque jour ! Par conséquent, si vous souhaitez nous soutenir, toute aide est la bienvenue
 
-<span style="font-size: 1rem;">DemocracyOS est une association composée de<a href="http://democracyos.eu/a-propos/"> bénévoles</a>. C’est grâce à leur travail que la plateforme grandit un peu plus chaque jour ! Par conséquent, si vous souhaitez nous soutenir, toute aide est la bienvenue</span>
+![](img/medias/hands-up.jpg)
 
 ### Nous aider peu importe les compétences ou le temps que vous ayez à nous offrir
 
 Nous accueillons à bras ouverts toutes les personnes motivées pour nous rejoindre : peu importe les compétences ou le temps que vous ayez à nous offrir ! Nous croyons à l’amélioration de notre outil et de son fonctionnement par l’intelligence collective.
 
-Nous ciblons quelques profils :
+_Cibler quelques profils_ :
 
 •	Community Manager pour animer la communauté qui gravite autour de DemocracyOS sur les réseaux sociaux
 
@@ -38,9 +38,9 @@ Nous ciblons quelques profils :
 
 Pour nous soutenir à distance nous avons ouvert une collecte de dons sur HelloAsso, une plateforme sécurisée qui permet le financement d’associations facilement et rapidement.
 
-Découvrez ici notre plateforme de dons
+**[Découvrez ici notre plateforme de dons](https://www.helloasso.com/associations/democracyos-france)**
 
 ### Nous partager
 
-Promouvoir  DemocracyOS pour qu'un maximum d'acteur-rices puissent connaitre notre outil et l'écosystème de civic-tech dans lequel nous évoluons est l'un des enjeux démocratiques au cœur du projet. Pour y contribuer, n'hésitez pas à nous suivre sur les réseaux sociaux  Facebook et Twitter, partager notre Newsletter ou encore parler de nous autours de vous. !
+Promouvoir  DemocracyOS pour qu'un maximum d'acteur-rices puissent connaitre notre outil et l'écosystème de civic-tech dans lequel nous évoluons est l'un des enjeux démocratiques au cœur du projet. Pour y contribuer, n'hésitez pas à nous suivre sur les réseaux sociaux  [Facebook](https://www.facebook.com/DemocracyOSfrance/) et [Twitte](https://twitter.com/DemocracyOS_FR)r, partager notre [Newsletter](http://democracyos.us11.list-manage.com/subscribe/post?u=7daec3a371c1cae8cd85fd870&id=22f3cfc505) ou encore parler de nous autours de vous. !
 
