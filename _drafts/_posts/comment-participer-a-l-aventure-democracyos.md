@@ -14,11 +14,13 @@ date: 2017-05-31 16:38
 ---
 
 
-Comment participer à l’aventure DemocracyOS ?
+## Comment participer à l'aventure DemocracyOS ?
 
-DemocracyOS est une association composée de bénévoles. C’est grâce à leur travail que la plateforme grandit un peu plus chaque jour ! Par conséquent, si vous souhaitez nous soutenir, toute aide est la bienvenue
+<span style="font-size: 1rem;"><br></span>
 
-Nous aider peu importe les compétences ou le temps que vous ayez à nous offrir
+<span style="font-size: 1rem;">DemocracyOS est une association composée de bénévoles. C’est grâce à leur travail que la plateforme grandit un peu plus chaque jour ! Par conséquent, si vous souhaitez nous soutenir, toute aide est la bienvenue</span>
+
+### Nous aider peu importe les compétences ou le temps que vous ayez à nous offrir
 
 Nous accueillons à bras ouverts toutes les personnes motivées pour nous rejoindre : peu importe les compétences ou le temps que vous ayez à nous offrir ! Nous croyons à l’amélioration de notre outil et de son fonctionnement par l’intelligence collective.
 
@@ -26,14 +28,17 @@ Nous ciblons quelques profils :
 
 •	Community Manager pour animer la communauté qui gravite autour de DemocracyOS sur les réseaux sociaux
 
-•	Trésorier
+•	Trésorier pour gérer les adhésions et le budget
 
 •	Développeur dans le cadre d’un stage pour faire fusionner notre version de la plateforme avec la version argentine.
 
 Découvrez ici l’offre de stage
 
-Faire un don
+### Faire un don
 
 Pour nous soutenir à distance nous avons ouvert une collecte de dons sur HelloAsso, une plateforme sécurisée qui permet le financement d’associations facilement et rapidement.
 
 Découvrez ici notre plateforme de dons
+
+Nous partager
+
