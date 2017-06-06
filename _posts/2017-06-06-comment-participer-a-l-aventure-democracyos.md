@@ -4,6 +4,9 @@ lang: fr
 hero: img/medias/rejoignez DOS.PNG
 customclass: earlybird
 tags:
+- Adhérer
+- Bénévolat
+- Dons
 - presse
 description_hero: Les débuts de DemocracyOS France
 extrait: ''
