@@ -45,7 +45,7 @@ Pour nous soutenir à distance, nous avons ouvert une collecte de dons sur Hello
 
 Ces dons sont précieux pour nous permettre d'avancer l'esprit libre !
 
-Découvrez ici notre plateforme de dons
+[Découvrez ici notre plateforme de dons](https://www.helloasso.com/associations/democracyos-france)
 
 ### Partager nos actions
 
@@ -54,8 +54,11 @@ Pour que DemocracyOS progresse, il est fondamental qu'un maximum d'acteur-rices 
 **Pour contribuer à diffuser DemocracyOS, n'hésitez pas à :**
 
 * Nous suivre sur les **réseaux sociaux**  Facebook, Twitter et Mastodon
+
 * Vous inscrire à notre **newsletter** et à la partager,
+
 * Suivre notre actualité sur notre **blog**,
+
 * **Parler de nous autour de vous** !
 
 Si vous souhaitez échanger directement avec nous pour en discuter, vous  pouvez nous écrire à l'adresse : contact@democracyos.eu
