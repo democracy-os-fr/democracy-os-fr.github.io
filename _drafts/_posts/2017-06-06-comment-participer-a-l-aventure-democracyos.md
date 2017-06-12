@@ -33,7 +33,7 @@ Nous accueillons toute personne motivée à nous rejoindre : peu importe les com
 
 ![](img/medias/Visu%20Article.PNG)
 
-*                                                                                                   Icônes from Flaticons*
+Icônes from Flaticons*
 
 [Découvrez ici l’offre de stage](http://democracyos.eu/blog/stage-merge-democracyos-france-argentine)
 
@@ -54,13 +54,13 @@ Pour que DemocracyOS progresse, il est fondamental qu'un maximum d'acteur-rices 
 * Nous suivre sur les **réseaux sociaux** [ Facebook](https://www.facebook.com/DemocracyOSfrance/), Twitter et Mastodon
 
 * Vous inscrire à notre **newsletter** et à la partager,
-* <span style="font-size: 1rem;">Suivre notre actualité sur notre</span><a href="http://democracyos.eu/blog/" style="font-size: 1rem; background-color: rgb(255, 255, 255);"> <strong>blog</strong></a>****<span style="font-size: 1rem;">,</span>
+
+* <span style="font-size: 1rem;">Suivre notre actualité sur notre</span><a href="http://democracyos.eu/blog/" style="font-size: 1rem; background-color: rgb(255, 255, 255);"> <strong>blog</strong></a><span style="font-size: 1rem;">,</span>
 
 * **Parler de nous autour de vous** !
 
 Si vous souhaitez échanger directement avec nous pour en discuter, vous  pouvez nous écrire à l'adresse : contact@democracyos.eu
 
-**Un immense merci ! **
+Un immense merci !
 
 L'équipe de DemocracyOS France
-
