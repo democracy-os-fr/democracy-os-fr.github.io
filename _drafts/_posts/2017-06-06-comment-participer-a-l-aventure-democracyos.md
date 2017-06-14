@@ -64,3 +64,6 @@ Si vous souhaitez échanger directement avec nous pour en discuter, vous  pouve
 Un immense merci !
 
 L'équipe de DemocracyOS France
+
+![](img/medias/Sans%20titre-1.png)
+
