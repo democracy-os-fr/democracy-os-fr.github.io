@@ -62,7 +62,7 @@ Dans un projet Open Source, la communauté rassemble l’ensemble des acteur.ice
 
 Afin de développer et d’animer cette communauté, notre association s’engage à fournir un outil techniquement performant, avec une documentation à jour, pour que chacun.e puisse librement se l’approprier, le modifier et l’adapter gratuitement selon ses besoins. Nous travaillons également à proposer un processus de contribution clair et simple d’entrée, afin que chacun.e puisse rapidement trouver sa place au sein du projet.
 
-Pour finir, afin de favoriser un dialogue horizontal,  nous avons lancé une discussion « DemocracyOS France » ouverte à tou.te.s sur l’application Telegram : une messagerie gratuite et sécurisée, garantie sans collecte de données. Que vous soyez l’un des premiers soutiens du projet, utilisateur.rice de l’outil, développeur.se, chercheur.se, ou simplement curieux.se de voir comment évoluent ces questions, n’hésitez pas à rejoindre cet espace d’échange ouvert ! On y partage des actualités, des bonnes pratiques et retours d’expériences, peut être même des projets communs !
+Pour finir, afin de favoriser un dialogue horizontal,  nous avons lancé [une discussion « DemocracyOS France » ouverte à tou.te.s sur l’application Telegram](https://t.me/joinchat/AAAAAEHDTA3SAyvUTgUjGQ) : une messagerie gratuite et sécurisée, garantie sans collecte de données. Que vous soyez l’un des premiers soutiens du projet, utilisateur.rice de l’outil, développeur.se, chercheur.se, ou simplement curieux.se de voir comment évoluent ces questions, n’hésitez pas à rejoindre cet espace d’échange ouvert ! On y partage des actualités, des bonnes pratiques et retours d’expériences, peut être même des projets communs !
 
 ### Unir nos énergies à l’international
 
@@ -92,6 +92,10 @@ Dans l’optique de représenter tous les enjeux et les bénéfices d’une cons
 
 Nous souhaitons travailler avec des acteur.ices qui fournissent du service autour de DemocracyOS, par exemple : installation d’une instance DemocracyOS customisée sur mesure, développement de fonctionnalités spécifiques, accompagnement méthodologique, animation de la consultation, etc.
 
+![](img/medias/Nanterre.jpg)
+
+L'agora permanente de Nanterre a été déployée spécialement pour la ville
+
 Nous acceptons tout partenariat, du moment que les règles du jeux sont respectées :  les modifications du code apportées par le prestataire doivent être reversées en open-source à toute la communauté, afin que chaque acteur.ice puisse bénéficier des améliorations de l’outil.
 
 Pour cela, nous créons les conditions favorables à l’émergence d’un écosystème innovant, en proposant de certifier les compétences de contributeur.ices ayant acquis une expertise technique sur DemocracyOS, et qui adhérent à la philosophie et aux valeurs du projet. Ces personnes bénéficient ainsi d’une sorte d’ « habilitation » par la communauté à fournir du service autour de notre logiciel. L’objectif ? Etablir des rapports de confiance avec nos partenaires.
@@ -100,7 +104,7 @@ N’hésitez pas à vous rapprocher de nous pour en savoir plus !
 
 ## Open Democracy Now continue en 2017
 
-Notre volonté de garantir plus d’ouverture et de transparence dans la “civic tech” se concrétise également par la co-organisation du projet Open Democracy Now, depuis janvier 2015. Depuis 2015,  nous co-organisons le projet Open Democracy Now qui fédère une trentaine d’initiatives “civic-tech”, autour du développement concret de projets libres et open source pour une démocratie ouverte et participative.
+Depuis 2015,  nous co-organisons le projet Open Democracy Now qui fédère une trentaine d’initiatives “civic-tech”, autour du développement concret de projets libres et open source pour une démocratie ouverte et participative.
 
 ![](img/medias/C5Q-Pw-WMAAk_jv.jpg:large.jpeg)
 
