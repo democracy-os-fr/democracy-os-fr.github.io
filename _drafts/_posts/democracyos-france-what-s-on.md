@@ -94,7 +94,7 @@ Nous souhaitons travailler avec des acteur.ices qui fournissent du service autou
 
 Nous acceptons tout partenariat, du moment que les règles du jeux sont respectées :  les modifications du code apportées par le prestataire doivent être reversées en open-source à toute la communauté, afin que chaque acteur.ice puisse bénéficier des améliorations de l’outil.
 
-Pour cela, nous créons les conditions favorables à l’émergence d’un écosystème innovant, en proposant de certifier les compétences de contributeur.ices ayant acquis une expertise technique sur DemocracyOS, et qui adhérent à la philosophie et aux valeurs du projet. Ces personnes bénéficient ainsi d’une sorte d’ « habilitation » par la communauté à fournir du service autour de notre logiciel. L’objectif ? Etablir des rapports de confiance avec nos partenaires.
+Pour cela, nous créons les conditions favorables à l’émergence d’un écosystème innovant, en proposant de certifier les compétences de contributeur.ices ayant acquis une expertise technique sur DemocracyOS, et qui adhérent à la philosophie et aux valeurs du projet. Ces personnes bénéficient ainsi d’une sorte d’ « habilitation » par la communauté à fournir du service autour de notre logiciel. L’objectif ? Établir des rapports de confiance avec nos partenaires.
 
 N’hésitez pas à vous rapprocher de nous pour en savoir plus !
 
@@ -104,7 +104,7 @@ Depuis 2015,  nous co-organisons le projet [Open Democracy Now ](http://opendemo
 
 ![](img/medias/C5Q-Pw-WMAAk_jv.jpg:large.jpeg)
 
-Ainsi, nous organisons tous les deux mois environ des grandes rencontres sous la forme d’ateliers de travail, réunissants développeurs, graphistes, juristes, chercheurs, étudiants, sociologues ou encore des citoyens motivés pour faire progresser chaque projet.
+Ainsi, nous organisons tous les deux mois environ des grandes rencontres sous la forme d’ateliers de travail, réunissant développeur.ses, graphistes, juristes, chercheur.ses, étudiant.es, sociologues ou encore des citoyen.nes motivé.es pour faire progresser chaque projet.
 
 Très rapidement, nous avons dépassé une approche simplement “outils” pour réfléchir collectivement aux méthodologies et valeurs qui doivent être associées aux démarches de participation en ligne.
 
@@ -112,7 +112,7 @@ Il existe tellement d’outils et d’initiatives, que souhaitons aussi empêche
 
 Construire la civic-tech comme un écosystème cohérent où les outils fonctionnent ensemble et se complètent nous semble au contraire indispensable pour engager des actions impactantes. Open Democracy Now nous permet de mieux nous connaître, de mutualiser certaines ressources, de créer des complémentarités et de mieux comprendre les attentes des utilisateurs.
 
-A ce titre, DemocracyOS, en plus de co- organiser le projet Open Democracy Now, y participe [en tant qu’atelier](http://opendemocracynow.net/DemocracyOS), afin de faire découvrir notre plateforme, accueillir de nouveaux contributeurs, bref, la faire évoluer en synergie avec ses utilisateur.rices.
+A ce titre, DemocracyOS, en plus de co-organiser le projet Open Democracy Now, y participe [en tant qu’atelier](http://opendemocracynow.net/DemocracyOS), afin de faire découvrir notre plateforme, accueillir de nouveaux contributeur.rices, bref, la faire évoluer en synergie avec ses utilisateur.rices.
 
 Rendez-vous le 4 juillet prochain chez Volumes Coworking pour une [grande soirée Open Democracy Now](https://www.eventbrite.fr/e/billets-soiree-open-democracy-now-lets-build-a-new-democracy-together-35404233014?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button) où nous recevrons Pia Mancini !
 
@@ -124,9 +124,9 @@ Rendez-vous le 4 juillet prochain chez Volumes Coworking pour une [grande soiré
 
 ## **Vous souhaitez contribuer ? Rejoignez l’aventure DemocracyOS France !**
 
-### Faire un don à l’association
+### [Faire un don à l’association](https://www.helloasso.com/associations/democracyos-france)
 
-![](img/medias/Visuel%20HelloAsso%20NL.PNG)
+![](img/medias/helloasso-logo.png)
 
 Notre action est principalement bénévole : nous avons donc besoin de votre aide pour continuer d’avancer !
 
@@ -140,7 +140,9 @@ Vous souhaitez vous mobiliser pour porter l’association DemocracyOS ? Peu impo
 
 Vous souhaitez suivre notre actualité, échanger en direct avec nous, proposer des actions ?
 
-<a href="https://t.me/joinchat/AAAAAEHDTA3SAyvUTgUjGQ" style="font-size: 1rem; background-color: rgb(255, 255, 255);">Rejoignez notre espace de discussion ouvert sur l’application Telegram </a><span style="font-size: 1rem;">!&nbsp;</span>
+<a href="https://t.me/joinchat/AAAAAEHDTA3SAyvUTgUjGQ" style="font-size: 1rem; background-color: rgb(255, 255, 255);">Rejoignez notre espace de discussion ouvert sur l’application Telegram </a><span style="font-size: 1rem;">! <br></span>
+
+<span style="font-size: 1rem;"><br></span>
 
 <img src="img/medias/DOS%20telegram.PNG" class="forestry--none forestry--left" style="float: left;">
 
@@ -151,3 +153,4 @@ Si vous préférez uniquement suivre nos actualités, vous vous invitons à nous
 * **Rejoindre l’équipe**Afin de toujours contribuer à l’amélioration technique de notre plateforme nous recherchons des développeur.euses, des personnes qui aiment communiquer (réseaux sociaux, newsletter, etc.), des traducteur.ices, des graphistes / designers…. mais pas seulement ! Nous accueillons à bras-ouverts toute personne motivée pour nous rejoindre, peu importe le temps ou les compétences de chacun.e.
 
 Si notre association vous intéresse, [n’hésitez pas à adhérer](https://www.helloasso.com/associations/democracyos-france/adhesions/adhesion-a-democracyos-france)!
+
