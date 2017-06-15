@@ -22,9 +22,9 @@ date: 2017-06-15 12:23
 
 ## DemocracyOS France : what’s on ?Les communs numériques
 
-En cette année riche en élections, DemocracyOS continue d’agir pour que les citoyen.nes redeviennent acteur.ices de la vie politique. Nous sommes convaincu.es que le numérique est un formidable outil pour transformer le fonctionnement de notre démocratie, en impliquant davantage et sur la durée les citoyen.ne.s tout en s’appuyant sur l’intelligence collective. Pour que ce changement ait lieu, nous revendiquons avec détermination notre volonté d'être ouverts, transparents, collaboratifs et inclusifs. Pour que les “civic tech” permettent concrètement de renforcer la participation citoyenne, il est fondamental que ces outils soient à l’image de celles et ceux qui les utilisent. Alors, construisons-les ensemble !
+En cette année riche en élections, DemocracyOS continue d’agir pour que les citoyen.nes redeviennent acteur.ices de la vie politique. Nous sommes convaincu.es que le numérique est un formidable outil pour transformer le fonctionnement de notre démocratie, en impliquant davantage et sur la durée les citoyen.nes tout en s’appuyant sur l’intelligence collective. Pour que ce changement ait lieu, nous revendiquons avec détermination notre volonté d'être ouverts, transparents, collaboratifs et inclusifs. Pour que les “civic-tech” permettent concrètement de renforcer la participation citoyenne, il est fondamental que ces outils soient à l’image de celles et ceux qui les utilisent. Alors, construisons-les ensemble !
 
-### 2016, au coeur de l’effervescence des "civic tech"
+### 2016, au coeur de l’effervescence des "civic -ech"
 
 En 2016, les initiatives “civic tech” se sont multipliées, en réponse à une véritable demande de renouveau des pratiques démocratiques. L’agenda français étant également à l’[Open Governement](https://fr.wikipedia.org/wiki/Gouvernement_ouvert), nous nous sommes impliqué.e.s dans la préparation de l’Open [Government Partnership Summit ](https://www.opengovpartnership.org/about/news-and-events/ogp-global-summit-2016-paris)afin d’y porter notre vision de l’Open Gov et d’y proposer des actions concrètes, notamment au travers du [hackathon mondial OGP Toolbox](https://en.ogpsummit.org/the-open-government-toolbox/), en rencontrant des activistes souhaitant utiliser notre outil, ou encore en travaillant avec des étudiant.e.s sur la participation au sein des universités.
 
@@ -92,7 +92,7 @@ Très rapidement, nous avons dépassé une approche simplement “outils” pour
 
 Il existe tellement d’outils et d’initiatives, que souhaitons aussi empêcher l’isolement des différents projets, qui freinerait toute dynamique commune. S’il est crucial de ne rien centraliser, de multiplier les expérimentations, d’agir horizontalement, il demeure important de s’organiser en réseau. Construire la civic-tech comme un écosystème cohérent où les outils fonctionnent ensemble et se complètent nous semble au contraire indispensable pour engager des actions impactantes. Open Democracy Now nous permet de mieux nous connaître, de mutualiser certaines ressources, de créer des complémentarités et de mieux comprendre les attentes des utilisateurs.
 
-A ce titre, DemocracyOS, en plus de co- organiser le projet Open Democracy Now, y participe en tant qu’atelier, afin de faire découvrir notre plateforme, accueillir de nouveaux contributeurs, bref, la faire évoluer en synergie avec ses utilisateur-rice-s.
+A ce titre, DemocracyOS, en plus de co- organiser le projet Open Democracy Now, y participe en tant qu’atelier, afin de faire découvrir notre plateforme, accueillir de nouveaux contributeurs, bref, la faire évoluer en synergie avec ses utilisateur.rices.
 
 Rendez-vous le 4 juillet prochain chez Volumes Coworking pour une [grande soirée Open Democracy Now](https://www.eventbrite.fr/e/billets-soiree-open-democracy-now-lets-build-a-new-democracy-together-35404233014?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button) où nous recevrons Pia Mancini !
 
