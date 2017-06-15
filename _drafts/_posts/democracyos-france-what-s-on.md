@@ -82,7 +82,7 @@ Pour cela, nous créons les conditions favorables à l’émergence d’un écos
 
 N’hésitez pas à vous rapprocher de nous pour en savoir plus !
 
-### Open Democracy Now continue en 2017
+## Open Democracy Now continue en 2017
 
 Notre volonté de garantir plus d’ouverture et de transparence dans la “civic tech” se concrétise également par la co-organisation du projet Open Democracy Now, depuis janvier 2015. Depuis 2015,  nous co-organisons le projet Open Democracy Now qui fédère une trentaine d’initiatives “civic-tech”, autour du développement concret de projets libres et open source pour une démocratie ouverte et participative.
 
@@ -94,39 +94,43 @@ Il existe tellement d’outils et d’initiatives, que souhaitons aussi empêche
 
 A ce titre, DemocracyOS, en plus de co- organiser le projet Open Democracy Now, y participe en tant qu’atelier, afin de faire découvrir notre plateforme, accueillir de nouveaux contributeurs, bref, la faire évoluer en synergie avec ses utilisateur-rice-s.
 
-Rendez-vous le 4 juillet prochain chez Volumes Coworking pour une soirée exceptio
+Rendez-vous le 4 juillet prochain chez Volumes Coworking pour une [grande soirée Open Democracy Now](https://www.eventbrite.fr/e/billets-soiree-open-democracy-now-lets-build-a-new-democracy-together-35404233014?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button) où nous recevrons Pia Mancini !
 
-<span style="font-size: 1rem;"><br></span>
+![](img/medias/AD2-1.jpg)
 
-### <span style="font-size: 1rem;">Vous souhaitez contribuer ? Rejoignez l’aventure DemocracyOS France !</span>
+<img src="img/medias/AD2.jpg" style="display: none !important;">
 
-Faire un don à l’association
+### <span style="font-size: 1rem;"><br></span>
 
-VISUEL HELLO ASSO
+<span style="font-size: 1rem;">Vous souhaitez contribuer ? Rejoignez l’aventure DemocracyOS France !</span>
+
+## Faire un don à l’association
+
+![](img/medias/Visuel%20HelloAsso%20NL.PNG)
 
 Notre action est principalement bénévole : nous avons donc besoin de votre aide pour continuer d’avancer !
 
-Les dons nous offrent la possibilité d’être innovant-e-s, d’explorer de nouvelles voies, de diffuser notre action sur le territoire français en nous déplaçant à l’occasion d'événements, d’organiser des rencontres thématiques, etc. Les dons nous permettent également d’accueillir ponctuellement des étudiants volontaires en stage, dont l’énergie et la motivation nous est précieuse.
+Les dons nous offrent la possibilité d’être innovant.es, d’explorer de nouvelles voies, de diffuser notre action sur le territoire français en nous déplaçant à l’occasion d'événements, d’organiser des rencontres thématiques, etc. Les dons nous permettent également d’accueillir ponctuellement des étudiant.es volontaires en stage, dont l’énergie et la motivation nous est précieuse.
 
-Se mobiliser, ponctuellement ou durablement
+### Se mobiliser, ponctuellement ou durablement
 
 Vous souhaitez vous mobiliser pour porter l’association DemocracyOS ? Peu importe les compétences ou le temps que vous avez à offrir, nous avons besoin de vous !
 
-Ø  Venez discuter
+* **Venez discuter**
 
 Vous souhaitez suivre notre actualité, échanger en direct avec nous, proposer des actions ?
 
-Rejoignez notre espace de discussion ouvert sur l’application Telegram ! : LIEN
+<a href="https://t.me/joinchat/AAAAAEHDTA3SAyvUTgUjGQ" style="font-size: 1rem; background-color: rgb(255, 255, 255);">Rejoignez notre espace de discussion ouvert sur l’application Telegram </a><span style="font-size: 1rem;">!&nbsp;</span>
 
-INSERER IMAGE TELEGRAM LIEN
+<img src="img/medias/DOS%20telegram.PNG" class="forestry--none forestry--left" style="float: left;">
 
-Ø  Partager notre actualité
+* **Partager notre actualité**
 
-Si vous préférez uniquement suivre nos actualités, vous vous invitons à nous rejoindre sur Facebook, Twitter et Mastodont et vous abonner ici à notre Newsletter !
+Si vous préférez uniquement suivre nos actualités, vous vous invitons à nous rejoindre sur **[Facebook](https://www.facebook.com/DemocracyOSfrance/)**, **[Twitte](https://twitter.com/DemocracyOS_FR)r** et **Mastodont** et vous abonner ici à notre [Newsletter](https://t.me/joinchat/AAAAAEHDTA3SAyvUTgUjGQ) !
 
-Ø  Rejoindre l’équipe
+* **Rejoindre l’équipe**
 
-Afin de toujours contribuer à l’amélioration technique de notre plateforme nous recherchons des développeur-euse-s, des personnes qui aiment communiquer (réseaux sociaux, newsletter, etc.), des traducteur-rice-s, des graphistes / designers…. mais pas seulement ! Nous accueillons à bras-ouverts toute personne motivée pour nous rejoindre, peu importe le temps ou les compétences de chacun.
+Afin de toujours contribuer à l’amélioration technique de notre plateforme nous recherchons des développeur.euses, des personnes qui aiment communiquer (réseaux sociaux, newsletter, etc.), des traducteur.ices, des graphistes / designers…. mais pas seulement ! Nous accueillons à bras-ouverts toute personne motivée pour nous rejoindre, peu importe le temps ou les compétences de chacun.e.
 
 Si notre association vous intéresse, n’hésitez pas à adhérer!
 
