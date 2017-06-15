@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-hero: img/medias/What'sON.PNG
+hero: img/medias/WhatsON.PNG
 customclass: earlybird
 tags:
 - |-
@@ -30,11 +30,11 @@ Pour que ce changement ait lieu, nous revendiquons avec détermination notre vol
 
 En 2016, les initiatives “civic tech” se sont multipliées, en réponse à une véritable demande de renouveau des pratiques démocratiques. L’agenda français étant également à l’[Open Governement](https://fr.wikipedia.org/wiki/Gouvernement_ouvert), nous nous sommes impliqué.es dans la préparation de l’Open [Government Partnership Summit ](https://www.opengovpartnership.org/about/news-and-events/ogp-global-summit-2016-paris)afin d’y porter notre vision de l’Open Gov et d’y proposer des actions concrètes, notamment au travers du [hackathon mondial OGP Toolbox](https://en.ogpsummit.org/the-open-government-toolbox/), en rencontrant des activistes souhaitant utiliser notre outil, ou encore en travaillant avec des étudiant.es sur la participation au sein des universités.
 
-![](img/medias/Capture%20d'%C3%A9cran%20de%202017-06-15%2016-46-22.png)
+![](/img/medias/Capture%20d'%C3%A9cran%20de%202017-06-15%2016-46-22.png)
 
 Notre projet <a href="http://opendemocracynow.net/" class="">Open Democracy Now</a>, qui s’engage à co-développer des solutions libres et ouvertes pour la démocratie, a organisé la veille de l’Open Government Partnership Summit aux côtés de [g0v.tw](http://g0v.tw/en-US/) et l’Open Culture Foundation une **Open Civil Society Night** : une soirée réunissant des projets civic-tech open source du monde entier.
 
-![](img/medias/OSPN.png)
+![](/img/medias/OSPN.png)
 
 Par ailleurs, nous avons mené de nombreux projets de front : de l’ouverture de plusieurs [consultations](http://democracyos.eu/projets/) (Ville de Nanterre, associations Halte à l’Obsolescence et Open Law, collectif #MaVoix, etc.), à la victoire de notre projet [Empowering Student lors de la Student Demo Cup](http://democracyos.eu/blog/empowering-students-remporte-la-student-demo-cup), en passant par le projet [Rapporteurs Citoyens](https://www.regardscitoyens.org/rapporteurs-citoyens/) en partenariat avec [regards Citoyens](https://www.regardscitoyens.org/#&panel1-1) et [Faistaloi.org](http://faistaloi.org/), ou encore l’ouverture de partenariats internationaux.
 
@@ -58,7 +58,7 @@ La communauté est au cœur des actions de DemocracyOS.
 
 Dans un projet Open Source, la communauté rassemble l’ensemble des acteur.ices qui gravitent autour de l’outil et des usages qui en sont faits. Sont donc concerné.es celles et ceux qui contribuent à améliorer le code de l’outil, qui l’utilisent à petite ou grande échelle, mais aussi qui l'observent de près ou de loin, qui le questionnent, font remonter des dysfonctionnements, proposent des pistes d'amélioration, en résumé tout.e.s celles et ceux qui le font progresser et s’ouvrir à de nouveaux horizons.
 
-![](img/medias/C1uDfUOXUAA335-.jpg:large.jpeg)
+![](/img/medias/C1uDfUOXUAA335-.jpg:large.jpeg)
 
 Afin de développer et d’animer cette communauté, notre association s’engage à fournir un outil techniquement performant, avec une documentation à jour, pour que chacun.e puisse librement se l’approprier, le modifier et l’adapter gratuitement selon ses besoins. Nous travaillons également à proposer un processus de contribution clair et simple d’entrée, afin que chacun.e puisse rapidement trouver sa place au sein du projet.
 
@@ -72,7 +72,7 @@ Aujourd’hui, nous souhaitons fusionner à nouveau avec la version Argentine, e
 
 Bénéficiant ainsi d’une communauté internationale et renforçant nos partenariats hors-frontières, notre action s’enrichit de nouveaux retours d’expérience et de nouveaux axes de développement.
 
-![](img/medias/Capture%20d'%C3%A9cran%20de%202017-06-15%2016-52-11.png)
+![](/img/medias/Capture%20d'%C3%A9cran%20de%202017-06-15%2016-52-11.png)
 
 L'équipe argentine - [Democracia en Red ](http://democraciaenred.org/)
 
@@ -84,7 +84,7 @@ Pour mieux appréhender les différents usages qui peuvent être faits autour de
 
 Dans l’optique de représenter tous les enjeux et les bénéfices d’une consultation, nous initions également une série d’interviews autour d’expériences en cours ou terminées.
 
-![](img/medias/Capture%20d'%C3%A9cran%20de%202017-06-15%2016-57-04.png)
+![](/img/medias/Capture%20d'%C3%A9cran%20de%202017-06-15%2016-57-04.png)
 
 <span style="color: rgb(40, 40, 40); font-size: 1.5em; word-spacing: 0.5px;"><br></span>
 
@@ -102,7 +102,7 @@ N’hésitez pas à vous rapprocher de nous pour en savoir plus !
 
 Depuis 2015,  nous co-organisons le projet [Open Democracy Now ](http://opendemocracynow.net/)qui fédère une trentaine d’initiatives “civic-tech”, autour du développement concret de projets libres et open source pour une démocratie ouverte et participative.
 
-![](img/medias/C5Q-Pw-WMAAk_jv.jpg:large.jpeg)
+![](/img/medias/C5Q-Pw-WMAAk_jv.jpg:large.jpeg)
 
 Ainsi, nous organisons tous les deux mois environ des grandes rencontres sous la forme d’ateliers de travail, réunissant développeur.ses, graphistes, juristes, chercheur.ses, étudiant.es, sociologues ou encore des citoyen.nes motivé.es pour faire progresser chaque projet.
 
@@ -126,7 +126,7 @@ Rendez-vous le 4 juillet prochain chez Volumes Coworking pour une [grande soiré
 
 ### [Faire un don à l’association](https://www.helloasso.com/associations/democracyos-france)
 
-![](img/medias/helloasso-logo.png)
+![](/img/medias/helloasso-logo.png)
 
 Notre action est principalement bénévole : nous avons donc besoin de votre aide pour continuer d’avancer !
 
@@ -144,7 +144,7 @@ Vous souhaitez suivre notre actualité, échanger en direct avec nous, proposer 
 
 <span style="font-size: 1rem;"><br></span>
 
-<img src="img/medias/DOS%20telegram.PNG" class="forestry--none forestry--left" style="float: left;">
+<img src="/img/medias/DOS%20telegram.PNG" class="forestry--none forestry--left" style="float: left;">
 
 * **Partager notre actualité**
 
@@ -153,4 +153,3 @@ Si vous préférez uniquement suivre nos actualités, vous vous invitons à nous
 * **Rejoindre l’équipe**Afin de toujours contribuer à l’amélioration technique de notre plateforme nous recherchons des développeur.euses, des personnes qui aiment communiquer (réseaux sociaux, newsletter, etc.), des traducteur.ices, des graphistes / designers…. mais pas seulement ! Nous accueillons à bras-ouverts toute personne motivée pour nous rejoindre, peu importe le temps ou les compétences de chacun.e.
 
 Si notre association vous intéresse, [n’hésitez pas à adhérer](https://www.helloasso.com/associations/democracyos-france/adhesions/adhesion-a-democracyos-france)!
-

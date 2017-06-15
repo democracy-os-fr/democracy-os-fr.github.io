@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-hero: img/medias/rejoignez DOS.PNG
+hero: img/medias/rejoignezDOS.PNG
 customclass: earlybird
 tags:
 - Adhérer

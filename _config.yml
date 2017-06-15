@@ -72,7 +72,7 @@ defaults:
     event_link: ''
 email: contact@democracyos.eu
 description: Facilitateur de prise de décisions.
-baseurl: ''
+baseurl:
 url: http://democracyos.eu
 twitter_username: DemocracyOS_FR
 github_username: democracy-os-fr
