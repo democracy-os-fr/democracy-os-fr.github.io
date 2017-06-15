@@ -24,11 +24,11 @@ date: 2017-06-15 12:23
 
 En cette année riche en élections, DemocracyOS continue d’agir pour que les citoyen.nes redeviennent acteur.ices de la vie politique. Nous sommes convaincu.es que le numérique est un formidable outil pour transformer le fonctionnement de notre démocratie, en impliquant davantage et sur la durée les citoyen.nes tout en s’appuyant sur l’intelligence collective.
 
-Pour que ce changement ait lieu, nous revendiquons avec détermination notre volonté d'être ouverts, transparents, collaboratifs et inclusifs. Pour que les “civic-tech” permettent concrètement de renforcer la participation citoyenne, il est fondamental que ces outils soient à l’image de celles et ceux qui les utilisent. Alors, construisons-les ensemble !
+Pour que ce changement ait lieu, nous revendiquons avec détermination notre volonté d'ouvertures, de transparence, de collaboration et d'inclusion. Pour que les “civic-tech” permettent concrètement de renforcer la participation citoyenne, il est fondamental que ces outils soient à l’image de celles et ceux qui les utilisent. Alors, construisons-les ensemble !
 
 ## **2016, au cœur de l’effervescence des "civic -tech"**
 
-En 2016, les initiatives “civic tech” se sont multipliées, en réponse à une véritable demande de renouveau des pratiques démocratiques. L’agenda français étant également à l’[Open Governement](https://fr.wikipedia.org/wiki/Gouvernement_ouvert), nous nous sommes impliqué.e.s dans la préparation de l’Open [Government Partnership Summit ](https://www.opengovpartnership.org/about/news-and-events/ogp-global-summit-2016-paris)afin d’y porter notre vision de l’Open Gov et d’y proposer des actions concrètes, notamment au travers du [hackathon mondial OGP Toolbox](https://en.ogpsummit.org/the-open-government-toolbox/), en rencontrant des activistes souhaitant utiliser notre outil, ou encore en travaillant avec des étudiant.e.s sur la participation au sein des universités.
+En 2016, les initiatives “civic tech” se sont multipliées, en réponse à une véritable demande de renouveau des pratiques démocratiques. L’agenda français étant également à l’[Open Governement](https://fr.wikipedia.org/wiki/Gouvernement_ouvert), nous nous sommes impliqué.es dans la préparation de l’Open [Government Partnership Summit ](https://www.opengovpartnership.org/about/news-and-events/ogp-global-summit-2016-paris)afin d’y porter notre vision de l’Open Gov et d’y proposer des actions concrètes, notamment au travers du [hackathon mondial OGP Toolbox](https://en.ogpsummit.org/the-open-government-toolbox/), en rencontrant des activistes souhaitant utiliser notre outil, ou encore en travaillant avec des étudiant.es sur la participation au sein des universités.
 
 ![](img/medias/Capture%20d'%C3%A9cran%20de%202017-06-15%2016-46-22.png)
 
@@ -38,11 +38,11 @@ Notre projet <a href="http://opendemocracynow.net/" class="">Open Democracy Now<
 
 Par ailleurs, nous avons mené de nombreux projets de front : de l’ouverture de plusieurs [consultations](http://democracyos.eu/projets/) (Ville de Nanterre, associations Halte à l’Obsolescence et Open Law, collectif #MaVoix, etc.), à la victoire de notre projet [Empowering Student lors de la Student Demo Cup](http://democracyos.eu/blog/empowering-students-remporte-la-student-demo-cup), en passant par le projet [Rapporteurs Citoyens](https://www.regardscitoyens.org/rapporteurs-citoyens/) en partenariat avec [regards Citoyens](https://www.regardscitoyens.org/#&panel1-1) et [Faistaloi.org](http://faistaloi.org/), ou encore l’ouverture de partenariats internationaux.
 
-<span style="font-size: 1rem;">Tous ces projets nous ont permis d’asseoir nos certitudes : au sein des démarches de "civic-tech", l’ouverture est aussi fondamentale que réalisable. Nous ne cesserons d’inviter nos utilisateur.ices à garantir la transparence et la sincérité des consultations qu’ils lancent, en respectant les principes de l’Open Source et en ouvrant les données sous une licence Open Data. <br></span>
+<span style="font-size: 1rem;">Tous ces projets nous ont permis d’asseoir nos certitudes : au sein des démarches de "civic-tech", l’ouverture est aussi fondamentale que réalisable. Nous ne cesserons d’inviter nos utilisateur.ices à garantir la transparence et la sincérité des consultations lancées, en respectant les principes de l’Open Source et en ouvrant les données sous une licence Open Data. <br></span>
 
 <span style="font-size: 1rem;">En outre, nous les encourageons vivement à dépasser une simple approche « outil » : une consultation est une démarche globale, qui demande une méthodologie adaptée, la mobilisation de ressources pour animer le processus, ainsi que des engagements forts sur la prise en compte de la parole des citoyens une fois la consultation close.</span>
 
-Depuis la rentrée, nous nous sommes progressivement restructuré.e.s et nous avons évolué. Bien que toujours concentré.e.s sur nos objectifs, nous avons décidé d’adapter nos moyens d’actions et nos priorités, en plaçant la communauté de DemocracyOS au cœur de nos projets.
+Depuis la rentrée, nous nous sommes progressivement restructuré.es et nous avons évolué. Bien que toujours concentré.es sur nos objectifs, nous avons décidé d’adapter nos moyens d’actions et nos priorités, en plaçant la communauté de DemocracyOS au cœur de nos projets.
 
 **[PHOTO TEAM]**
 
@@ -91,10 +91,6 @@ Dans l’optique de représenter tous les enjeux et les bénéfices d’une cons
 <span style="color: rgb(40, 40, 40); font-size: 1.5em; word-spacing: 0.5px;">Déployer un écosystème d’acteurs innovants</span>
 
 Nous souhaitons travailler avec des acteur.ices qui fournissent du service autour de DemocracyOS, par exemple : installation d’une instance DemocracyOS customisée sur mesure, développement de fonctionnalités spécifiques, accompagnement méthodologique, animation de la consultation, etc.
-
-![](img/medias/Nanterre.jpg)
-
-L'agora permanente de Nanterre a été déployée spécialement pour la ville
 
 Nous acceptons tout partenariat, du moment que les règles du jeux sont respectées :  les modifications du code apportées par le prestataire doivent être reversées en open-source à toute la communauté, afin que chaque acteur.ice puisse bénéficier des améliorations de l’outil.
 
@@ -155,4 +151,3 @@ Si vous préférez uniquement suivre nos actualités, vous vous invitons à nous
 * **Rejoindre l’équipe**Afin de toujours contribuer à l’amélioration technique de notre plateforme nous recherchons des développeur.euses, des personnes qui aiment communiquer (réseaux sociaux, newsletter, etc.), des traducteur.ices, des graphistes / designers…. mais pas seulement ! Nous accueillons à bras-ouverts toute personne motivée pour nous rejoindre, peu importe le temps ou les compétences de chacun.e.
 
 Si notre association vous intéresse, [n’hésitez pas à adhérer](https://www.helloasso.com/associations/democracyos-france/adhesions/adhesion-a-democracyos-france)!
-
