@@ -104,7 +104,7 @@ N’hésitez pas à vous rapprocher de nous pour en savoir plus !
 
 ## Open Democracy Now continue en 2017
 
-Depuis 2015,  nous co-organisons le projet Open Democracy Now qui fédère une trentaine d’initiatives “civic-tech”, autour du développement concret de projets libres et open source pour une démocratie ouverte et participative.
+Depuis 2015,  nous co-organisons le projet [Open Democracy Now ](http://opendemocracynow.net/)qui fédère une trentaine d’initiatives “civic-tech”, autour du développement concret de projets libres et open source pour une démocratie ouverte et participative.
 
 ![](img/medias/C5Q-Pw-WMAAk_jv.jpg:large.jpeg)
 
@@ -152,9 +152,7 @@ Vous souhaitez suivre notre actualité, échanger en direct avec nous, proposer 
 
 Si vous préférez uniquement suivre nos actualités, vous vous invitons à nous rejoindre sur **[Facebook](https://www.facebook.com/DemocracyOSfrance/)**, **[Twitte](https://twitter.com/DemocracyOS_FR)r** et **[Mastodont](https://framapiaf.org/@DemocracyOS_FR)** et vous abonner ici à notre [Newsletter](https://t.me/joinchat/AAAAAEHDTA3SAyvUTgUjGQ) !
 
-* **Rejoindre l’équipe**
-
-Afin de toujours contribuer à l’amélioration technique de notre plateforme nous recherchons des développeur.euses, des personnes qui aiment communiquer (réseaux sociaux, newsletter, etc.), des traducteur.ices, des graphistes / designers…. mais pas seulement ! Nous accueillons à bras-ouverts toute personne motivée pour nous rejoindre, peu importe le temps ou les compétences de chacun.e.
+* **Rejoindre l’équipe**Afin de toujours contribuer à l’amélioration technique de notre plateforme nous recherchons des développeur.euses, des personnes qui aiment communiquer (réseaux sociaux, newsletter, etc.), des traducteur.ices, des graphistes / designers…. mais pas seulement ! Nous accueillons à bras-ouverts toute personne motivée pour nous rejoindre, peu importe le temps ou les compétences de chacun.e.
 
 Si notre association vous intéresse, [n’hésitez pas à adhérer](https://www.helloasso.com/associations/democracyos-france/adhesions/adhesion-a-democracyos-france)!
 
