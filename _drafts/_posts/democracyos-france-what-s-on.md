@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-hero: img/medias/z_democracy-1.png
+hero: img/medias/What'sON.PNG
 customclass: earlybird
 tags:
 - |-
