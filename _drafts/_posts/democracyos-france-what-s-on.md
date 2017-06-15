@@ -102,9 +102,9 @@ Rendez-vous le 4 juillet prochain chez Volumes Coworking pour une [grande soiré
 
 ### <span style="font-size: 1rem;"><br></span>
 
-<span style="font-size: 1rem;">Vous souhaitez contribuer ? Rejoignez l’aventure DemocracyOS France !</span>
+## Vous souhaitez contribuer ? Rejoignez l’aventure DemocracyOS France !
 
-## Faire un don à l’association
+### Faire un don à l’association
 
 ![](img/medias/Visuel%20HelloAsso%20NL.PNG)
 
@@ -126,15 +126,11 @@ Vous souhaitez suivre notre actualité, échanger en direct avec nous, proposer 
 
 * **Partager notre actualité**
 
-Si vous préférez uniquement suivre nos actualités, vous vous invitons à nous rejoindre sur **[Facebook](https://www.facebook.com/DemocracyOSfrance/)**, **[Twitte](https://twitter.com/DemocracyOS_FR)r** et **Mastodont** et vous abonner ici à notre [Newsletter](https://t.me/joinchat/AAAAAEHDTA3SAyvUTgUjGQ) !
+Si vous préférez uniquement suivre nos actualités, vous vous invitons à nous rejoindre sur **[Facebook](https://www.facebook.com/DemocracyOSfrance/)**, **[Twitte](https://twitter.com/DemocracyOS_FR)r** et **[Mastodont](https://framapiaf.org/@DemocracyOS_FR)** et vous abonner ici à notre [Newsletter](https://t.me/joinchat/AAAAAEHDTA3SAyvUTgUjGQ) !
 
 * **Rejoindre l’équipe**
 
 Afin de toujours contribuer à l’amélioration technique de notre plateforme nous recherchons des développeur.euses, des personnes qui aiment communiquer (réseaux sociaux, newsletter, etc.), des traducteur.ices, des graphistes / designers…. mais pas seulement ! Nous accueillons à bras-ouverts toute personne motivée pour nous rejoindre, peu importe le temps ou les compétences de chacun.e.
 
-Si notre association vous intéresse, n’hésitez pas à adhérer!
-
-INSERER L’IMAGE PARTICIPER
-
-Renvoyer vers l’article dédié
+Si notre association vous intéresse, [n’hésitez pas à adhérer](https://www.helloasso.com/associations/democracyos-france/adhesions/adhesion-a-democracyos-france)!
 
