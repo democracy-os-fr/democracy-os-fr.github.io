@@ -1,5 +1,5 @@
 ---
-end_date: 2016-07-04 12:00
+end_date: 2016-07-04 22:30
 type_evenement: Soirée Open Democracy, Rencontre avec Pia Mancini
 visuel: img/medias/AD2-1.jpg
 event_background_color: ''
