@@ -36,13 +36,13 @@ Notre projet [Open Democracy Now](http://opendemocracynow.net/), qui s’engage 
 
 Par ailleurs, nous avons mené de nombreux projets de front : de l’ouverture de plusieurs [consultations](http://democracyos.eu/projets/) (Ville de Nanterre, associations Halte à l’Obsolescence et Open Law, collectif #MaVoix, etc.), à la victoire de notre projet [Empowering Student lors de la Student Demo Cup](http://democracyos.eu/blog/empowering-students-remporte-la-student-demo-cup), en passant par le projet [Rapporteurs Citoyens](https://www.regardscitoyens.org/rapporteurs-citoyens/) en partenariat avec [regards Citoyens](https://www.regardscitoyens.org/#&panel1-1) et [Faistaloi.org](http://faistaloi.org/), ou encore l’ouverture de partenariats internationaux.
 
+![](img/medias/C1uDfUOXUAA335-.jpg:large.jpeg)
+
 <span style="font-size: 1rem;"><br></span>
 
 <span style="font-size: 1rem;">Tous ces projets nous ont permis d’asseoir nos certitudes : au sein des démarches de "civic-tech", l’ouverture est aussi fondamentale que réalisable. Nous ne cesserons d’inviter nos utilisateur.ices à garantir la transparence et la sincérité des consultations qu’ils lancent, en respectant les principes de l’Open Source et en ouvrant les données sous une licence Open Data. En outre, nous les encourageons vivement à dépasser une simple approche « outil » : une consultation est une démarche globale, qui demande une méthodologie adaptée, la mobilisation de ressources pour animer le processus, ainsi que des engagements forts sur la prise en compte de la parole des citoyens une fois la consultation close.</span>
 
 Depuis la rentrée, nous nous sommes progressivement restructuré.e.s et nous avons évolué. Bien que toujours concentré.es sur nos objectifs, nous avons décidé d’adapter nos moyens d’actions et nos priorités, en plaçant la communauté de DemocracyOS au cœur de nos projets.
-
-![](img/medias/C1uDfUOXUAA335-.jpg:large.jpeg)
 
 ## 2017, ouvrir et pérenniser notre action
 
@@ -102,7 +102,7 @@ A ce titre, DemocracyOS, en plus de co- organiser le projet Open Democracy Now, 
 
 Rendez-vous le 4 juillet prochain chez Volumes Coworking pour une [grande soirée Open Democracy Now](https://www.eventbrite.fr/e/billets-soiree-open-democracy-now-lets-build-a-new-democracy-together-35404233014?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button) où nous recevrons Pia Mancini !
 
-![](img/medias/AD2-1.jpg)
+<img src="img/medias/AD2-1.jpg" alt="" class="">
 
 <img src="img/medias/AD2.jpg" style="display: none !important;">
 
@@ -131,7 +131,7 @@ Vous souhaitez suivre notre actualité, échanger en direct avec nous, proposer 
 <img src="img/medias/DOS%20telegram.PNG" class="forestry--none forestry--left" style="float: left;">
 <span style="font-size: 1rem;"><br></span>
 
-<div><p><span style="font-size: 1rem;"><br></span></p><p><span style="font-size: 1rem;"><br></span></p><p><span style="font-size: 1rem;"><br></span></p><p><span style="font-size: 1rem;"><br></span></p><p><br></p><p></p><ul><li><b style="font-size: 1rem;">Partager notre actualité</b><br></li></ul><p></p><p><span style="font-size: 1rem;">Si vous préférez uniquement suivre nos actualités, vous vous invitons à&nbsp;</span><span style="font-size: 1rem;">nous rejoindre sur </span><strong style="font-size: 1rem;"><a href="https://www.facebook.com/DemocracyOSfrance/">Facebook</a></strong><span style="font-size: 1rem;">, </span><strong style="font-size: 1rem;"><a href="https://twitter.com/DemocracyOS_FR">Twitte</a>r</strong><span style="font-size: 1rem;"> et </span><strong style="font-size: 1rem;"><a href="https://framapiaf.org/@DemocracyOS_FR">Mastodont</a></strong><span style="font-size: 1rem;"> et vous abonner ici à notre </span><a href="https://t.me/joinchat/AAAAAEHDTA3SAyvUTgUjGQ" style="font-size: 1rem; background-color: rgb(255, 255, 255);">Newsletter</a><span style="font-size: 1rem;"> !</span><br></p>
+<div><p><span style="font-size: 1rem;"><br></span></p><p><span style="font-size: 1rem;"><br></span></p><p><span style="font-size: 1rem;"><br></span></p><p><span style="font-size: 1rem;"><br></span></p><p><br></p><p></p><ul><li><b style="font-size: 1rem;">Partager notre actualité</b><br></li></ul><p></p><p><span style="font-size: 1rem;">Si vous préférez uniquement suivre nos actualités, vous vous invitons à&nbsp;</span><span style="font-size: 1rem;">nous rejoindre sur </span><strong style="font-size: 1rem;"><a href="https://www.facebook.com/DemocracyOSfrance/">Facebook</a></strong><span style="font-size: 1rem;">, </span><strong style="font-size: 1rem;"><a href="https://twitter.com/DemocracyOS_FR">Twitte</a>r, <a href="https://www.linkedin.com/organization/11153483/admin/updates">LinkedIn</a></strong><span style="font-size: 1rem;"> et </span><strong style="font-size: 1rem;"><a href="https://framapiaf.org/@DemocracyOS_FR">Mastodont</a></strong><span style="font-size: 1rem;"> et vous abonner ici à notre </span><a href="https://t.me/joinchat/AAAAAEHDTA3SAyvUTgUjGQ" style="font-size: 1rem; background-color: rgb(255, 255, 255);">Newsletter</a><span style="font-size: 1rem;"> !</span><br></p>
 <ul>
 <li><strong>Rejoindre l’équipe</strong></li>
 </ul>
