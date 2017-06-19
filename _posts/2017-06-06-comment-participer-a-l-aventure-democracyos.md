@@ -19,27 +19,15 @@ date: 2017-05-31 16:38
 
 ## Comment participer à l'aventure DemocracyOS ?
 
-<span style="font-size: 1rem;">DemocracyOS France est une association composée de<a href="http://democracyos.eu/a-propos/"> bénévoles</a>. C’est grâce à leur travail et leur motivation que la plateforme grandit un peu plus chaque jour.&nbsp; <br></span>
+<span style="font-size: 1rem;">DemocracyOS France est une association composée de<a href="http://democracyos.eu/a-propos/"> bénévoles</a>. C’est grâce à leur travail et leur motivation que la plateforme grandit un peu plus chaque jour.&nbsp;<br></span><span style="font-size: 1rem;"><b>Pour faire évoluer DemocracyOS de façon pérenne, nous avons besoin de vous!&nbsp;<br></b></span><span style="font-size: 1rem;">Toute aide est la bienvenue : si vous souhaitez nous soutenir, il existe plusieurs façon de contribuer.<br> </span>Nous aider peu importe les compétences ou le temps que vous ayez à nous offrir
 
-<span style="font-size: 1rem;"><b>Pour faire évoluer DemocracyOS de façon pérenne, nous avons besoin de vous !&nbsp;</b> <br></span>
+Nous accueillons toute personne motivée à nous rejoindre : peu importe les compétences ou le temps que vous ayez à nous offrir ! Nous sommes convaincus que l'amélioration de notre outil repose largement sur l'intelligence collective et la complémentarité des apports de chacun.
 
-<span style="font-size: 1rem;">Toute aide est la bienvenue : si vous souhaitez nous soutenir, il existe plusieurs façon de contribuer. <br></span>
+**En ce moment, l'association recherche notamment quelques profils spécifiques:**
 
-### Nous aider peu importe les compétences ou le temps que vous ayez à nous offrir
+![](img/medias/Visu%20Article.PNG)
 
-Nous accueillons toute personne motivée à nous rejoindre : peu importe les compétences ou le temps que vous ayez à nous offrir !
-
-Vous êtes développeur, graphiste, designer, juriste ou citoyen(ne) motivé(e), vous aimez écrire ou communiquer, organiser des évenements ou participer à des conférences, etc... Contactez-nous !
-
-Nous sommes convaincus que l'amélioration de notre outil repose largement sur l'intelligence collective et la complémentarité des apports de chacun.
-
-**En ce moment, l'association recherche notamment quelques profils spécifiques :**
-
-•	Un(e) **Community Manager** pour animer la communauté qui gravite autour de DemocracyOS, notamment sur les réseaux sociaux
-
-• Un(e) **Trésorier(e)** pour gérer les dons, les adhésions et le budget
-
-•	Un(e) **Développeur(se)** pour un stage dédié à la fusion (merge) de notre version de la plateforme avec celle développée en Argentine.
+Icônes from Flaticons*
 
 [Découvrez ici l’offre de stage](http://democracyos.eu/blog/stage-merge-democracyos-france-argentine)
 
@@ -49,24 +37,24 @@ Pour nous soutenir à distance, nous avons ouvert une collecte de dons sur Hello
 
 Ces dons sont précieux pour nous permettre d'avancer l'esprit libre !
 
-Découvrez ici notre plateforme de dons
+[Découvrez ici notre plateforme de dons](https://www.helloasso.com/associations/democracyos-france)
 
 ### Partager nos actions
 
-Pour que DemocracyOS progresse, il est fondamental qu'un maximum d'acteur-rices puissent connaitre notre outil et se l'approprier, découvrir notre approche et notre méthodologie, appréhender l'écosystème d'acteurs au sein duquel nous gravitons.
+Pour que DemocracyOS progresse, il est fondamental qu'un maximum d'acteur-rices puissent connaitre notre outil et se l'approprier, découvrir notre approche et notre méthodologie, appréhender l'écosystème d'acteur-rices au sein duquel nous gravitons.
 
 **Pour contribuer à diffuser DemocracyOS, n'hésitez pas à :**
 
-* Nous suivre sur les **réseaux sociaux**  Facebook, Twitter et Mastodon
+* Nous suivre sur les **réseaux sociaux** [ Facebook](https://www.facebook.com/DemocracyOSfrance/), Twitter et Mastodon
 
 * Vous inscrire à notre **newsletter** et à la partager,
 
-* Suivre notre actualité sur notre **blog**,
+* <span style="font-size: 1rem;">Suivre notre actualité sur notre</span><a href="http://democracyos.eu/blog/" style="font-size: 1rem; background-color: rgb(255, 255, 255);"> <strong>blog</strong></a><span style="font-size: 1rem;">,</span>
 
 * **Parler de nous autour de vous** !
 
 Si vous souhaitez échanger directement avec nous pour en discuter, vous  pouvez nous écrire à l'adresse : contact@democracyos.eu
 
-**Un immense merci ! **
+Un immense merci !
 
 L'équipe de DemocracyOS France
