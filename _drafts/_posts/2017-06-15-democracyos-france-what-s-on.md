@@ -38,8 +38,6 @@ Par ailleurs, nous avons mené de nombreux projets de front : de l’ouverture d
 
 ![](img/medias/C1uDfUOXUAA335-.jpg:large.jpeg)
 
-<span style="font-size: 1rem;"><br></span>
-
 <span style="font-size: 1rem;">Tous ces projets nous ont permis d’asseoir nos certitudes : au sein des démarches de "civic-tech", l’ouverture est aussi fondamentale que réalisable. Nous ne cesserons d’inviter nos utilisateur.ices à garantir la transparence et la sincérité des consultations qu’ils lancent, en respectant les principes de l’Open Source et en ouvrant les données sous une licence Open Data. En outre, nous les encourageons vivement à dépasser une simple approche « outil » : une consultation est une démarche globale, qui demande une méthodologie adaptée, la mobilisation de ressources pour animer le processus, ainsi que des engagements forts sur la prise en compte de la parole des citoyens une fois la consultation close.</span>
 
 Depuis la rentrée, nous nous sommes progressivement restructuré.e.s et nous avons évolué. Bien que toujours concentré.es sur nos objectifs, nous avons décidé d’adapter nos moyens d’actions et nos priorités, en plaçant la communauté de DemocracyOS au cœur de nos projets.
@@ -138,4 +136,3 @@ Vous souhaitez suivre notre actualité, échanger en direct avec nous, proposer 
 <p>Afin de toujours contribuer à l’amélioration technique de notre plateforme nous recherchons des développeur.euses, des personnes qui aiment communiquer (réseaux sociaux, newsletter, etc.), des traducteur.ices, des graphistes / designers…. mais pas seulement ! Nous accueillons à bras-ouverts toute personne motivée pour nous rejoindre, peu importe le temps ou les compétences de chacun.e.</p><img src="img/medias/IMG_7958%20-%20Copie.JPG"><p><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><i style="font-size: 1rem;">Une partie de l'équipe DemocracyOS France</i></p>
 <p>Si notre association vous intéresse, <a href="https://www.helloasso.com/associations/democracyos-france/adhesions/adhesion-a-democracyos-france">n’hésitez pas à adhérer</a>!</p>
 </div>
-
