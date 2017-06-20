@@ -28,17 +28,17 @@ En cette année riche en élections, DemocracyOS continue d’agir pour que les 
 
 En 2016, les initiatives “civic tech” se sont multipliées, en réponse à une véritable demande de renouveau des pratiques démocratiques. L’agenda français étant également à l’[Open Governement](https://fr.wikipedia.org/wiki/Gouvernement_ouvert), nous nous sommes impliqué.es dans la préparation de l’Open [Government Partnership Summit ](https://www.opengovpartnership.org/about/news-and-events/ogp-global-summit-2016-paris)afin d’y porter notre vision de l’Open Gov et d’y proposer des actions concrètes, notamment au travers du [hackathon mondial OGP Toolbox](https://en.ogpsummit.org/the-open-government-toolbox/), en rencontrant des activistes souhaitant utiliser notre outil, ou encore en travaillant avec des étudiant.e.s sur la participation au sein des universités.
 
-![](img/medias/Capture%20d'%C3%A9cran%20de%202017-06-15%2016-46-22.png)
+![](/img/medias/Capture%20d'%C3%A9cran%20de%202017-06-15%2016-46-22.png)
 
 Notre projet [Open Democracy Now](http://opendemocracynow.net/), qui s’engage à co-développer des solutions libres et ouvertes pour la démocratie, a organisé la veille de l’Open Government Partnership Summit aux côtés de [g0v.tw](http://g0v.tw/en-US/) et l’Open Culture Foundation une **Open Civil Society Night** : une soirée réunissant des projets civic-tech open source du monde entier.
 
-![](img/medias/OSPN.png)
+![](/img/medias/OSPN.png)
 
 Par ailleurs, nous avons mené de nombreux projets de front : de l’ouverture de plusieurs [consultations](http://democracyos.eu/projets/) (Ville de Nanterre, associations Halte à l’Obsolescence et Open Law, collectif #MaVoix, etc.), à la victoire de notre projet [Empowering Student lors de la Student Demo Cup](http://democracyos.eu/blog/empowering-students-remporte-la-student-demo-cup), en passant par le projet [Rapporteurs Citoyens](https://www.regardscitoyens.org/rapporteurs-citoyens/) en partenariat avec [regards Citoyens](https://www.regardscitoyens.org/#&panel1-1) et [Faistaloi.org](http://faistaloi.org/), ou encore l’ouverture de partenariats internationaux.
 
-![](img/medias/C1uDfUOXUAA335-.jpg:large.jpeg)
+![](/img/medias/C1uDfUOXUAA335-.jpg:large.jpeg)
 
-<span style="font-size: 1rem;">Tous ces projets nous ont permis d’asseoir nos certitudes : au sein des démarches de "civic-tech", l’ouverture est aussi fondamentale que réalisable. Nous ne cesserons d’inviter nos utilisateur.ices à garantir la transparence et la sincérité des consultations qu’ils lancent, en respectant les principes de l’Open Source et en ouvrant les données sous une licence Open Data. En outre, nous les encourageons vivement à dépasser une simple approche « outil » : une consultation est une démarche globale, qui demande une méthodologie adaptée, la mobilisation de ressources pour animer le processus, ainsi que des engagements forts sur la prise en compte de la parole des citoyens une fois la consultation close.</span>
+Tous ces projets nous ont permis d’asseoir nos certitudes : au sein des démarches de "civic-tech", l’ouverture est aussi fondamentale que réalisable. Nous ne cesserons d’inviter nos utilisateur.ices à garantir la transparence et la sincérité des consultations qu’ils lancent, en respectant les principes de l’Open Source et en ouvrant les données sous une licence Open Data. En outre, nous les encourageons vivement à dépasser une simple approche « outil » : une consultation est une démarche globale, qui demande une méthodologie adaptée, la mobilisation de ressources pour animer le processus, ainsi que des engagements forts sur la prise en compte de la parole des citoyens une fois la consultation close.
 
 Depuis la rentrée, nous nous sommes progressivement restructuré.e.s et nous avons évolué. Bien que toujours concentré.es sur nos objectifs, nous avons décidé d’adapter nos moyens d’actions et nos priorités, en plaçant la communauté de DemocracyOS au cœur de nos projets.
 
@@ -50,7 +50,7 @@ Depuis le début de l’année, DemocracyOS poursuit quelques grands axes forts,
 
 La communauté est au cœur des actions de DemocracyOS. Qui forme concrètement cette communauté et quel est son rôle ? Dans un projet Open Source, la communauté rassemble l’ensemble des acteur.ices qui gravitent autour de l’outil et des usages qui en sont faits. Sont donc concerné.es celles et ceux qui contribuent à améliorer le code de l’outil, qui l’utilisent à petite ou grande échelle, mais aussi qui l'observent de près ou de loin, qui le questionnent, font remonter des dysfonctionnements, proposent des pistes d'amélioration, en résumé tou.te.s celles et ceux qui le font progresser et s’ouvrir à de nouveaux horizons.
 
-![](img/medias/C5Q-Pw-WMAAk_jv.jpg:large.jpeg)
+![](/img/medias/C5Q-Pw-WMAAk_jv.jpg:large.jpeg)
 
 ### Unir nos énergies à l’international
 
@@ -68,7 +68,7 @@ Bénéficiant ainsi d’une communauté internationale et renforçant nos parten
 
 Collectivités locales, associations, candidat.es et élu.es, mouvements ou partis politiques, administrations, gouvernements… Les acteur.ices qui font le choix d’utiliser DemocracyOS sont divers et adressent des enjeux différents.
 
-![](img/medias/Capture%20d'%C3%A9cran%20de%202017-06-15%2016-57-04.png)
+![](/img/medias/Capture%20d'%C3%A9cran%20de%202017-06-15%2016-57-04.png)
 
 Pour mieux appréhender les différents usages qui peuvent être faits autour de DemocracyOS, nous répertorions les cas d’usage au fur et à mesure sur notre [site](http://democracyos.eu/projets/).
 
@@ -110,9 +110,9 @@ Rendez-vous le 4 juillet prochain chez Volumes Coworking pour une [grande soiré
 
 ### Faire un don à l’association
 
-![](img/medias/Visuel%20HelloAsso%20NL2.PNG)
+![](/img/medias/Visuel%20HelloAsso%20NL2.PNG)
 
-<span style="font-size: 1rem;">Notre action est principalement bénévole : nous avons donc besoin de votre aide pour continuer d’avancer !</span>
+Notre action est principalement bénévole : nous avons donc besoin de votre aide pour continuer d’avancer !
 
 Les dons nous offrent la possibilité d’être innovant.es, d’explorer de nouvelles voies, de diffuser notre action sur le territoire français en nous déplaçant à l’occasion d'événements, d’organiser des rencontres thématiques, etc. Les dons nous permettent également d’accueillir ponctuellement des étudiant.es volontaires en stage, dont l’énergie et la motivation nous est précieuse.
 
@@ -124,15 +124,16 @@ Vous souhaitez vous mobiliser pour porter l’association DemocracyOS ? Peu impo
 
 Vous souhaitez suivre notre actualité, échanger en direct avec nous, proposer des actions ?
 
-<a href="https://t.me/joinchat/AAAAAEHDTA3SAyvUTgUjGQ" style="font-size: 1rem; background-color: rgb(255, 255, 255);">Rejoignez notre espace de discussion ouvert sur l’application Telegram </a><span style="font-size: 1rem;">!&nbsp;</span>
+<a href="https://t.me/joinchat/AAAAAEHDTA3SAyvUTgUjGQ">Rejoignez notre espace de discussion ouvert sur l’application Telegram ! </a>
 
-<img src="img/medias/DOS%20telegram.PNG" class="forestry--none forestry--left" style="float: left;">
-<span style="font-size: 1rem;"><br></span>
+<img src="/img/medias/DOS%20telegram.PNG" class="forestry--none forestry--left" style="float: left;">
+<br>
 
-<div><p><span style="font-size: 1rem;"><br></span></p><p><span style="font-size: 1rem;"><br></span></p><p><span style="font-size: 1rem;"><br></span></p><p><span style="font-size: 1rem;"><br></span></p><p><br></p><p></p><ul><li><b style="font-size: 1rem;">Partager notre actualité</b><br></li></ul><p></p><p><span style="font-size: 1rem;">Si vous préférez uniquement suivre nos actualités, vous vous invitons à&nbsp;</span><span style="font-size: 1rem;">nous rejoindre sur </span><strong style="font-size: 1rem;"><a href="https://www.facebook.com/DemocracyOSfrance/">Facebook</a></strong><span style="font-size: 1rem;">, </span><strong style="font-size: 1rem;"><a href="https://twitter.com/DemocracyOS_FR">Twitte</a>r, <a href="https://www.linkedin.com/organization/11153483/admin/updates">LinkedIn</a></strong><span style="font-size: 1rem;"> et </span><strong style="font-size: 1rem;"><a href="https://framapiaf.org/@DemocracyOS_FR">Mastodont</a></strong><span style="font-size: 1rem;"> et vous abonner ici à notre </span><a href="https://t.me/joinchat/AAAAAEHDTA3SAyvUTgUjGQ" style="font-size: 1rem; background-color: rgb(255, 255, 255);">Newsletter</a><span style="font-size: 1rem;"> !</span><br></p>
-<ul>
-<li><strong>Rejoindre l’équipe</strong></li>
-</ul>
-<p>Afin de toujours contribuer à l’amélioration technique de notre plateforme nous recherchons des développeur.euses, des personnes qui aiment communiquer (réseaux sociaux, newsletter, etc.), des traducteur.ices, des graphistes / designers…. mais pas seulement ! Nous accueillons à bras-ouverts toute personne motivée pour nous rejoindre, peu importe le temps ou les compétences de chacun.e.</p><img src="img/medias/IMG_7958%20-%20Copie.JPG"><p><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><i style="font-size: 1rem;">Une partie de l'équipe DemocracyOS France</i></p>
-<p>Si notre association vous intéresse, <a href="https://www.helloasso.com/associations/democracyos-france/adhesions/adhesion-a-democracyos-france">n’hésitez pas à adhérer</a>!</p>
-</div>
+* **Partager notre actualité**
+Si vous préférez uniquement suivre nos actualités, vous vous invitons à nous rejoindre sur <a href="https://www.facebook.com/DemocracyOSfrance/">Facebook</a>, <a href="https://twitter.com/DemocracyOS_FR">Twitte</a>, <a href="https://www.linkedin.com/organization/11153483/admin/updates">LinkedIn</a> et <a href="https://framapiaf.org/@DemocracyOS_FR">Mastodont</a> et vous abonner ici à <a href="https://t.me/joinchat/AAAAAEHDTA3SAyvUTgUjGQ";">Newsletter</a> !
+
+* **Rejoindre l'équipe**
+
+Afin de toujours contribuer à l’amélioration technique de notre plateforme nous recherchons des développeur.euses, des personnes qui aiment communiquer (réseaux sociaux, newsletter, etc.), des traducteur.ices, des graphistes / designers…. mais pas seulement ! Nous accueillons à bras-ouverts toute personne motivée pour nous rejoindre, peu importe le temps ou les compétences de chacun.e.
+
+Si notre association vous intéresse, <a href="https://www.helloasso.com/associations/democracyos-france/adhesions/adhesion-a-democracyos-france">n’hésitez pas à adhérer</a>!
