@@ -10,9 +10,8 @@ tags:
 - Open Democracy Now
 - NEWS
 - presse
-description_hero: Les débuts de DemocracyOS France
-extrait: |
-  Les communs numériques
+description_hero:
+extrait: Les communs numériques
 auteur: Caroline Corbal
 comments: true
 title: 'DemocracyOS France : what’s on ? '

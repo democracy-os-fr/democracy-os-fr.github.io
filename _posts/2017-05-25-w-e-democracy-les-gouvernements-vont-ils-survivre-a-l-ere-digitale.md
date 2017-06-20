@@ -7,7 +7,7 @@ tags:
 - Digital Commons
 - Démocratie
 - Europe
-description_hero: Les débuts de DemocracyOS France
+description_hero:
 extrait: ''
 auteur: Juliet Evrard
 comments: true
