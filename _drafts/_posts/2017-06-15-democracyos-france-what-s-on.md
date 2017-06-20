@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-hero: img/medias/What'sON3.PNG
+hero: img/medias/whatson3.png
 customclass: earlybird
 tags:
 - |-
