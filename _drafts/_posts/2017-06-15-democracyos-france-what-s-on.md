@@ -130,7 +130,7 @@ Vous souhaitez suivre notre actualité, échanger en direct avec nous, proposer 
 <br>
 
 * **Partager notre actualité**
-Si vous préférez uniquement suivre nos actualités, vous vous invitons à nous rejoindre sur <a href="https://www.facebook.com/DemocracyOSfrance/">Facebook</a>, <a href="https://twitter.com/DemocracyOS_FR">Twitte</a>, <a href="https://www.linkedin.com/organization/11153483/admin/updates">LinkedIn</a> et <a href="https://framapiaf.org/@DemocracyOS_FR">Mastodont</a> et vous abonner ici à <a href="https://t.me/joinchat/AAAAAEHDTA3SAyvUTgUjGQ";">Newsletter</a> !
+Si vous préférez uniquement suivre nos actualités, vous vous invitons à nous rejoindre sur <a href="https://www.facebook.com/DemocracyOSfrance/">Facebook</a>, <a href="https://twitter.com/DemocracyOS_FR">Twitte</a>, <a href="https://www.linkedin.com/organization/11153483/admin/updates">LinkedIn</a> et <a href="https://framapiaf.org/@DemocracyOS_FR">Mastodont</a> et vous abonner ici à <a href="https://t.me/joinchat/AAAAAEHDTA3SAyvUTgUjGQ"> notre Newsletter</a> !
 
 * **Rejoindre l'équipe**
 
