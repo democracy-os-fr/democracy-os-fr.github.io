@@ -58,7 +58,7 @@ La communauté est au cœur des actions de DemocracyOS. Qui forme concrètement 
 
 Aujourd’hui, nous souhaitons fusionner à nouveau avec la version Argentine, et unir nos énergies à l’international pour que l’outil ne cesse de progresser.
 
-![](img/medias/Capture%20d'%C3%A9cran%20de%202017-06-15%2016-52-11.png)
+![](/img/medias/Capture%20d'%C3%A9cran%20de%202017-06-15%2016-52-11.png)
 
 *Democracia en Red, les membres de DemocracyOS en argentine*.
 
@@ -100,9 +100,9 @@ A ce titre, DemocracyOS, en plus de co- organiser le projet Open Democracy Now, 
 
 Rendez-vous le 4 juillet prochain chez Volumes Coworking pour une [grande soirée Open Democracy Now](https://www.eventbrite.fr/e/billets-soiree-open-democracy-now-lets-build-a-new-democracy-together-35404233014?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button) où nous recevrons Pia Mancini !
 
-<img src="img/medias/AD2-1.jpg" alt="" class="">
+<img src="/img/medias/AD2-1.jpg" alt="" class="">
 
-<img src="img/medias/AD2.jpg" style="display: none !important;">
+<img src="/img/medias/AD2.jpg" style="display: none !important;">
 
 ### <span style="font-size: 1rem;"><br></span>
 
