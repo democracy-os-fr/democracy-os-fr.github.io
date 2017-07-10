@@ -26,6 +26,8 @@ Dans le cadre de la mise en lumière de nos cas d'usages, nous avons interviewé
 
 Aujourd'hui Emile Meunier, avocat et militant contre l'obsolescence programmée au sein de l’association [Halte à l'Obsolescence Programmée](http://www.halteobsolescence.org/) (HOP) répond à nos questions après avoir lancé une consultation DemocracyOS.
 
+![](img/medias/Emille.png)
+
 ### _**Présentation du projet**_
 
 * **Qui êtes-vous ?**
@@ -33,6 +35,10 @@ Aujourd'hui Emile Meunier, avocat et militant contre l'obsolescence programmée 
 Opé2017 est un projet où plusieurs associations contre l’Obsolescence Programmée se sont alliées pour mettre la question de l’obsolescence programmée à l’ordre du jour de la campagne et recueillir, grâce à l’ouverture de la plateforme, différents avis sur la question. L’idée c’est que tout le monde participe :  associations, citoyens, experts et entreprises.
 
 * **Dans quel cadre avez-vous souhaité concerté les citoyens ? Pourquoi avez-vous lancé une consultation ?**
+
+Opé 2017 a concerté les citoyens dans le cadre des campagnes présidentielles puis législatives, afin de pouvoir réunir les avis d’un grand nombre de citoyens et d’acteurs. L’idée était d’allier, au travers d’une consultation, l’ensemble du corpus d’associations qui luttent contre l’obsolescence programmée sur les points qui les rassemblent afin d’amener des propositions concrètes aux candidats.    
+
+_Opé 2017 regroupe _: [HOP](http://www.halteobsolescence.org/), [Les Amis de la Terre](http://www.amisdelaterre.org/), UFC que choisir, ZeroWaste France, Community, Green It et DemcracyOS/
 
 ![](img/medias/acteurs.png)
 
