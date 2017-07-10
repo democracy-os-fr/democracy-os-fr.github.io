@@ -5,7 +5,7 @@ customclass: earlybird
 date: 2017-07-10 10:49
 description_hero: Les débuts de DemocracyOS France
 extrait: 'L''interview d''Emile Meunier, membre de Halte à l''Obsolescence Programmée '
-hero: img/medias/z_democracy-1.png
+hero: img/medias/Banner.PNG
 lang: fr
 layout: post
 tags:
