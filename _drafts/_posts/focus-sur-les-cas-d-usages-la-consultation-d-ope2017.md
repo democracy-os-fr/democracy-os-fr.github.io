@@ -20,11 +20,11 @@ title: 'Focus sur les cas d''usages : la consultation d''Opé2017 '
 
 ## Opé2017 : une consultation pour lutter contre l'obsolescence programmée.
 
-Dans le cadre de la mise en lumière de nos cas d'usages, nous avons interviewé plusieurs utilisateurs et utilisatrices de la plateforme, afin d'obtenir des retours sur son utilisation et mieux conseiller celles et ceux qui souhaiteraient l'utiliser.
-
 ![](img/medias/OP%C3%A92017-1.png)
 
-Aujourd'hui Emile Meunier, avocat et militant contre l'obsolescence programmée au sein de l'associaton Halte à l'Obsolescence Programmée (HOP) répond à nos questions.
+Dans le cadre de la mise en lumière de nos cas d'usages, nous avons interviewé plusieurs utilisateurs et utilisatrices de la plateforme, afin d'obtenir des retours sur son utilisation et mieux conseiller celles et ceux qui souhaiteraient l'utiliser.
+
+Aujourd'hui Emile Meunier, avocat et militant contre l'obsolescence programmée au sein de l’association [Halte à l'Obsolescence Programmée](http://www.halteobsolescence.org/) (HOP) répond à nos questions après avoir lancé une consultation DemocracyOS.
 
 ### _**Présentation du projet**_
 
@@ -34,7 +34,7 @@ Opé2017 est un projet où plusieurs associations contre l’Obsolescence Progra
 
 * **Dans quel cadre avez-vous souhaité concerté les citoyens ? Pourquoi avez-vous lancé une consultation ?**
 
-Opé 2017 a concerté les citoyens dans le cadre des campagnes présidentielles puis législatives, afin de pouvoir réunir les avis d’un grand nombre de citoyens et d’acteurs. L’idée était d’allier, au travers d’une consultation, l’ensemble du corpus d’associations qui luttent contre l’obsolescence programmée sur les points qui les rassemblent afin d’amener des propositions concrètes aux candidats.
+![](img/medias/acteurs.png)
 
 Elle s’adresse à tout le monde, mais on a eu beaucoup de retour de citoyens engagés qui connaissent bien le sujet, et très peu de retours d’entreprises.
 
