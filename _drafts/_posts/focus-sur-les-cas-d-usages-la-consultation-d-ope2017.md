@@ -40,27 +40,27 @@ Emile Meunier : Opé2017 est un projet où plusieurs associations contre l’Obs
 
 EM : Opé 2017 a concerté les citoyens dans le cadre des campagnes présidentielles puis législatives, afin de pouvoir réunir les avis d’un grand nombre de citoyens et d’acteurs. L’idée était d’allier, au travers d’une consultation, l’ensemble du corpus d’associations qui luttent contre l’obsolescence programmée sur les points qui les rassemblent afin d’amener des propositions concrètes aux candidats.
 
-<blockquote><u>Opé 2017 regroupe</u> : <a href="http://www.halteobsolescence.org/">HOP</a>, <a href="http://www.amisdelaterre.org/">Les Amis de la Terre</a>, <a href="https://www.quechoisir.org/">UFC que choisir</a>, <a href="https://www.zerowastefrance.org/fr">ZeroWaste France</a>, Community, <a href="https://www.greenit.fr/">Green It</a> et DemcracyOS.</blockquote>
+<blockquote><u>Opé 2017 regroupe</u> : <a href="http://www.halteobsolescence.org/">HOP</a>, <a href="http://www.amisdelaterre.org/">Les Amis de la Terre</a>, <a href="https://www.quechoisir.org/">UFC que choisir</a>, <a href="https://www.zerowastefrance.org/fr">ZeroWaste France</a>, <a href="http://c2ccommunity.org/">Community</a>, <a href="https://www.greenit.fr/">Green It</a> et DemocracyOS.</blockquote>
 
 ![](img/medias/acteurs.png)
 
 Les associations impliquées dans Opé2017
 
-EM : La plateforme s’adresse à tout le monde, mais on a eu beaucoup de retour de citoyens engagés qui connaissent bien le sujet, et très peu de retours d’entreprises.
+EM : La plateforme s’adresse à tout le monde, mais on a eu beaucoup de retours de citoyens engagés qui connaissent bien le sujet, et très peu de retours d’entreprises.
 
 * **Comment avez-vous connu DemocracyOS ?**
 
-EM : J’ai eu l’idée de faire cette plateforme parce que c’est dans l’air du temps, je lis pas mal au sujet des civic-tech. Parmi les outils j’ai choisi DemocracyOS car vous proposiez de vous associer au projet de l’Opé2017 c’est-à-dire travailler gratuitement contre la promotion de la plateforme dans le milieu militant.
+EM : J’ai eu l’idée de faire cette plateforme parce que c’est dans l’air du temps, je lis pas mal au sujet des civic tech. Parmi les outils j’ai choisi DemocracyOS car vous proposiez de vous associer au projet de l’Opé2017 c’est-à-dire travailler gratuitement contre la promotion de la plateforme dans le milieu militant.
 
 * **Les valeurs (transparence, ouverture) affirmées par DemocracyOS ont-elles influencé votre choix ? Le fait que le logiciel soit Open-Source a t-il été un plus ?**
 
-EM : Oui ce fut clairement un plus. Nous sommes des croyants pratiquants et l’Open Source est présentée comme manière de lutter contre l’Obsolescence Programmée en mettant à disposition des outils de réparation notamment donc on s’est dit autant l’appliquer à notre cause.
+EM : Oui ce fut clairement un plus. Nous sommes des croyants pratiquants et l’open-source est présentée comme manière de lutter contre l’obsolescence programmée en mettant à disposition des outils de réparation notamment donc on s’est dit autant l’appliquer à notre cause.
 
-### **_Le processus de consultation_**
+### ***Le processus de consultation***
 
 * **Quelle a été la temporalité de la consultation ?**
 
-EM : La plateforme est toujours ouverte mais le débat s’est terminé par lui après un mois de participation à la clôture du débat.
+EM : La plateforme est toujours ouverte mais le débat s’est terminé par lui-même après un mois de participations, à la clôture du débat.
 
 * **Certains sujets ont-ils mobilisé plus largement ?**
 
@@ -76,7 +76,7 @@ EM : Avec 5 ateliers physiques, environ 200 participants se sont mobilisés pour
 
 * **Quelles fonctionnalités de DemocracyOS ont été principalement utilisées ? Lesquelles vous semblent les plus pertinentes ?**
 
-EM : Une seule entreprise a sorti une contribution collective mais ce sont les commentaires et les votes qui ont été les plus utilisés. J’ai bien aimé les fiches informations, on peut mettre des documents plus complets, informer les participants, c’est vraiment utile.
+EM : Une seule entreprise a sorti une contribution collective mais ce sont les commentaires et les votes qui ont été les plus utilisés. J’ai bien aimé les fiches d'informations, on peut mettre des documents plus complets, informer les participants, c’est vraiment utile.
 
 ![](img/medias/Informatiions%20sup.PNG)
 
@@ -111,12 +111,12 @@ La Foire aux Questions ouverte sur Opé2017
 <p><strong>Quel est le bilan (provisoire) de cette consultation par rapport à votre projet ?</strong> &nbsp;<strong>Quelles actions concrètes allez-vous mettre en place à l’issue de celle-ci ?</strong></p>
 </li>
 </ul>
-<p>EM : Globalement on a tous été très satisfaits, ça fait partie de l’un des succès de l’association de l’année dernière. Il n’y a rien eu d’innovant en termes de solutions, mais on a sorti <a href="http://www.halteobsolescence.org/en-2017-votons-contre-lobsolescence-programmee/">cette consultation 3 ou 4 propositions </a>qu’on a envoyées aux candidats, beaucoup se sont engagés à nous écouter, Macron notamment. C’est un vrai plus pour notre action de lobbying à l’avenir, ne serait-ce qu’auprès des administrations, ou des cabinets ministériels, d’un côté il y a les engagements des élus, de l’autre nos amendements pour les respecter, le tout étant issu directement des associations et des citoyens.<br><br></p><img src="img/medias/tableau%20comparatif.PNG">
-<p><span style="color: rgb(40, 40, 40); font-size: 1.5em; word-spacing: 0.5px;"><b><u>Quelles sont les prochaines étapes ?</u></b></span></p>
+<p>EM : Globalement on a tous été très satisfaits, ça fait partie de l’un des succès de l’association de l’année dernière. Il n’y a rien eu d’innovant en termes de solutions, mais on a sorti<b> </b><a href="http://www.halteobsolescence.org/en-2017-votons-contre-lobsolescence-programmee/"><b>cette consultation de 3 ou 4 propositions</b> </a>qu’on a envoyées aux candidats, beaucoup se sont engagés à nous écouter, Macron notamment. C’est un vrai plus pour notre action de lobbying à l’avenir, ne serait-ce qu’auprès des administrations, ou des cabinets ministériels, d’un côté il y a les engagements des élus, de l’autre nos amendements pour les respecter, le tout étant issu directement des associations et des citoyens.<br><br></p><img src="img/medias/tableau%20comparatif.PNG">
+<p><span style="color: rgb(40, 40, 40); font-size: 1.5em; word-spacing: 0.5px;"><b><u><br>Quelles sont les prochaines étapes ?</u></b></span></p>
 <ul>
 <li><strong>Si vous en lancez une autre consultation, que pourriez-vous améliorer ?</strong></li>
 </ul>
-<p>EM : C’est beaucoup de travail quand on a d’autres activités à côtés, surtout pour la synthèse. Quand on est une organisation et qu’on veut organiser un débat participatif il faut vraiment y placer une personne dédiée, voire plus d’une.</p>
+<p>EM : C’est beaucoup de travail quand on a d’autres activités à côté, surtout pour la synthèse. Quand on est une organisation et qu’on veut organiser un débat participatif il faut vraiment y placer une personne dédiée, voire plus d’une.</p>
 <ul><li><b>Quels enseignements et bonnes pratiques avez-vous tirés de cette consultation ?</b><br></li></ul>
 <p>EM : L’outil numérique n’est qu’un outil mis à disposition d’un savoir-faire d’animation de débat démocratique, or je n’avais pas ce savoir-faire et j’ai dû apprendre à le faire aux dépens de mon emploi du temps chargé.</p>
 <ul>
@@ -130,4 +130,3 @@ La Foire aux Questions ouverte sur Opé2017
 </ul>
 <p>EM : Durant ma première année de droit, il y une dizaine d’années, en réponse à ce député qui avait dit « vous ne m’avez pas élu pour que je fasse ce que vous vouliez mais pour que je fasse ce que moi je veux », mon prof de droit constitutionnel disait qu’avec les outils du numérique on pourrait revenir à une démocratie beaucoup plus directe. A l’époque j’avais trouvé ça génial : cet outil c’est finalement un peu comme une agora !&nbsp;</p><p><br></p><img src="img/medias/11619_373898666130446_4669427421366268583_n.png"><p><br>EM : Ma question c’est quelle valeur donner à ces avancées démocratiques ? Je reconnais une valeur ajoutée des civic tech : ça créé du débat, ça permet aux citoyens de se réinvestir dans leur citoyenneté, il y a toute une philosophie mais je pense qu’il faille faire attention. Les participations en lignes c’est comme un grand brainstorming géant, mais cela ne représente que 10% de l’action public. Cela ne doit pas écarter les corps intermédiaires et la démocratie représentative à laquelle je crois beaucoup. En outre la politique, c’est aussi et surtout l’art de l’exécution, trouver des majorités, mettre en action l’administration. Sur ce point les civic tech n’apportent pas de réponses à ma connaissance. Comment analyser aussi une opinion donnée à un moment T sur internet ? Quelle valeur quand on sait à quelle point l’opinion est changeante ? Mais malgré ces interrogations, je pense que c’est un outil d’avenir. Pour la généralisation, aujourd’hui il y a peut être une bulle à exploser et puis ça va entrer dans les mœurs doucement.<br><br><br><i>Un grand merci à Emile pour ses retours ! &nbsp;</i></p>
 </div>
-
