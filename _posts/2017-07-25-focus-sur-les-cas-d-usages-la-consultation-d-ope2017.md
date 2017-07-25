@@ -20,11 +20,11 @@ title: 'Focus sur les cas d''usages : la consultation d''Opé2017 '
 
 ## [Opé2017](http://www.halteobsolescence.org/) : une consultation pour lutter contre l'obsolescence programmée
 
-![](img/medias/OP%C3%A92017-1.png)
+![](/img/medias/OP%C3%A92017-1.png)
 
 Dans le cadre de la mise en lumière de nos cas d'usages, nous avons interviewé plusieurs utilisateurs et utilisatrices de la plateforme, afin d'obtenir des retours sur son utilisation et mieux conseiller celles et ceux qui souhaiteraient l'utiliser.
 
-![](img/medias/Emille.png)
+![](/img/medias/Emille.png)
 
 Aujourd'hui Emile Meunier, avocat et militant contre l'obsolescence programmée au sein de l’association [Halte à l'Obsolescence Programmée](http://www.halteobsolescence.org/) (HOP) répond à nos questions après avoir lancé [une consultation DemocracyOS](http://www.halteobsolescence.org/).
 
@@ -32,7 +32,7 @@ Aujourd'hui Emile Meunier, avocat et militant contre l'obsolescence programmée 
 
 *
 
-![](img/medias/OP%C3%A92017-1.png)
+![](/img/medias/OP%C3%A92017-1.png)
 
 Emile Meunier : Opé2017 est un projet où plusieurs associations contre l’Obsolescence Programmée se sont alliées pour mettre la question de l’obsolescence programmée à l’ordre du jour de la campagne et recueillir, grâce à l’ouverture de la plateforme, différents avis sur la question. L’idée c’est que tout le monde participe :  associations, citoyens, experts et entreprises.
 
@@ -42,7 +42,7 @@ EM : Opé 2017 a concerté les citoyens dans le cadre des campagnes présidentie
 
 <blockquote><u>Opé 2017 regroupe</u> : <a href="http://www.halteobsolescence.org/">HOP</a>, <a href="http://www.amisdelaterre.org/">Les Amis de la Terre</a>, <a href="https://www.quechoisir.org/">UFC que choisir</a>, <a href="https://www.zerowastefrance.org/fr">ZeroWaste France</a>, <a href="http://c2ccommunity.org/">Community</a>, <a href="https://www.greenit.fr/">Green It</a> et DemocracyOS.</blockquote>
 
-![](img/medias/acteurs.png)
+![](/img/medias/acteurs.png)
 
 Les associations impliquées dans Opé2017
 
@@ -64,7 +64,7 @@ EM : La plateforme est toujours ouverte mais le débat s’est terminé par lui-
 
 * **Certains sujets ont-ils mobilisé plus largement ?**
 
-![](img/medias/Listas.png)
+![](/img/medias/Listas.png)
 
 Liste des sujets ouverts sur la consultation Opé2017
 
@@ -78,7 +78,7 @@ EM : Avec 5 ateliers physiques, environ 200 participants se sont mobilisés pour
 
 EM : Une seule entreprise a sorti une contribution collective mais ce sont les commentaires et les votes qui ont été les plus utilisés. J’ai bien aimé les fiches d'informations, on peut mettre des documents plus complets, informer les participants, c’est vraiment utile.
 
-![](img/medias/Informatiions%20sup.PNG)
+![](/img/medias/Informatiions%20sup.PNG)
 
 Documentations supplémentaires disponibles pour alimenter le débat.
 
@@ -86,13 +86,13 @@ Documentations supplémentaires disponibles pour alimenter le débat.
 
 EM : On a organisé un atelier sur une journée avec une participation physique qu’on a faite passer en tant que contribution collective sur la plateforme à la fin de la journée.
 
-![](img/medias/HOPDAY%20PARTICIPATION%C2%A3.PNG)
+![](/img/medias/HOPDAY%20PARTICIPATION%C2%A3.PNG)
 
 Proposition issue d'un atelier physique portée par 15 personnes.<span style="font-size: 1rem;"><br></span>
 
 <span style="font-size: 1rem;">EM : En termes de communication on a beaucoup partagé sur les réseaux de chaque association et là l’impact est énorme. Personnellement j’ai pris une après-midi pour aller contacter chaque personne qui devait participer, leur expliquer la démarche et les inviter à se mobiliser, cela représente beaucoup de travail. Je pense que le succès du projet vient de l’équipe qui l’a porté. On a aussi fait une </span><a href="http://ope2017.org/topic/57b89310c297d811005ef1dd" style="font-size: 1rem; background-color: rgb(255, 255, 255);">Foire Aux Questions</a><span style="font-size: 1rem;"> pour aider les gens à se servir de la plateforme, mais je trouve que le logiciel est assez intuitif de base.</span>
 
-![](img/medias/FAQ.PNG)
+![](/img/medias/FAQ.PNG)
 
 La Foire aux Questions ouverte sur Opé2017
 
@@ -100,7 +100,7 @@ La Foire aux Questions ouverte sur Opé2017
 
 * **Comment avez-vous choisi de présenter les résultats aux citoyen-ne-s ?**
 
-![](img/medias/synth%C3%A8se-2.PNG)
+![](/img/medias/synth%C3%A8se-2.PNG)
 
 <span style="font-size: 1rem;">EM :&nbsp;</span><span style="font-size: 1rem;">Toute la consultation a été résumée dans une </span><a href="http://www.halteobsolescence.org/wp-content/uploads/2017/03/synthese-ope2017-v2.pdf" style="font-size: 1rem; background-color: rgb(255, 255, 255);">synthèse</a><span style="font-size: 1rem;"> : on a extrait tous les avis point par point et on les a problématisés pour rendre le contenu lisible et dynamique. Elle a été envoyée personnellement à chaque personne s’étant impliquée sur la consultation et on l’a diffusée. On a essayé d’être assez transparents </span><a href="http://ope2017.org/topic/57b89310c297d811005ef1dd" style="font-size: 1rem; background-color: rgb(255, 255, 255);">en laissant la consultation ouverte</a><span style="font-size: 1rem;"> pour que chacun puisse vérifier toutes les propositions qui ont été faites. Je trouvais intéressant de laisser la consultation accessible pour des étudiants qui en auraient besoin, c’est un matériel intéressant pour un mémoire par exemple.</span>
 
