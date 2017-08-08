@@ -9,6 +9,9 @@ hero: img/medias/Banner-1.png
 lang: fr
 layout: post
 tags:
+- Agence du Numérique
+- Cas d'usages
+- Iinterview
 - presse
 title: 'Focus sur les cas d''usages : la consultation de l''Agence du Numérique'
 ---
