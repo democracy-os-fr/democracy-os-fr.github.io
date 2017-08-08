@@ -46,11 +46,9 @@ Aujourd'hui nous recevons les réponses d'Orianne Ledroit directrice [du pôle S
 
 * il était rendu disponible aux administrations dans le cadre de [l’OGP Toolbox](https://ogptoolbox.org/fr/) initiée par ETALAB (nous avons d’ailleurs été la première administration a utiliser un outil de l’OGP Toolbox pour faire une concertation en ligne)
 
-![](/img/medias/OGP%20toolbox.PNG)
+![](/img/medias/ETALBTOOL.png)
 
-[L'OGPtoolbox ](https://ogptoolbox.org/fr/): la boîte à outil des solutions numériques pour la démocratie
-
-OL :
+<span style="font-size: 1rem;">OL :</span>
 
 * c’est un outil qui correspondait à nos besoins, qui était facile d’utilisation et que nous maîtrisions au sein de l’équipe (Pierre-Louis qui travaille dans le pôle l’avait déjà expérimenté dans ses précédentes fonctions à la mairie de [Nanterre](https://participez.nanterre.fr/)).
 
@@ -167,6 +165,8 @@ OL : Le mouvement est divers et hétérogène (sur les principes, sur les valeur
 ![](/img/medias/cifras.png)
 
 Avant de penser civictech, il faut penser collectivement des réponses aux besoins d’accompagnement au numérique de la population française et travailler à favoriser l’appropriation du numérique par tous. C’est ce sur quoi nous travaillons au sein du pôle Société Numérique ; notamment en œuvrant à fédérer toutes les initiatives publiques et privées autour d’une coopérative d’intérêt collectif nationale - [La Mednum ](www.lamednum.coop) - en cours de création et dans laquelle certains acteurs de la civictech se sont déjà engagés.
+
+![](/img/medias/logo_principal_transp.png)
 
 *Un grand merci à Orianne pour ses retours ! *
 
