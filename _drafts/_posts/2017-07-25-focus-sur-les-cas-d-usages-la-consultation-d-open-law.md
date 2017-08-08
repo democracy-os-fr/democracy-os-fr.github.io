@@ -56,7 +56,15 @@ OL :
 
 * **Les valeurs (transparence, ouverture) affirmées par DemocracyOS ont-elles influencé votre choix ?**
 
-En tant qu’administration, nous considérons qu’il est impératif d’être exemplaire en la matière. Nous n’aurions pas choisi de logiciel non open source. Non seulement l’article 16 de la Loi pour une République Numérique encourage les administrations à recourir aux logiciels libres, mais la France s’est aussi engagée, par souci de transparence, à utiliser des logiciels libres dans ses démarches de gouvernement ouvert, à travers l’action collective 19 de la Déclaration de Paris signée par le Président de la République à l’issue du sommet PGO. Enfin, le Conseil d'orientation de l’édition publique et de l’information administrative (COEPIA), placé auprès du Premier Ministre, recommande l’utilisation de plateformes libres pour les consultations en ligne.
+<span style="font-size: 1rem;">OL : En tant qu'administration, nous considérions qu'il est impératif d'être exemplaire en la matière. Nous n’aurions pas choisi de logiciel non open source.</span>
+
+![](/img/medias/LegifranceArt16.PNG)
+
+_Source_: [www.legifrance.gouv.fr](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=1D39E1B6ECA8902C887B69DAF0717F93.tpdila11v_2?idArticle=JORFARTI000033203039&cidTexte=JORFTEXT000033202746&dateTexte=29990101&categorieLien=id)
+
+OL : Non seulement l’article 16 de la Loi pour une République Numérique encourage les administrations à recourir aux logiciels libres, mais la France s’est aussi engagée, par souci de transparence, à utiliser des logiciels libres dans ses démarches de gouvernement ouvert, à travers l’action collective 19 de [la Déclaration de Paris](https://fr.ogpsummit.org/app/uploads/2016/12/OGP-Summit_PARIS-DECLARATION_FR.pdf) signée par le Président de la République à l’issue du sommet OGP. Enfin, le Conseil d'orientation de l’édition publique et de l’information administrative (COEPIA), placé auprès du Premier Ministre, recommande l’utilisation de plateformes libres pour les consultations en ligne.
+
+![](/img/medias/Entantque.png)
 
 ### ***Le processus de consultation***
 
