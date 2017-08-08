@@ -1,16 +1,16 @@
 ---
-layout: post
-lang: fr
-hero: img/medias/z_democracy-1.png
+auteur: Juliet Evrard
+comments: true
 customclass: earlybird
-tags:
-- presse
+date: 2017-07-13 00:00:00 Z
 description_hero: Les débuts de DemocracyOS France
 extrait: L'interview d'Orianne Ledroit, cheffe du pôle Société Numérique
-auteur: ''
-comments: true
+hero: img/medias/Banner-1.png
+lang: fr
+layout: post
+tags:
+- presse
 title: 'Focus sur les cas d''usages : la consultation de l''Agence du Numérique'
-date: 2017-07-13 00:00:00 Z
 ---
 
 
@@ -24,25 +24,35 @@ Dans le cadre de la mise en lumière de nos cas d'usages, nous avons interviewé
 
 Aujourd'hui nous recevons les réponses d'Orianne Ledroit directrice [du pôle Société Numérique de l'Agence du Numérique](http://agencedunumerique.gouv.fr/programme-societe-numerique/) - une agence incorporée à l'intérieur du ministère de l'économie - qui a lancé [une consultation DemocracyOS](https://article69.agencedunumerique.gouv.fr/).
 
-### _**Présentation du projet**_
+### ***Présentation du projet***
 
 <span style="font-size: 1rem;">Orianne Ledroit : Je suis cheffe du pôle Société Numérique, au sein de l’Agence du Numérique, dont l’ambition est de collaborer à faire émerger une société numérique innovante et inclusive.</span>
 
 * **Dans quel cadre avez-vous souhaité concerté les citoyens et citoyennes? Pourquoi avez-vous lancé une consultation ?**
 
-<span style="font-size: 1rem;">OL : Nous avons lancé une concertation ouverte pour co-élaborer avec toutes les parties prenantes (collectivités locales, acteurs de la littératie numérique, communautés et activistes, entreprises, etc.) une plateforme boite à outils utile à la construction de stratégies numériques locales. Nous avons lancé cette concertation dans un double objectif : sur le fond, il s’agissait pour construire une vraie boite à outils opérationnelle d’engager une dynamique collective de co-construction en faisant émerger des idées et des bonnes pratiques. Sur la forme, il s’agissait aussi d’attirer l’attention des acteurs et écosystèmes locaux sur le sujet des stratégies numériques de territoire, sur leur importance et sur l’exigence de penser l’accompagnement aux usages numériques.</span>
+<span style="font-size: 1rem;">OL : Nous avons lancé une concertation ouverte pour co-élaborer avec toutes les parties prenantes (collectivités locales, acteurs de la littératie numérique, communautés et activistes, entreprises, etc.) une plateforme boite à outils utile à la construction de stratégies numériques locales.&nbsp;</span>
+
+![](/img/medias/concertation%20pourquoi%20,-1.png)
+
+<span style="font-size: 1rem;">OL : Nous avons lancé cette concertation dans un double objectif : sur le fond, il s’agissait pour construire une vraie boite à outils opérationnelle d’engager une dynamique collective de co-construction en faisant émerger des idées et des bonnes pratiques. Sur la forme, il s’agissait aussi d’attirer l’attention des acteurs et écosystèmes locaux sur le sujet des stratégies numériques de territoire, sur leur importance et sur l’exigence de penser l’accompagnement aux usages numériques.</span>
 
 <span style="font-size: 1rem;">La concertation s’adressait à toutes les structures et collectivités territoriales qui interviennent et, ou, peuvent intervenir dans l’élaboration et la mise en œuvre de stratégies numériques locales.</span>
 
-* **Comment avez-vous connu DemocracyOS ?**
+* **Pourquoi avoir choisi DemocracyOS ?**
 
-<span style="font-size: 1rem;">Les raisons du choix de DemocracyOS sont simples :</span>
+<span style="font-size: 1rem;">OL : Les raisons du choix de DemocracyOS sont simples :</span>
 
-- c’est un outil open source, ce qui était pour nous une exigence impérative.
+* c’est un outil open source, ce qui était pour nous une exigence impérative.
 
-- il était rendu disponible aux administrations dans le cadre de l’OGP Toolbox initiée par ETALAB (nous avons d’ailleurs été la première administration a utiliser un outil de l’OGP Toolbox pour faire une concertation en ligne)
+* il était rendu disponible aux administrations dans le cadre de [l’OGP Toolbox](https://ogptoolbox.org/fr/) initiée par ETALAB (nous avons d’ailleurs été la première administration a utiliser un outil de l’OGP Toolbox pour faire une concertation en ligne)
 
-- c’est un outil qui correspondait à nos besoins, qui était facile d’utilisation et que nous maitrisions au sein de l’équipe (Pierre-Louis qui travaille dans le pôle l’avait déjà expérimenté dans ses précédentes fonctions à la mairie de Nanterre).
+![](/img/medias/OGP%20toolbox.PNG)
+
+[L'OGPtoolbox ](https://ogptoolbox.org/fr/): la boîte à outil des solutions numériques pour la démocratie
+
+OL :
+
+* c’est un outil qui correspondait à nos besoins, qui était facile d’utilisation et que nous maîtrisions au sein de l’équipe (Pierre-Louis qui travaille dans le pôle l’avait déjà expérimenté dans ses précédentes fonctions à la mairie de [Nanterre](https://participez.nanterre.fr/)).
 
 * **Les valeurs (transparence, ouverture) affirmées par DemocracyOS ont-elles influencé votre choix ?**
 
@@ -102,7 +112,7 @@ Nous avons aussi réalisé [une cartographie des contributions institutionnelles
 
 La presse a aussi relayé notre concertation (suite à la publication d’un communiqué de presse au lancement de la concertation et suite à la diffusion  de la synthèse en aval).
 
-* **Quels enseignements et bonnes pratiques avez-vous tirés de cette consultation ?**
+* **Etes vous satisfaite de DemocracyOS et avez-vous des propositions pour l'améliorer ?**
 
 <span style="font-size: 1rem;">OL : Nous pourrions réutiliser l’outil pour une concertation future.</span>
 
@@ -118,11 +128,11 @@ Quelques suggestions :
 
 * **Quel est votre point de vue sur le mouvement des « civic tech » ? Pensez-vous que les démarches de participation en ligne vont se généraliser ?**
 
-OL : Le mouvement est divers et hétérogène (sur les principes, sur les valeurs, sur les modèles). Il traduit une envie de renouvellement démocratique, ce qui est positif. Il se limite encore trop à une « élite urbaine hyper intégrée ». Au sein de l’Agence du Numérique, nous étudions ces phénomènes avec la plus grande attention. Nous avons d’ailleurs financé une enquête intitulée #Capacity qui vise à confronter les promesses de l’empowerment par le numérique avec la réalité des usages et bénéfices tirés par les Français.
-
-http://laboratoire.agencedunumerique.gouv.fr/2017/03/23/premiers-resultats-capacity/
+OL : Le mouvement est divers et hétérogène (sur les principes, sur les valeurs, sur les modèles). Il traduit une envie de renouvellement démocratique, ce qui est positif. Il se limite encore trop à une « élite urbaine hyper intégrée ». Au sein de l’Agence du Numérique, nous étudions ces phénomènes avec la plus grande attention. Nous avons d’ailleurs financé une enquête intitulée[ #Capacity](http://laboratoire.agencedunumerique.gouv.fr/2017/03/23/premiers-resultats-capacity/) qui vise à confronter les promesses de l’empowerment par le numérique avec la réalité des usages et bénéfices tirés par les Français.
 
 91% des Français ne considèrent pas Internet comme un outil pour s’engager politiquement. Par ailleurs, près de 20% des Français ne sont pas à l’aise avec Internet aujourd’hui.
 
 Avant de penser civictech, il faut penser collectivement des réponses aux besoins d’accompagnement au numérique de la population française et travailler à favoriser l’appropriation du numérique par tous. C’est ce sur quoi nous travaillons au sein du pôle Société Numérique ; notamment en œuvrant à fédérer toutes les initiatives publiques et privées autour d’une coopérative d’intérêt collectif nationale - [La Mednum ](www.lamednum.coop) - en cours de création et dans laquelle certains acteurs de la civictech se sont déjà engagés.
+
+*Un grand merci à Orianne pour ses retours ! *
 
