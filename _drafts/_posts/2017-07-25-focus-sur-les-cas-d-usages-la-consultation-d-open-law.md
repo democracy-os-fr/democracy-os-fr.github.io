@@ -60,7 +60,7 @@ OL :
 
 ![](/img/medias/LegifranceArt16.PNG)
 
-_Source_: [www.legifrance.gouv.fr](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=1D39E1B6ECA8902C887B69DAF0717F93.tpdila11v_2?idArticle=JORFARTI000033203039&cidTexte=JORFTEXT000033202746&dateTexte=29990101&categorieLien=id)
+*Source*: [www.legifrance.gouv.fr](https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=1D39E1B6ECA8902C887B69DAF0717F93.tpdila11v_2?idArticle=JORFARTI000033203039&cidTexte=JORFTEXT000033202746&dateTexte=29990101&categorieLien=id)
 
 OL : Non seulement l’article 16 de la Loi pour une République Numérique encourage les administrations à recourir aux logiciels libres, mais la France s’est aussi engagée, par souci de transparence, à utiliser des logiciels libres dans ses démarches de gouvernement ouvert, à travers l’action collective 19 de [la Déclaration de Paris](https://fr.ogpsummit.org/app/uploads/2016/12/OGP-Summit_PARIS-DECLARATION_FR.pdf) signée par le Président de la République à l’issue du sommet OGP. Enfin, le Conseil d'orientation de l’édition publique et de l’information administrative (COEPIA), placé auprès du Premier Ministre, recommande l’utilisation de plateformes libres pour les consultations en ligne.
 
@@ -72,19 +72,37 @@ OL : Non seulement l’article 16 de la Loi pour une République Numérique enco
 
 <span style="font-size: 1rem;">OL : La concertation a été ouverte du 8 février au 24 mars 2017. Nous l’avons clôturée au début de la période de réserve électorale.</span>
 
+![](/img/medias/calendar.png)
+
+<span style="font-size: 1rem;"><br></span>
+
 * **Certains sujets ont-ils mobilisé plus largement ?**
 
-<span style="font-size: 1rem;">OL : Oui, certains des sujets furent plus traités que d’autres notamment celui de l’élaboration des stratégies d’accompagnement au numérique (de médiation numérique) qui recouvrent les actions locales mises en oeuvre pour favoriser l’appropriation du numérique par tous les habitants. Cette thématique a reçu 36 contributions et a été traitée dans 11 ateliers. La médiation numérique est un des sujets historiques sur lequel travaille le pôle Société Numérique. Nos partenaires ont donc été nombreux à se mobiliser : cette concertation offrait une fenêtre d’opportunité pour valoriser des expériences réussies et faire émerger des idées collectives. La thématique qui visait à établir une méthodologie pour mettre en place un diagnostic numérique du territoire a également été beaucoup traitée, notamment car c’est une vraie demande des territoires de pouvoir examiner les forces en présence et identifier les besoins en matière d’usages et services numériques.</span>
+<span style="font-size: 1rem;">OL : Oui, certains des sujets furent plus traités que d’autres notamment celui de<a href="https://article69.agencedunumerique.gouv.fr/topic/58933951b66d187c797e51f7"> l’élaboration des stratégies d’accompagnement au numérique (de médiation numérique)</a> qui recouvrent les actions locales mises en oeuvre pour favoriser l’appropriation du numérique par tous les habitants. Cette thématique a reçu 36 contributions et a été traitée dans 11 ateliers. La médiation numérique est un des sujets historiques sur lequel travaille le pôle Société Numérique. Nos partenaires ont donc été nombreux à se mobiliser : cette concertation offrait une fenêtre d’opportunité pour valoriser des expériences réussies et faire émerger des idées collectives. La thématique qui visait à établir une méthodologie pour mettre en place un diagnostic numérique du territoire a également été beaucoup traitée, notamment car c’est une vraie demande des territoires de pouvoir examiner les forces en présence et identifier les besoins en matière d’usages et services numériques.</span>
+
+<span style="font-size: 1rem;"><br></span>
+
+![](/img/medias/mediation.PNG)
+
+<span style="font-size: 1rem;"><br></span>
 
 * **Dans quelle mesure les utilisatrices et les utilisateurs se sont-il-elle-s approprié-e-s la consultation ?**
 
-<span style="font-size: 1rem;">OL : Près de 300 personnes se sont inscrites sur la plateforme. 200 contributions ont été déposées. Près de 300 citoyens et experts ont été mobilisés lors de 26 ateliers organisés dans les territoires (métropole et outre-mer). Nous avions pour ces ateliers fourni un kit méthodologique pour organiser une session collective de travail.</span>
+<span style="font-size: 1rem;">OL : Près de 300 personnes se sont inscrites sur la plateforme. 200 contributions ont été déposées. Près de 300 citoyens et experts ont été mobilisés lors de 26 ateliers organisés dans les territoires (métropole et outre-mer). Nous avions pour ces ateliers fourni <a href="http://agencedunumerique.gouv.fr/wp-content/uploads/2017/02/guidemethodo.pdf">un kit méthodologique</a> pour organiser une session collective de travail.</span>
+
+<span style="font-size: 1rem;"><br></span>
+
+![](/img/medias/merci.png)
 
 * **Quelles fonctionnalités de DemocracyOS ont été principalement utilisées ? Lesquelles vous semblent les plus pertinentes ?**
 
 OL : <span style="font-size: 1rem;">Les contributions collectives sont intéressantes car elles permettent d’animer localement et physiquement des temps de travail qui aboutissent à une contribution en ligne.</span>
 
-Les commentaires sont aussi une fonctionnalité intéressante puisqu’ils permettent de créer de l’interaction et donc de l’intelligence collective dans le débat.
+![](/img/medias/cri.PNG)
+
+<span style="font-size: 1rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">Exemple de contribution collective sur la consultation</span>
+
+OL : Les commentaires sont aussi une fonctionnalité intéressante puisqu’elle permet de créer de l’interaction et donc de l’intelligence collective dans le débat.
 
 <span style="font-size: 1rem;">La fonctionnalité de vote est utile pour les personnes intéressées par la démarche, qui lisent les contributions mais ne souhaitent/peuvent pas commenter. C’est une manière rapide de contribuer et de faire savoir son intérêt.</span>
 
@@ -96,7 +114,11 @@ Enfin, le classement des contributions par ordre d’adhésion permet aussi de m
 
 Nous avons rendu disponible [un kit méthodologique](http://agencedunumerique.gouv.fr/wp-content/uploads/2017/02/guidemethodo.pdf) permettant à toute personne de réaliser un atelier collectif sur la concertation en ligne.
 
-<span style="font-size: 1rem;">Nous avons par ailleurs dès le début affiché, en transparence, <a href="http://agencedunumerique.gouv.fr/programme-societe-numerique/">la timeline de réalisation du projet de plateforme</a>.&nbsp;</span>
+<span style="font-size: 1rem;">Nous avons par ailleurs dès le début affiché, en transparence, </span><a href="http://agencedunumerique.gouv.fr/programme-societe-numerique/" style="font-size: 1rem; background-color: rgb(255, 255, 255);">la timeline de réalisation du projet de plateforme</a><span style="font-size: 1rem;">.&nbsp;</span>
+
+<span style="font-size: 1rem;"><br></span>
+
+![](/img/medias/timelinesite.png)
 
 ### <span style="font-size: 1rem;"><b><i>L’après consultation</i></b></span>
 
@@ -108,8 +130,6 @@ OL : Nous avons eu de nombreuses contributions et identifié des expertises et b
 
 ### ***Quelles sont les prochaines étapes ?***
 
-* **Si vous en lancez une autre consultation, que pourriez-vous améliorer ?**
-
 OL : Nous travaillons à rendre ce travail collectif dynamique.  Nous réfléchissons par exemple à organiser des ateliers de manière hebdomadaire, afin de rendre la participation plus simple, plus accessible et moins institutionnelle. L’été va nous permettre d’affiner notre feuille de route et d’envisager plus concrètement l’élaboration de la plateforme boite à outils.
 
 * **Comment avez-vous choisi de présenter les résultats aux citoyen-ne-s ?**
@@ -117,6 +137,8 @@ OL : Nous travaillons à rendre ce travail collectif dynamique.  Nous réfléchi
 <span style="font-size: 1rem;">OL : Nous avons publié <a href="http://agencedunumerique.gouv.fr/wp-content/uploads/2016/10/Synthe%CC%80se_Article69.pdf">une synthèse des contributions</a> sur notre site et l’avons diffusée à tous les contributeurs.</span>
 
 Nous avons aussi réalisé [une cartographie des contributions institutionnelles et ateliers](http://umap.openstreetmap.fr/fr/map/territoire-numerique-contributions-institutionnell_142178#6/47.167/6.042) et mis les données sur [data.gouv.fr](http://www.data.gouv.fr/fr/).
+
+![](/img/medias/carte-contributions.png)
 
 La presse a aussi relayé notre concertation (suite à la publication d’un communiqué de presse au lancement de la concertation et suite à la diffusion  de la synthèse en aval).
 
@@ -138,7 +160,11 @@ Quelques suggestions :
 
 OL : Le mouvement est divers et hétérogène (sur les principes, sur les valeurs, sur les modèles). Il traduit une envie de renouvellement démocratique, ce qui est positif. Il se limite encore trop à une « élite urbaine hyper intégrée ». Au sein de l’Agence du Numérique, nous étudions ces phénomènes avec la plus grande attention. Nous avons d’ailleurs financé une enquête intitulée[ #Capacity](http://laboratoire.agencedunumerique.gouv.fr/2017/03/23/premiers-resultats-capacity/) qui vise à confronter les promesses de l’empowerment par le numérique avec la réalité des usages et bénéfices tirés par les Français.
 
+![](/img/medias/capacity2.PNG)
+
 91% des Français ne considèrent pas Internet comme un outil pour s’engager politiquement. Par ailleurs, près de 20% des Français ne sont pas à l’aise avec Internet aujourd’hui.
+
+![](/img/medias/cifras.png)
 
 Avant de penser civictech, il faut penser collectivement des réponses aux besoins d’accompagnement au numérique de la population française et travailler à favoriser l’appropriation du numérique par tous. C’est ce sur quoi nous travaillons au sein du pôle Société Numérique ; notamment en œuvrant à fédérer toutes les initiatives publiques et privées autour d’une coopérative d’intérêt collectif nationale - [La Mednum ](www.lamednum.coop) - en cours de création et dans laquelle certains acteurs de la civictech se sont déjà engagés.
 
