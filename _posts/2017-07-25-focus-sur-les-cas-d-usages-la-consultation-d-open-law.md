@@ -2,7 +2,7 @@
 auteur: Juliet Evrard
 comments: true
 customclass: earlybird
-date: 2017-07-13 00:00:00 Z
+date: 2017-07-13 00:00:00 +0000
 description_hero: Les débuts de DemocracyOS France
 extrait: L'interview d'Orianne Ledroit, cheffe du pôle Société Numérique
 hero: img/medias/Banner-1.png
