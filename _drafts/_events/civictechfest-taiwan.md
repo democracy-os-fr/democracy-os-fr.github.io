@@ -1,5 +1,5 @@
 ---
-end_date: 2016-10-19 00:00:00 +0000
+end_date: 2017-09-15 02:00:00 +0200
 type_evenement: ''
 visuel: img/medias/DFRT0PoXcAAMQzT.jpg-large
 event_background_color: ''
@@ -10,7 +10,7 @@ description: '"Civic Tech Fest" is Asia''s first ever civic technology festival 
 texte_bouton: Page du projet
 event_link: http://civictechfest.org/
 title: "#CivicTechFest @Taiwan"
-date: 2017-09-03 00:00:00 +0000
+date: 2017-09-10 18:21:48 +0200
 layout: realisations
 place: ''
 ---
