@@ -29,7 +29,7 @@ Aujourd'hui nous recevons les réponses d'Orianne Ledroit directrice [du pôle S
 
 ### ***Présentation du projet***
 
-<span style="font-size: 1rem;">Orianne Ledroit : Je suis cheffe du pôle Société Numérique, au sein de l’Agence du Numérique, dont l’ambition est de collaborer à faire émerger une société numérique innovante et inclusive.</span>
+Orianne Ledroit : Je suis cheffe du pôle Société Numérique, au sein de l’Agence du Numérique, dont l’ambition est de collaborer à faire émerger une société numérique innovante et inclusive.
 
 * **Dans quel cadre avez-vous souhaité concerté les citoyens et citoyennes? Pourquoi avez-vous lancé une consultation ?**
 
@@ -172,4 +172,3 @@ Avant de penser civictech, il faut penser collectivement des réponses aux besoi
 ![](/img/medias/logo_principal_transp.png)
 
 *Un grand merci à Orianne pour ses retours ! *
-
