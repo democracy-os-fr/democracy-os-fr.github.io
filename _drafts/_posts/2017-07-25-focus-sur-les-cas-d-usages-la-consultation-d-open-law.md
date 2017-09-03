@@ -33,17 +33,17 @@ Orianne Ledroit : Je suis cheffe du pôle Société Numérique, au sein de l’A
 
 * **Dans quel cadre avez-vous souhaité concerté les citoyens et citoyennes? Pourquoi avez-vous lancé une consultation ?**
 
-<span style="font-size: 1rem;">OL : Nous avons lancé une concertation ouverte pour co-élaborer avec toutes les parties prenantes (collectivités locales, acteurs de la littératie numérique, communautés et activistes, entreprises, etc.) une plateforme boite à outils utile à la construction de stratégies numériques locales.&nbsp;</span>
+OL : Nous avons lancé une concertation ouverte pour co-élaborer avec toutes les parties prenantes (collectivités locales, acteurs de la littératie numérique, communautés et activistes, entreprises, etc.) une plateforme boite à outils utile à la construction de stratégies numériques locales.
 
 ![](/img/medias/concertation%20pourquoi%20,-1.png)
 
-<span style="font-size: 1rem;">OL : Nous avons lancé cette concertation dans un double objectif : sur le fond, il s’agissait pour construire une vraie boite à outils opérationnelle d’engager une dynamique collective de co-construction en faisant émerger des idées et des bonnes pratiques. Sur la forme, il s’agissait aussi d’attirer l’attention des acteurs et écosystèmes locaux sur le sujet des stratégies numériques de territoire, sur leur importance et sur l’exigence de penser l’accompagnement aux usages numériques.</span>
+OL : Nous avons lancé cette concertation dans un double objectif : sur le fond, il s’agissait pour construire une vraie boite à outils opérationnelle d’engager une dynamique collective de co-construction en faisant émerger des idées et des bonnes pratiques. Sur la forme, il s’agissait aussi d’attirer l’attention des acteurs et écosystèmes locaux sur le sujet des stratégies numériques de territoire, sur leur importance et sur l’exigence de penser l’accompagnement aux usages numériques.
 
-<span style="font-size: 1rem;">La concertation s’adressait à toutes les structures et collectivités territoriales qui interviennent et, ou, peuvent intervenir dans l’élaboration et la mise en œuvre de stratégies numériques locales.</span>
+La concertation s’adressait à toutes les structures et collectivités territoriales qui interviennent et, ou, peuvent intervenir dans l’élaboration et la mise en œuvre de stratégies numériques locales.
 
 * **Pourquoi avoir choisi DemocracyOS ?**
 
-<span style="font-size: 1rem;">OL : Les raisons du choix de DemocracyOS sont simples :</span>
+OL : Les raisons du choix de DemocracyOS sont simples :
 
 * c’est un outil open source, ce qui était pour nous une exigence impérative.
 
@@ -57,7 +57,7 @@ Orianne Ledroit : Je suis cheffe du pôle Société Numérique, au sein de l’A
 
 * **Les valeurs (transparence, ouverture) affirmées par DemocracyOS ont-elles influencé votre choix ?**
 
-<span style="font-size: 1rem;">OL : En tant qu'administration, nous considérions qu'il est impératif d'être exemplaire en la matière. Nous n’aurions pas choisi de logiciel non open source.</span>
+OL : En tant qu'administration, nous considérions qu'il est impératif d'être exemplaire en la matière. Nous n’aurions pas choisi de logiciel non open source.
 
 ![](/img/medias/LegifranceArt16.PNG)
 
@@ -71,7 +71,7 @@ OL : Non seulement l’article 16 de la Loi pour une République Numérique enco
 
 * **Quelle a été la temporalité de la consultation ?**
 
-<span style="font-size: 1rem;">OL : La concertation a été ouverte du 8 février au 24 mars 2017. Nous l’avons clôturée au début de la période de réserve électorale.</span>
+OL : La concertation a été ouverte du 8 février au 24 mars 2017. Nous l’avons clôturée au début de la période de réserve électorale.
 
 ![](/img/medias/calendar.png)
 
@@ -79,7 +79,7 @@ OL : Non seulement l’article 16 de la Loi pour une République Numérique enco
 
 * **Certains sujets ont-ils mobilisé plus largement ?**
 
-<span style="font-size: 1rem;">OL : Oui, certains des sujets furent plus traités que d’autres notamment celui de<a href="https://article69.agencedunumerique.gouv.fr/topic/58933951b66d187c797e51f7"> l’élaboration des stratégies d’accompagnement au numérique (de médiation numérique)</a> qui recouvrent les actions locales mises en oeuvre pour favoriser l’appropriation du numérique par tous les habitants. Cette thématique a reçu 36 contributions et a été traitée dans 11 ateliers. La médiation numérique est un des sujets historiques sur lequel travaille le pôle Société Numérique. Nos partenaires ont donc été nombreux à se mobiliser : cette concertation offrait une fenêtre d’opportunité pour valoriser des expériences réussies et faire émerger des idées collectives. La thématique qui visait à établir une méthodologie pour mettre en place un diagnostic numérique du territoire a également été beaucoup traitée, notamment car c’est une vraie demande des territoires de pouvoir examiner les forces en présence et identifier les besoins en matière d’usages et services numériques.</span>
+OL : Oui, certains des sujets furent plus traités que d’autres notamment celui de l’élaboration des stratégies d’accompagnement au numérique (de médiation numérique) qui recouvrent les actions locales mises en oeuvre pour favoriser l’appropriation du numérique par tous les habitants. Cette thématique a reçu 36 contributions et a été traitée dans 11 ateliers. La médiation numérique est un des sujets historiques sur lequel travaille le pôle Société Numérique. Nos partenaires ont donc été nombreux à se mobiliser : cette concertation offrait une fenêtre d’opportunité pour valoriser des expériences réussies et faire émerger des idées collectives. La thématique qui visait à établir une méthodologie pour mettre en place un diagnostic numérique du territoire a également été beaucoup traitée, notamment car c’est une vraie demande des territoires de pouvoir examiner les forces en présence et identifier les besoins en matière d’usages et services numériques.
 
 <span style="font-size: 1rem;"><br></span>
 
@@ -89,7 +89,7 @@ OL : Non seulement l’article 16 de la Loi pour une République Numérique enco
 
 * **Dans quelle mesure les utilisatrices et les utilisateurs se sont-il-elle-s approprié-e-s la consultation ?**
 
-<span style="font-size: 1rem;">OL : Près de 300 personnes se sont inscrites sur la plateforme. 200 contributions ont été déposées. Près de 300 citoyens et experts ont été mobilisés lors de 26 ateliers organisés dans les territoires (métropole et outre-mer). Nous avions pour ces ateliers fourni <a href="http://agencedunumerique.gouv.fr/wp-content/uploads/2017/02/guidemethodo.pdf">un kit méthodologique</a> pour organiser une session collective de travail.</span>
+OL : Près de 300 personnes se sont inscrites sur la plateforme. 200 contributions ont été déposées. Près de 300 citoyens et experts ont été mobilisés lors de 26 ateliers organisés dans les territoires (métropole et outre-mer). Nous avions pour ces ateliers fourni un kit méthodologique pour organiser une session collective de travail.
 
 <span style="font-size: 1rem;"><br></span>
 
@@ -97,21 +97,21 @@ OL : Non seulement l’article 16 de la Loi pour une République Numérique enco
 
 * **Quelles fonctionnalités de DemocracyOS ont été principalement utilisées ? Lesquelles vous semblent les plus pertinentes ?**
 
-OL : <span style="font-size: 1rem;">Les contributions collectives sont intéressantes car elles permettent d’animer localement et physiquement des temps de travail qui aboutissent à une contribution en ligne.</span>
+OL : Les contributions collectives sont intéressantes car elles permettent d’animer localement et physiquement des temps de travail qui aboutissent à une contribution en ligne.<span style="font-size: 1rem;">Exemple de contribution collective sur la consultation</span>
 
 ![](/img/medias/cri.PNG)
 
-<span style="font-size: 1rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">Exemple de contribution collective sur la consultation</span>
+<span style="font-size: 1rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Exemple de contribution collective sur la consultation</span>
 
-OL : Les commentaires sont aussi une fonctionnalité intéressante puisqu’elle permet de créer de l’interaction et donc de l’intelligence collective dans le débat.
+<span style="font-size: 1rem;">OL : Les commentaires sont aussi une fonctionnalité intéressante puisqu’elle permet de créer de l’interaction et donc de l’intelligence collective dans le débat.</span>
 
-<span style="font-size: 1rem;">La fonctionnalité de vote est utile pour les personnes intéressées par la démarche, qui lisent les contributions mais ne souhaitent/peuvent pas commenter. C’est une manière rapide de contribuer et de faire savoir son intérêt.</span>
+La fonctionnalité de vote est utile pour les personnes intéressées par la démarche, qui lisent les contributions mais ne souhaitent/peuvent pas commenter. C’est une manière rapide de contribuer et de faire savoir son intérêt.
 
 Enfin, le classement des contributions par ordre d’adhésion permet aussi de mettre facilement en lumière les suggestions les plus appréciées.
 
 * **Avez-vous adopté une méthodologie particulière pour mener à bien la consultation ?**
 
-<span style="font-size: 1rem;">OL : Nous avons organisé la communication de la concertation en temps réel afin de valoriser les contributions déposées et les thématiques soumises à débat. Nous utilisions essentiellement des mailings pour solliciter l’ensemble de nos partenaires, de manière régulière (une fois par semaine) ainsi que les réseaux sociaux de l’Agence pour mettre en lumière certaines contributions les plus appréciées ou les plus « polémiques » et faire réagir.</span>
+OL : Nous avons organisé la communication de la concertation en temps réel afin de valoriser les contributions déposées et les thématiques soumises à débat. Nous utilisions essentiellement des mailings pour solliciter l’ensemble de nos partenaires, de manière régulière (une fois par semaine) ainsi que les réseaux sociaux de l’Agence pour mettre en lumière certaines contributions les plus appréciées ou les plus « polémiques » et faire réagir.
 
 Nous avons rendu disponible [un kit méthodologique](http://agencedunumerique.gouv.fr/wp-content/uploads/2017/02/guidemethodo.pdf) permettant à toute personne de réaliser un atelier collectif sur la concertation en ligne.
 
@@ -121,9 +121,7 @@ Nous avons rendu disponible [un kit méthodologique](http://agencedunumerique.go
 
 ![](/img/medias/timelinesite.png)
 
-### <span style="font-size: 1rem;"><b><i>L’après consultation</i></b></span>
-
-<span style="font-size: 1rem;"><b><i><br></i></b></span>
+### ***L’après consultation ***
 
 * **Quel est le bilan (provisoire) de cette consultation par rapport à votre projet ? Quelles actions concrètes allez-vous mettre en place à l’issue de celle-ci ?**
 
@@ -135,7 +133,7 @@ OL : Nous travaillons à rendre ce travail collectif dynamique.  Nous réfléchi
 
 * **Comment avez-vous choisi de présenter les résultats aux citoyen-ne-s ?**
 
-<span style="font-size: 1rem;">OL : Nous avons publié <a href="http://agencedunumerique.gouv.fr/wp-content/uploads/2016/10/Synthe%CC%80se_Article69.pdf">une synthèse des contributions</a> sur notre site et l’avons diffusée à tous les contributeurs.</span>
+OL : Nous avons publié une [synthèse des contributions](http://agencedunumerique.gouv.fr/wp-content/uploads/2016/10/Synthe%CC%80se_Article69.pdf) sur notre site et l’avons diffusée à tous les contributeurs.
 
 Nous avons aussi réalisé [une cartographie des contributions institutionnelles et ateliers](http://umap.openstreetmap.fr/fr/map/territoire-numerique-contributions-institutionnell_142178#6/47.167/6.042) et mis les données sur [data.gouv.fr](http://www.data.gouv.fr/fr/).
 
@@ -147,7 +145,7 @@ La presse a aussi relayé notre concertation (suite à la publication d’un com
 
 <span style="font-size: 1rem;">OL : Nous pourrions réutiliser l’outil pour une concertation future.</span>
 
-Quelques suggestions :
+<span style="font-size: 1rem;">Quelques suggestions :</span>
 
 •	disposer d’une visualisation des données (sous forme de dashboard)
 
