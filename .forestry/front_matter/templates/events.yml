@@ -1,0 +1,70 @@
+---
+pages:
+- _events/civictechfest-taiwan.md
+- _events/soiree-open-democracy-now-let-s-build-a-new-democracy-together.md
+- _events/on-y-etait-futur-en-seine.md
+- _events/european-thinking-day-w-e-democracy.md
+- _events/nuit-du-code-citoyen-open-democracy-now.md
+- _events/open-civil-society-night.md
+- _events/hackathon5.md
+- _events/budget.md
+hide_body: false
+fields:
+- name: title
+  default: ''
+  label: Titre
+  type: text
+  hidden: false
+- name: date
+  default: 2016-10-17 00:00:00 +0000
+  label: Date de début
+  type: datetime
+  hidden: false
+- name: end_date
+  default: 2016-10-19 00:00:00 +0000
+  label: Date de fin
+  type: datetime
+  hidden: false
+  description: Facultatif
+- name: type_evenement
+  default: ''
+  label: Type d'évenement
+  type: text
+  hidden: false
+  description: Actualité, événement, nouvelles, prochainement...
+- name: visuel
+  default: img/medias/event_pins.jpg
+  label: Visuel
+  type: file
+  hidden: false
+  description: Image de l'événement
+- name: place
+  default: ''
+  label: Localisation
+  type: text
+  hidden: false
+  description: Endroit de l'événement, facultatif
+- name: description
+  default: En collaboration avec Civicwise
+  label: Description
+  type: textarea
+  hidden: false
+  description: Expliquer brièvement l'événement
+- name: texte_bouton
+  default: Page du projet
+  label: Texte bouton
+  type: text
+  hidden: false
+  description: 'Le texte qui apparaît dans le bouton. Ex: "en savoir plus", "inscription",
+    "détails" ...'
+- name: event_link
+  default: ''
+  label: Lien url
+  type: text
+  hidden: false
+  description: Lien vers la page de l'événement, vers une page d'inscription par exemple.
+- name: layout
+  default: realisations
+  label: Layout
+  type: text
+  hidden: true

@@ -1,0 +1,64 @@
+---
+pages:
+- _members/virgile.md
+- _members/clemence.md
+- _members/estelle.md
+- _members/geoffroy.md
+- _members/helene.md
+- _members/juliet.md
+- _members/olivier.md
+- _members/angie.md
+- _members/sylvain.md
+- _members/clementine.md
+- _members/matthieu-chauzy.md
+- _members/cyprien.md
+- _members/laure-kassem.md
+- _members/caroline.md
+- _members/arthur.md
+- _members/camille.md
+- _members/clement.md
+- _members/louis.md
+- _members/alain.md
+- _members/valentin.md
+hide_body: false
+fields:
+- name: title
+  default: ''
+  label: Nom
+  type: text
+  hidden: false
+  description: Prénom Nom
+  config:
+    required: true
+- name: avatar
+  default: img/medias/member_caroline-corbal.jpg
+  label: Avatar
+  type: file
+  hidden: false
+  description: Image de profil
+- name: twitter_username
+  default: ''
+  label: Twitter
+  type: text
+  hidden: false
+  description: Nom d'utilisateur sur twitter (sans le @)
+- name: description
+  default: ''
+  label: Mini biographie
+  type: text
+  hidden: false
+- name: lang
+  default: fr
+  label: Lang
+  type: text
+  hidden: true
+- name: layout
+  default: auteur
+  label: Layout
+  type: text
+  hidden: true
+- name: date
+  default: 2016-10-25 00:00:00 +0000
+  label: Date
+  type: datetime
+  hidden: true

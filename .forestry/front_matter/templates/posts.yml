@@ -1,0 +1,77 @@
+---
+pages:
+- _posts/2017-07-25-focus-sur-les-cas-d-usages-la-consultation-d-open-law.md
+- _posts/2017-07-25-focus-sur-les-cas-d-usages-la-consultation-d-ope2017.md
+- _posts/2017-05-25-w-e-democracy-les-gouvernements-vont-ils-survivre-a-l-ere-digitale.md
+- _posts/2017-06-15-democracyos-france-what-s-on.md
+- _posts/2017-06-06-comment-participer-a-l-aventure-democracyos.md
+- _posts/2017-05-18-open-by-design.md
+- _posts/2017-04-27-stage-merge-democracyos-france-argentine.md
+- _posts/2016-12-05-le-gouvernement-ouvert-a-la-francaise-un-leurre.md
+- _posts/2016-11-27-quelles-garanties-pour-que-les-consultations-citoyennes-aient-des-finalites-democratiques.md
+- _posts/2016-11-07-democracyos-france-9-mois-apres-sa-creation.md
+- _posts/2015-04-22-DemocracyOS.md
+- _posts/2016-11-27-20-propositions-pour-des-conseils-de-quartier-2-0.md
+- _posts/2016-12-04-empowering-students-remporte-la-student-demo-cup.md
+- _posts/2015-04-28-fonctionnement-plateforme.md
+- _posts/2016-09-06-repnumerique.md
+hide_body: false
+fields:
+- name: title
+  default: ''
+  label: Titre
+  type: text
+  hidden: false
+- name: extrait
+  default: "."
+  label: Description / sous-titre
+  type: textarea
+  hidden: false
+- name: hero
+  default: img/medias/z_democracy-1.png
+  label: Image principale
+  type: file
+  hidden: false
+- name: auteur
+  default: ''
+  label: Auteur
+  type: text
+  hidden: false
+  description: 'Au format : Prénom Nom'
+- name: comments
+  default: true
+  label: Commentaires
+  type: boolean
+  hidden: false
+  description: Activer/désactiver le module de commentaires pour cet article
+- name: date
+  default: 2015-04-22 00:00:00 +0000
+  label: Date
+  type: datetime
+  hidden: false
+- name: tags
+  default:
+  - presse
+  label: Tags
+  type: list
+  hidden: false
+- name: layout
+  default: post
+  label: Layout
+  type: text
+  hidden: true
+- name: customclass
+  default: earlybird
+  label: Customclass
+  type: text
+  hidden: true
+- name: description_hero
+  default: Les débuts de DemocracyOS France
+  label: Description hero
+  type: textarea
+  hidden: true
+- name: lang
+  default: fr
+  label: Lang
+  type: text
+  hidden: true

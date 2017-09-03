@@ -1,0 +1,63 @@
+---
+pages:
+- _projets/nanterre.md
+- _projets/mavoix.md
+- _projets/colleges.md
+- _projets/le-projet-des-progressistes.md
+- _projets/ope-2017.md
+- _projets/mairie_paris.md
+- _projets/pour-un-gouvernement-ouvert.md
+- _projets/baumel.md
+- _projets/l-agence-du-numerique.md
+- _projets/opencop.md
+- _projets/open-law.md
+- _projets/la-ruche-saint-cloud.md
+- _projets/projet-loi-renseignement.md
+hide_body: false
+fields:
+- name: title
+  default: ''
+  label: Titre
+  type: text
+  hidden: false
+- name: description_fr
+  default: ''
+  label: Description fr
+  type: textarea
+  hidden: false
+  description: Description du projet en français
+- name: description_en
+  default: ''
+  label: Description en
+  type: textarea
+  hidden: false
+  description: Description du projet en anglais
+- name: visuel
+  default: img/medias/projet_pjlr-1.png
+  label: Visuel
+  type: file
+  hidden: false
+- name: background_color
+  default: ''
+  label: Couleur d'arrière plan
+  type: text
+  hidden: false
+  description: 'Au format hexadécimal, ex: #951546'
+  config:
+    required: true
+- name: link
+  default: ''
+  label: Lien
+  type: text
+  hidden: false
+  description: Lien vers le projet
+- name: date
+  default: 2016-10-20 15:13:00 +0000
+  label: Date
+  type: datetime
+  hidden: true
+- name: layout
+  default: 
+  label: Layout
+  type: text
+  hidden: true

@@ -1,0 +1,45 @@
+---
+pages:
+- _brands/makery.md
+- _brands/inrocks.md
+- _brands/coreight.md
+- _brands/acteurspublics.md
+- _brands/vingtminutes.md
+- _brands/lemonde.md
+- _brands/arte.md
+- _brands/paris-innovation-review.md
+- _brands/usbeketrica.md
+- _brands/thenextweb.md
+- _brands/cap-digital-publications.md
+- _brands/glamour.md
+- _brands/lyonmag.md
+hide_body: false
+fields:
+- name: title
+  default: ''
+  label: Nom
+  type: text
+  hidden: false
+  description: Nom du média
+- name: logo
+  default: img/medias/brand_acteurs_publics.png
+  label: Logo
+  type: file
+  hidden: false
+  description: Logo du média
+- name: link
+  default: ''
+  label: Lien url
+  type: textarea
+  hidden: false
+  description: Lien vers l'article, la page...
+- name: date
+  default: 2016-12-06 14:17:42 +0000
+  label: Date
+  type: datetime
+  hidden: true
+- name: layout
+  default: 
+  label: Layout
+  type: text
+  hidden: true
