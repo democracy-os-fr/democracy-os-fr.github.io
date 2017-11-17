@@ -69,7 +69,7 @@ fields:
   default: Les débuts de DemocracyOS France
   label: Description hero
   type: textarea
-  hidden: true
+  hidden: false
 - name: lang
   default: fr
   label: Lang
