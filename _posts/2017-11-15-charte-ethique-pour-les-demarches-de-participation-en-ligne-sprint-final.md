@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-hero: img/medias/Charte ethique ODN.jpg
+hero: img/medias/hackathon-18.png
 customclass: earlybird
 tags:
 - CivicTech
@@ -16,7 +16,7 @@ auteur: Caroline Corbal
 comments: true
 title: 'Charte éthique pour les démarches de participation en ligne : sprint final
   !'
-date: 2017-11-15 18:15:39 +0100
+date: 2017-11-15 17:15:39 +0000
 ---
 **Initiée par un collectif citoyen durant l'année 2016 et collectivement rédigée avec des acteurs publics et privés lors des hackathons** [**Open Democracy Now**](http://opendemocracynow.net/)**, la** [**Charte éthique « pour la confiance dans les démarches de participation numérique»**](http://opendemocracynow.net/charte) **est en phase finale de rédaction.**  
 
